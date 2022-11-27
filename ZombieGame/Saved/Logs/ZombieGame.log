@@ -5439,3 +5439,83 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-08.03.54:579][358]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.27-08.03.54:580][358]LogContentValidation: Display: Validating Skeleton /Game/_Main/Zombie/zombiegirl_Skeleton.zombiegirl_Skeleton
 [2022.11.27-08.03.54:580][358]LogContentValidation: Display: Validating BP_Zombie_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271
+[2022.11.27-08.14.43:829][653]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.27-08.14.59:817][653]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2022.11.27-08.14.59:826][653]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2022.11.27-08.14.59:831][653]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2022.11.27-08.14.59:844][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewPhysicalMaterial).
+[2022.11.27-08.15.03:671][884]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> HeadShot
+[2022.11.27-08.15.03:672][884]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2022.11.27-08.15.08:227][  2]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/_Main/Zombie/HeadShot.HeadShot
+[2022.11.27-08.15.10:804][125]LogSlate: Window 'HeadShot' being destroyed
+[2022.11.27-08.15.25:844][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/HeadShot" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/HeadShot.uasset" SILENT=true
+[2022.11.27-08.15.25:845][356]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/HeadShot
+[2022.11.27-08.15.25:845][356]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/HeadShotDD46167F46F851138D9CAB83EFD2A763.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/HeadShot.uasset'
+[2022.11.27-08.15.25:860][356]AssetCheck: New page: Asset Save: HeadShot
+[2022.11.27-08.15.25:860][356]LogContentValidation: Display: Validating PhysicalMaterial /Game/_Main/Zombie/HeadShot.HeadShot
+[2022.11.27-08.15.50:625][693]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-08.15.50:625][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.15.50:637][693]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-08.15.50:637][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.15.50:763][693]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-08.15.50:763][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.16.03:999][300]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2022.11.27-08.16.04:007][300]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2022.11.27-08.16.04:012][300]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2022.11.27-08.16.04:023][301]LogContentBrowser: Renaming the item being created (Deferred Item: NewPhysicalMaterial).
+[2022.11.27-08.16.09:117][607]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> BodyShot
+[2022.11.27-08.16.09:118][607]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2022.11.27-08.16.10:267][674]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/_Main/Zombie/BodyShot.BodyShot
+[2022.11.27-08.16.13:588][858]LogSlate: Window 'BodyShot' being destroyed
+[2022.11.27-08.16.16:541][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BodyShot" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BodyShot.uasset" SILENT=true
+[2022.11.27-08.16.16:542][ 31]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BodyShot
+[2022.11.27-08.16.16:542][ 31]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BodyShot3CED3CAF44D8B1A77DC1C1B838B78512.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BodyShot.uasset'
+[2022.11.27-08.16.16:563][ 31]AssetCheck: New page: Asset Save: BodyShot
+[2022.11.27-08.16.16:563][ 31]LogContentValidation: Display: Validating PhysicalMaterial /Game/_Main/Zombie/BodyShot.BodyShot
+[2022.11.27-08.16.51:031][574]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset
+[2022.11.27-08.16.51:070][574]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-08.16.51:085][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.16.52:654][574]LogViewport: Scene viewport resized to 1138x736, mode Windowed.
+[2022.11.27-08.16.55:262][640]LogViewport: Scene viewport resized to 1135x759, mode Windowed.
+[2022.11.27-08.16.55:296][641]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.11.27-08.16.55:462][644]LogViewport: Scene viewport resized to 1139x881, mode Windowed.
+[2022.11.27-08.16.55:585][646]LogViewport: Scene viewport resized to 467x279, mode Windowed.
+[2022.11.27-08.16.55:645][648]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2022.11.27-08.16.56:351][689]LogSlate: Window 'zombiegirl_PhysicsAsset' being destroyed
+[2022.11.27-08.18.42:748][295]Cmd: TRANSACTION UNDO
+[2022.11.27-08.18.42:749][295]LogEditorTransaction: Undo Move Element
+[2022.11.27-08.18.42:842][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.19.17:060][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_PhysicsAsset" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset" SILENT=true
+[2022.11.27-08.19.17:067][640]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_PhysicsAsset
+[2022.11.27-08.19.17:067][640]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/zombiegirl_PhysicsAsset45C31E324B65F1314FB25B8690DE8C22.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset'
+[2022.11.27-08.19.17:088][640]AssetCheck: New page: Asset Save: zombiegirl_PhysicsAsset
+[2022.11.27-08.19.17:088][640]LogContentValidation: Display: Validating PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset
+[2022.11.27-08.20.12:486][341]LogDerivedDataCache: C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.014 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-08.25.51:396][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.11.27-08.25.51:405][ 39]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.154
+[2022.11.27-08.25.51:405][ 39]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/Zombie/zombiegirl_PhysicsAsset] ([1] browsable assets)...
+[2022.11.27-08.25.51:405][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/zombiegirl_PhysicsAsset]
+[2022.11.27-08.25.51:412][ 39]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/zombiegirl_PhysicsAsset_Auto9
+[2022.11.27-08.25.51:412][ 39]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/zombiegirl_PhysicsAsset_Auto9FB0824CF4119DE2B52A8D98A5F872A33.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_PhysicsAsset_Auto9.uasset'
+[2022.11.27-08.25.51:412][ 39]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.11.27-08.27.43:638][803]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.27.43:788][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.27-08.27.57:435][ 98]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.27.57:532][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.27-08.28.34:349][918]LogEditorTransaction: Undo Move Nodes
+[2022.11.27-08.28.34:480][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.29.19:446][232]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.29.19:542][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.27-08.29.25:149][349]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.29.25:244][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.27-08.29.25:890][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.11.27-08.29.25:923][375]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.11.27-08.29.25:924][375]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter6BFC056542F13A5E36D872A5D7DFEABD.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.27-08.29.25:940][375]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.27-08.29.25:940][375]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.27-08.30.11:100][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.27-08.30.11:166][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_PhysicsAsset" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset" SILENT=true
+[2022.11.27-08.30.11:172][657]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_PhysicsAsset
+[2022.11.27-08.30.11:173][657]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/zombiegirl_PhysicsAsset1B74D7214BC3E3184810F4BA9AFCB439.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_PhysicsAsset.uasset'
+[2022.11.27-08.30.11:188][657]AssetCheck: New page: Asset Save: zombiegirl_PhysicsAsset
+[2022.11.27-08.30.11:188][657]LogContentValidation: Display: Validating PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset
