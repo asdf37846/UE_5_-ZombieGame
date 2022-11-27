@@ -4390,3 +4390,1052 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-07.40.08:303][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
 [2022.11.27-07.40.08:337][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_69
 [2022.11.27-07.40.47:810][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.27-07.41.39:399][962]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.41.39:400][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.41.39:408][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.41.39:416][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-07.41.39:944][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.41.40:100][962]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2022.11.27-07.41.40:152][962]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.27-07.41.56:672][110]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2022.11.27-07.42.10:430][729]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.42.10:502][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.27-07.42.10:825][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.42.10:839][742]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.42.10:840][742]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBPD647C08E499DAB3010B97E8105ED63F2.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.42.10:856][742]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.42.10:856][742]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.45.05:687][683]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.45.05:759][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.27-07.45.06:061][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.45.06:076][693]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.45.06:076][693]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP13969FC341255627EB4A2E9EEFC6AFF6.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.45.06:091][693]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.45.06:092][693]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.45.52:616][382]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.45.52:616][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.45.52:623][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-07.45.52:819][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.45.52:973][382]LogViewport: Scene viewport resized to 1138x591, mode Windowed.
+[2022.11.27-07.45.56:777][531]LogViewport: Scene viewport resized to 1135x608, mode Windowed.
+[2022.11.27-07.45.56:895][533]LogViewport: Scene viewport resized to 505x224, mode Windowed.
+[2022.11.27-07.45.56:938][534]LogViewport: Scene viewport resized to 467x201, mode Windowed.
+[2022.11.27-07.45.57:276][553]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2022.11.27-07.45.57:566][570]LogSlate: Window 'Zombie_Reaction_Hit_mixamo_com_Montage' being destroyed
+[2022.11.27-07.46.06:446][780]LogViewport: Scene viewport resized to 757x444, mode Windowed.
+[2022.11.27-07.46.08:003][869]LogViewport: Scene viewport resized to 1141x685, mode Windowed.
+[2022.11.27-07.46.25:883][646]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.11.27-07.46.28:124][766]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.11.27-07.46.30:619][896]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-07.46.30:624][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.46.33:446][ 33]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.46.33:446][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.47.58:788][598]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.47.58:863][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.27-07.47.59:371][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.47.59:386][621]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.47.59:386][621]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP3CC5252B4F84A03F0FED2B9DADDABABE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.47.59:401][621]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.47.59:401][621]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.48.21:750][563]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.48.21:819][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.27-07.48.22:839][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.48.22:853][617]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.48.22:854][617]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP2635FE604DEDD561F30599903DDBBB22.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.48.22:869][617]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.48.22:869][617]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.48.30:435][819]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.48.30:506][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.27-07.48.30:884][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.48.30:902][836]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.48.30:902][836]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBPBA53DCC8481DEC9BDE5CD989E3530AB9.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.48.30:916][836]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.48.30:917][836]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.48.58:055][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.27-07.48.58:059][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.049
+[2022.11.27-07.48.58:059][375]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Zombie/Animations/ZombieAnimBP] ([2] browsable assets)...
+[2022.11.27-07.48.58:072][375]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP]
+[2022.11.27-07.48.58:072][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/Animations/ZombieAnimBP]
+[2022.11.27-07.48.58:090][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/Animations/ZombieAnimBP_Auto7
+[2022.11.27-07.48.58:090][375]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP_Auto713B53211477FDEA043B92FB50F44293E.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Zombie/Animations/ZombieAnimBP_Auto7.uasset'
+[2022.11.27-07.48.58:091][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Main/Zombie/zombiegirl_Skeleton] ([1] browsable assets)...
+[2022.11.27-07.48.58:100][375]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/_Main/Zombie/zombiegirl_Skeleton.zombiegirl_Skeleton]
+[2022.11.27-07.48.58:100][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Zombie/zombiegirl_Skeleton]
+[2022.11.27-07.48.58:103][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Zombie/zombiegirl_Skeleton_Auto7
+[2022.11.27-07.48.58:103][375]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/zombiegirl_Skeleton_Auto71CA0330F426B3B4269D269B7F900ACD5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Zombie/zombiegirl_Skeleton_Auto7.uasset'
+[2022.11.27-07.48.58:104][375]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.11.27-07.49.59:646][287]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.49.59:715][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.27-07.50.00:227][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.50.00:243][308]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.50.00:244][308]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP44C8C5A94DFE42CC6B583E9585B4480D.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.50.00:258][308]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.50.00:258][308]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.50.13:460][636]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.50.13:530][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.27-07.50.13:977][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.50.13:997][655]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.50.13:998][655]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP4E1051D043088905DF900EBFC2283556.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.50.14:014][655]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.50.14:014][655]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.51.29:242][452]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.51.29:314][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.27-07.51.29:706][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.51.29:728][467]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.51.29:729][467]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP7430E4D646957A1E0F435E9B65EECDCE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.51.29:744][467]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.51.29:744][467]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.52.00:670][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.52.00:677][827]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2022.11.27-07.52.00:678][827]LogWorldPartition: Display: GenerateStreaming took 364 us
+[2022.11.27-07.52.00:678][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.52.00:678][827]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:52:00)
+[2022.11.27-07.52.00:715][827]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.52.00:722][827]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.52.00:722][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006700s)
+[2022.11.27-07.52.00:722][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006794s)
+[2022.11.27-07.52.00:722][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.52.00:722][827]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.52.00:723][827]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.52.00:723][827]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.52.00:724][827]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.52.00:724][827]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2022.11.27-07.52.00:768][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.27-07.52.00:771][827]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.52.00:771][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.52.00:771][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.52.00:771][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.52.00:771][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.52.00:771][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.52.00:773][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.52.00:827][827]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.52.00:827][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.52.00:827][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.52.00:827][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.52.00:827][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2022.11.27-07.52.00:827][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2022.11.27-07.52.00:828][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2022.11.27-07.52.00:829][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2022.11.27-07.52.00:829][827]LogInit: FAudioDevice initialized.
+[2022.11.27-07.52.00:829][827]LogAudio: Display: Audio Device (ID: 45) registered with world 'FirstPersonMap'.
+[2022.11.27-07.52.00:842][827]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.52.00:845][827]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.52.00
+[2022.11.27-07.52.00:845][827]LogWorld: Bringing up level for play took: 0.002581
+[2022.11.27-07.52.00:847][827]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2022.11.27-07.52.00:849][827]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.52.00:849][827]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.52.00:850][827]PIE: Server logged in
+[2022.11.27-07.52.00:850][827]PIE: Play in editor total start time 0.175 seconds.
+[2022.11.27-07.52.03:062][959]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.52.05:345][ 96]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.52.07:466][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.52.07:466][222]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.52.07:466][222]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.52.07:466][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.52.07:492][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.52.07:499][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.52.07:542][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-07.52.07:543][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.11.27-07.52.07:544][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.11.27-07.52.07:547][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.52.07:550][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.27-07.52.07:585][223]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2022.11.27-07.53.15:665][244]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.53.15:733][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.27-07.53.16:264][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.53.16:285][268]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.53.16:285][268]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP6977C95E4A04C66699D1D2AB7B634A5A.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.53.16:300][268]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.53.16:300][268]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.53.17:595][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.27-07.53.17:604][345]LogWorldPartition: Display: GenerateStreaming took 342 us
+[2022.11.27-07.53.17:604][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.53.17:604][345]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:53:17)
+[2022.11.27-07.53.17:633][345]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.53.17:640][345]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.53.17:640][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006897s)
+[2022.11.27-07.53.17:640][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006987s)
+[2022.11.27-07.53.17:640][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.53.17:640][345]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.53.17:641][345]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.53.17:641][345]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.53.17:642][345]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.53.17:642][345]LogPlayLevel: PIE: World Init took: (0.002556s)
+[2022.11.27-07.53.17:686][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.27-07.53.17:689][345]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.53.17:689][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.53.17:689][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.53.17:690][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.53.17:690][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.53.17:690][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.53.17:692][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.53.17:742][345]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.53.17:742][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.53.17:742][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.53.17:742][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.53.17:743][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2022.11.27-07.53.17:743][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2022.11.27-07.53.17:746][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2022.11.27-07.53.17:746][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2022.11.27-07.53.17:746][345]LogInit: FAudioDevice initialized.
+[2022.11.27-07.53.17:746][345]LogAudio: Display: Audio Device (ID: 46) registered with world 'FirstPersonMap'.
+[2022.11.27-07.53.17:759][345]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.53.17:762][345]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.53.17
+[2022.11.27-07.53.17:763][345]LogWorld: Bringing up level for play took: 0.003605
+[2022.11.27-07.53.17:765][345]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2022.11.27-07.53.17:767][345]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.53.17:767][345]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.53.17:768][345]PIE: Server logged in
+[2022.11.27-07.53.17:769][345]PIE: Play in editor total start time 0.167 seconds.
+[2022.11.27-07.53.20:220][491]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.53.23:086][663]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.53.24:754][763]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-07.53.26:271][854]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-07.53.26:920][893]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-07.53.29:904][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.53.29:904][ 70]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.53.29:904][ 70]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.53.29:905][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.53.29:920][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.53.29:928][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.53.29:970][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.53.29:971][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.11.27-07.53.29:973][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.11.27-07.53.29:979][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.27-07.53.30:012][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2022.11.27-07.53.33:235][261]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.53.33:259][261]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2022.11.27-07.53.39:549][554]LogSlate: Window 'Create New Animation Object' being destroyed
+[2022.11.27-07.54.00:734][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.54.00:756][815]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.54.00:756][815]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP7654AD5443CBA428EF7EF197449EA73B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.54.00:771][815]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.54.00:771][815]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.54.02:082][892]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.54.02:151][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.27-07.54.02:794][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.54.02:815][921]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.54.02:815][921]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP94707F10488C80BB8BD5668DFA1D9DAC.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.54.02:830][921]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.54.02:830][921]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.54.28:763][265]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.54.28:763][265]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Zombie_Reaction_Hit_mixamo_com_MC1C893324169D9944F89E4ACD75AC604.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.uasset'
+[2022.11.27-07.54.28:778][265]AssetCheck: New page: Asset Save: Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.54.28:778][265]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.54.30:543][364]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.11.27-07.54.30:550][364]LogWorldPartition: Display: GenerateStreaming took 314 us
+[2022.11.27-07.54.30:550][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.54.30:551][364]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:54:30)
+[2022.11.27-07.54.30:580][364]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.54.30:586][364]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.54.30:587][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006160s)
+[2022.11.27-07.54.30:587][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006242s)
+[2022.11.27-07.54.30:587][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.54.30:588][364]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.54.30:588][364]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.54.30:588][364]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.54.30:589][364]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.54.30:589][364]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2022.11.27-07.54.30:635][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.27-07.54.30:638][364]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.54.30:639][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.54.30:639][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.54.30:639][364]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.54.30:639][364]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.54.30:639][364]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.54.30:641][364]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.54.30:691][364]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.54.30:692][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.54.30:692][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.54.30:692][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.54.30:693][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2022.11.27-07.54.30:693][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2022.11.27-07.54.30:694][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2022.11.27-07.54.30:694][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2022.11.27-07.54.30:694][364]LogInit: FAudioDevice initialized.
+[2022.11.27-07.54.30:694][364]LogAudio: Display: Audio Device (ID: 47) registered with world 'FirstPersonMap'.
+[2022.11.27-07.54.30:704][364]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.54.30:707][364]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.54.30
+[2022.11.27-07.54.30:707][364]LogWorld: Bringing up level for play took: 0.002985
+[2022.11.27-07.54.30:710][364]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2022.11.27-07.54.30:711][364]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.54.30:711][364]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.54.30:712][364]PIE: Server logged in
+[2022.11.27-07.54.30:713][364]PIE: Play in editor total start time 0.164 seconds.
+[2022.11.27-07.54.32:812][489]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.54.34:596][596]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.54.35:622][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.54.35:622][656]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.54.35:622][656]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.54.35:622][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.54.35:636][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.54.35:643][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.54.35:687][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.54.35:688][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2022.11.27-07.54.35:689][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2022.11.27-07.54.35:695][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.27-07.54.35:731][657]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.11.27-07.54.40:213][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.54.40:235][924]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.54.40:235][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.54.40:251][924]LogViewport: Scene viewport resized to 315x240, mode Windowed.
+[2022.11.27-07.54.49:807][493]BlueprintLog: New page: Compile ZombieAnimBP
+[2022.11.27-07.54.49:879][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.27-07.54.50:292][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/Animations/ZombieAnimBP" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset" SILENT=true
+[2022.11.27-07.54.50:314][510]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/ZombieAnimBP
+[2022.11.27-07.54.50:314][510]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieAnimBP5E52496E484D3CA79EE25497E683A9C7.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset'
+[2022.11.27-07.54.50:333][510]AssetCheck: New page: Asset Save: ZombieAnimBP
+[2022.11.27-07.54.50:333][510]LogContentValidation: Display: Validating AnimBlueprint /Game/_Main/Zombie/Animations/ZombieAnimBP.ZombieAnimBP
+[2022.11.27-07.55.02:927][250]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.55.02:927][250]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Zombie_Reaction_Hit_mixamo_com_M1D5F4E494165731EF841A49EFEE6E91D.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.uasset'
+[2022.11.27-07.55.02:945][250]AssetCheck: New page: Asset Save: Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.55.02:945][250]LogContentValidation: Display: Validating AnimMontage /Game/_Main/Zombie/Animations/Zombie_Reaction_Hit_mixamo_com_Montage.Zombie_Reaction_Hit_mixamo_com_Montage
+[2022.11.27-07.55.04:124][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2022.11.27-07.55.04:132][321]LogWorldPartition: Display: GenerateStreaming took 454 us
+[2022.11.27-07.55.04:133][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.55.04:133][321]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:55:04)
+[2022.11.27-07.55.04:133][321]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.04:139][321]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.55.04:139][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006298s)
+[2022.11.27-07.55.04:139][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006348s)
+[2022.11.27-07.55.04:139][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.55.04:140][321]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.55.04:140][321]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.55.04:140][321]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.55.04:141][321]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.55.04:142][321]LogPlayLevel: PIE: World Init took: (0.002308s)
+[2022.11.27-07.55.04:184][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.27-07.55.04:187][321]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.55.04:187][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.55.04:187][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.55.04:188][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.55.04:188][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.55.04:188][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.55.04:190][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.55.04:240][321]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.55.04:240][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.55.04:240][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.55.04:240][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.55.04:241][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2022.11.27-07.55.04:241][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2022.11.27-07.55.04:243][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2022.11.27-07.55.04:243][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2022.11.27-07.55.04:243][321]LogInit: FAudioDevice initialized.
+[2022.11.27-07.55.04:243][321]LogAudio: Display: Audio Device (ID: 48) registered with world 'FirstPersonMap'.
+[2022.11.27-07.55.04:255][321]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.55.04:258][321]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.55.04
+[2022.11.27-07.55.04:258][321]LogWorld: Bringing up level for play took: 0.002807
+[2022.11.27-07.55.04:260][321]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2022.11.27-07.55.04:262][321]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.55.04:262][321]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.04:262][321]PIE: Server logged in
+[2022.11.27-07.55.04:263][321]PIE: Play in editor total start time 0.133 seconds.
+[2022.11.27-07.55.07:061][488]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.55.08:377][567]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.55.09:178][615]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-07.55.09:695][646]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-07.55.10:078][669]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-07.55.13:344][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.13:344][863]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.13:344][863]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.55.13:345][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.13:359][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.55.13:366][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.13:410][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-07.55.13:410][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2022.11.27-07.55.13:412][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2022.11.27-07.55.13:414][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.13:418][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.27-07.55.13:451][864]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2022.11.27-07.55.14:323][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.55.14:330][916]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.11.27-07.55.14:331][916]LogWorldPartition: Display: GenerateStreaming took 328 us
+[2022.11.27-07.55.14:331][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.55.14:331][916]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:55:14)
+[2022.11.27-07.55.14:331][916]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.14:337][916]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.55.14:337][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006097s)
+[2022.11.27-07.55.14:337][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006144s)
+[2022.11.27-07.55.14:337][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.55.14:337][916]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.55.14:338][916]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.55.14:338][916]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.55.14:339][916]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.55.14:339][916]LogPlayLevel: PIE: World Init took: (0.002302s)
+[2022.11.27-07.55.14:381][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.27-07.55.14:382][916]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.55.14:382][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.55.14:382][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.55.14:383][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.55.14:383][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.55.14:383][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.55.14:384][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.55.14:434][916]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.55.14:434][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.55.14:435][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.55.14:435][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.55.14:435][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2022.11.27-07.55.14:435][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2022.11.27-07.55.14:437][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2022.11.27-07.55.14:437][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2022.11.27-07.55.14:437][916]LogInit: FAudioDevice initialized.
+[2022.11.27-07.55.14:437][916]LogAudio: Display: Audio Device (ID: 49) registered with world 'FirstPersonMap'.
+[2022.11.27-07.55.14:447][916]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.55.14:449][916]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.55.14
+[2022.11.27-07.55.14:450][916]LogWorld: Bringing up level for play took: 0.002781
+[2022.11.27-07.55.14:452][916]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2022.11.27-07.55.14:453][916]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.55.14:453][916]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.14:454][916]PIE: Server logged in
+[2022.11.27-07.55.14:455][916]PIE: Play in editor total start time 0.126 seconds.
+[2022.11.27-07.55.24:486][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.24:486][515]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.24:486][515]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.55.24:487][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.24:497][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.55.24:504][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.24:547][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.24:547][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.11.27-07.55.24:549][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2022.11.27-07.55.24:555][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.27-07.55.24:588][516]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.11.27-07.55.35:072][140]BlueprintLog: New page: Compile BP_Zombie
+[2022.11.27-07.55.35:154][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.27-07.55.35:525][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.11.27-07.55.35:540][154]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.11.27-07.55.35:541][154]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_ZombieB8A4F1B247E0025281AE6A9900C93058.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.11.27-07.55.35:558][154]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.11.27-07.55.35:558][154]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.27-07.55.36:606][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.55.36:613][217]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Display: GetPartitionedActors took 60 us
+[2022.11.27-07.55.36:614][217]LogWorldPartition: Display: GenerateStreaming took 434 us
+[2022.11.27-07.55.36:614][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.55.36:614][217]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:55:36)
+[2022.11.27-07.55.36:614][217]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.36:621][217]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.55.36:621][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006628s)
+[2022.11.27-07.55.36:621][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006685s)
+[2022.11.27-07.55.36:621][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.55.36:621][217]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.55.36:622][217]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.55.36:622][217]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.55.36:623][217]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.55.36:623][217]LogPlayLevel: PIE: World Init took: (0.002330s)
+[2022.11.27-07.55.36:665][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.27-07.55.36:669][217]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.55.36:669][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.55.36:669][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.55.36:669][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.55.36:669][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.55.36:669][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.55.36:671][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.55.36:721][217]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.55.36:722][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.55.36:722][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.55.36:722][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.55.36:723][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2022.11.27-07.55.36:723][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2022.11.27-07.55.36:724][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2022.11.27-07.55.36:724][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2022.11.27-07.55.36:724][217]LogInit: FAudioDevice initialized.
+[2022.11.27-07.55.36:724][217]LogAudio: Display: Audio Device (ID: 50) registered with world 'FirstPersonMap'.
+[2022.11.27-07.55.36:731][217]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.55.36:734][217]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.55.36
+[2022.11.27-07.55.36:734][217]LogWorld: Bringing up level for play took: 0.002974
+[2022.11.27-07.55.36:737][217]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2022.11.27-07.55.36:739][217]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.55.36:739][217]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.36:739][217]PIE: Server logged in
+[2022.11.27-07.55.36:739][217]PIE: Play in editor total start time 0.128 seconds.
+[2022.11.27-07.55.41:772][518]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.55.42:339][552]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.55.43:288][609]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-07.55.46:689][813]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-07.55.48:102][896]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-07.55.49:288][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.49:288][965]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.49:288][965]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.55.49:289][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.49:312][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.55.49:319][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.55.49:363][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-07.55.49:363][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.11.27-07.55.49:365][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2022.11.27-07.55.49:367][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.55.49:371][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.27-07.55.49:406][966]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2022.11.27-07.55.50:470][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: GetPartitionedActors took 45 us
+[2022.11.27-07.55.50:477][ 29]LogWorldPartition: Display: GenerateStreaming took 316 us
+[2022.11.27-07.55.50:477][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.55.50:477][ 29]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:55:50)
+[2022.11.27-07.55.50:478][ 29]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.55.50:485][ 29]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.55.50:485][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006541s)
+[2022.11.27-07.55.50:485][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006617s)
+[2022.11.27-07.55.50:485][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.55.50:485][ 29]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.55.50:485][ 29]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.55.50:485][ 29]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.55.50:487][ 29]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.55.50:487][ 29]LogPlayLevel: PIE: World Init took: (0.002498s)
+[2022.11.27-07.55.50:529][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.27-07.55.50:531][ 29]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.55.50:531][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.55.50:531][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.55.50:531][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.55.50:531][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.55.50:531][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.55.50:534][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.55.50:582][ 29]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.55.50:583][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.55.50:583][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.55.50:583][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.55.50:583][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2022.11.27-07.55.50:583][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2022.11.27-07.55.50:585][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2022.11.27-07.55.50:585][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2022.11.27-07.55.50:585][ 29]LogInit: FAudioDevice initialized.
+[2022.11.27-07.55.50:585][ 29]LogAudio: Display: Audio Device (ID: 51) registered with world 'FirstPersonMap'.
+[2022.11.27-07.55.50:598][ 29]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.55.50:600][ 29]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.55.50
+[2022.11.27-07.55.50:601][ 29]LogWorld: Bringing up level for play took: 0.002826
+[2022.11.27-07.55.50:603][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2022.11.27-07.55.50:604][ 29]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.55.50:604][ 29]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.55.50:605][ 29]PIE: Server logged in
+[2022.11.27-07.55.50:607][ 29]PIE: Play in editor total start time 0.13 seconds.
+[2022.11.27-07.56.02:704][754]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.56.05:088][897]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.56.08:504][102]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-07.56.09:955][189]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-07.56.11:438][278]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-07.56.12:660][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.56.12:660][350]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.56.12:661][350]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.56.12:661][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.56.12:675][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.56.12:682][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.56.12:726][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.56.12:726][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.11.27-07.56.12:728][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.11.27-07.56.12:734][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.27-07.56.12:767][351]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.11.27-07.59.13:940][577]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-07.59.14:045][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.27-07.59.15:659][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.11.27-07.59.15:697][656]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.11.27-07.59.15:698][656]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter058565C44B283D043F46B988AAD6D011.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.27-07.59.15:715][656]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.27-07.59.15:715][656]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.27-07.59.16:938][728]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.59.16:945][728]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.11.27-07.59.16:946][728]LogWorldPartition: Display: GenerateStreaming took 335 us
+[2022.11.27-07.59.16:946][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.59.16:946][728]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:59:16)
+[2022.11.27-07.59.16:946][728]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.59.16:953][728]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.59.16:953][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006243s)
+[2022.11.27-07.59.16:953][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006342s)
+[2022.11.27-07.59.16:954][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.59.16:954][728]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.59.16:954][728]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.59.16:954][728]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.59.16:956][728]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.59.16:956][728]LogPlayLevel: PIE: World Init took: (0.002368s)
+[2022.11.27-07.59.16:999][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.27-07.59.17:004][728]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.59.17:004][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.59.17:004][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.59.17:004][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.59.17:004][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.59.17:004][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.59.17:006][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.59.17:067][728]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.59.17:068][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.59.17:068][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.59.17:068][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.59.17:068][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2022.11.27-07.59.17:068][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2022.11.27-07.59.17:070][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2022.11.27-07.59.17:070][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2022.11.27-07.59.17:070][728]LogInit: FAudioDevice initialized.
+[2022.11.27-07.59.17:070][728]LogAudio: Display: Audio Device (ID: 52) registered with world 'FirstPersonMap'.
+[2022.11.27-07.59.17:083][728]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.59.17:086][728]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.59.17
+[2022.11.27-07.59.17:086][728]LogWorld: Bringing up level for play took: 0.003330
+[2022.11.27-07.59.17:088][728]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2022.11.27-07.59.17:090][728]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.59.17:090][728]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.59.17:091][728]PIE: Server logged in
+[2022.11.27-07.59.17:092][728]PIE: Play in editor total start time 0.147 seconds.
+[2022.11.27-07.59.20:442][928]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-07.59.21:393][985]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-07.59.23:375][104]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-07.59.24:126][149]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-07.59.24:776][188]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-07.59.25:759][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.59.25:759][245]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.59.25:760][245]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.59.25:760][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.25:773][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.59.25:780][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.25:825][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-07.59.25:826][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.11.27-07.59.25:828][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.11.27-07.59.25:830][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.59.25:833][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.27-07.59.25:867][246]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.11.27-07.59.28:450][393]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.59.28:451][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.28:547][393]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.59.28:547][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.28:563][393]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.59.28:563][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.38:087][957]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-07.59.38:192][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.27-07.59.40:024][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-07.59.40:032][ 60]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.11.27-07.59.40:033][ 60]LogWorldPartition: Display: GenerateStreaming took 379 us
+[2022.11.27-07.59.40:033][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-07.59.40:033][ 60]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 1:59:40)
+[2022.11.27-07.59.40:033][ 60]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.59.40:039][ 60]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-07.59.40:039][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006583s)
+[2022.11.27-07.59.40:039][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006639s)
+[2022.11.27-07.59.40:039][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-07.59.40:040][ 60]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-07.59.40:040][ 60]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-07.59.40:040][ 60]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-07.59.40:041][ 60]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-07.59.40:041][ 60]LogPlayLevel: PIE: World Init took: (0.002197s)
+[2022.11.27-07.59.40:086][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.27-07.59.40:091][ 60]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-07.59.40:091][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-07.59.40:091][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-07.59.40:092][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-07.59.40:092][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-07.59.40:092][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-07.59.40:094][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-07.59.40:144][ 60]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-07.59.40:144][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-07.59.40:144][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-07.59.40:144][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-07.59.40:145][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2022.11.27-07.59.40:145][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2022.11.27-07.59.40:146][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2022.11.27-07.59.40:146][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2022.11.27-07.59.40:146][ 60]LogInit: FAudioDevice initialized.
+[2022.11.27-07.59.40:146][ 60]LogAudio: Display: Audio Device (ID: 53) registered with world 'FirstPersonMap'.
+[2022.11.27-07.59.40:154][ 60]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-07.59.40:156][ 60]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-16.59.40
+[2022.11.27-07.59.40:157][ 60]LogWorld: Bringing up level for play took: 0.002772
+[2022.11.27-07.59.40:159][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2022.11.27-07.59.40:161][ 60]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-07.59.40:161][ 60]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-07.59.40:161][ 60]PIE: Server logged in
+[2022.11.27-07.59.40:162][ 60]PIE: Play in editor total start time 0.131 seconds.
+[2022.11.27-07.59.43:051][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.59.43:051][230]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-07.59.43:051][230]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-07.59.43:052][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.43:077][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-07.59.43:084][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-07.59.43:126][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-07.59.43:127][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.11.27-07.59.43:128][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.11.27-07.59.43:131][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-07.59.43:135][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.27-07.59.43:169][231]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.11.27-08.00.23:263][621]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.27-08.01.01:167][542]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.01.01:184][542]LogBlueprint: Error: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\_Main\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.11.27-08.01.01:265][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.27-08.01.07:568][907]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.01.07:584][907]LogBlueprint: Error: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\_Main\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.11.27-08.01.07:672][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.27-08.01.07:976][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.11.27-08.01.08:006][913]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.11.27-08.01.08:007][913]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterDB2FA1564738CC172C803AB535BF7F1E.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.27-08.01.08:022][913]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.27-08.01.08:023][913]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.27-08.01.10:820][ 78]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.27-08.01.12:966][195]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.01.13:068][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.27-08.01.13:794][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.11.27-08.01.13:826][228]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.11.27-08.01.13:826][228]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterF078071F4AC0EEC31475BDB087272DFE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.27-08.01.13:842][228]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.27-08.01.13:842][228]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.27-08.01.15:434][324]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-08.01.15:441][324]LogWorldPartition: Display: GetPartitionedActors took 43 us
+[2022.11.27-08.01.15:442][324]LogWorldPartition: Display: GenerateStreaming took 358 us
+[2022.11.27-08.01.15:442][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-08.01.15:442][324]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 2:01:15)
+[2022.11.27-08.01.15:480][324]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-08.01.15:486][324]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-08.01.15:486][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006163s)
+[2022.11.27-08.01.15:486][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006248s)
+[2022.11.27-08.01.15:486][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-08.01.15:486][324]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-08.01.15:486][324]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-08.01.15:486][324]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-08.01.15:488][324]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-08.01.15:488][324]LogPlayLevel: PIE: World Init took: (0.002294s)
+[2022.11.27-08.01.15:531][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.27-08.01.15:536][324]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-08.01.15:536][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-08.01.15:536][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-08.01.15:537][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-08.01.15:537][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-08.01.15:537][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-08.01.15:539][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-08.01.15:589][324]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-08.01.15:589][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-08.01.15:589][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-08.01.15:589][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-08.01.15:589][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2022.11.27-08.01.15:589][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2022.11.27-08.01.15:591][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2022.11.27-08.01.15:591][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2022.11.27-08.01.15:591][324]LogInit: FAudioDevice initialized.
+[2022.11.27-08.01.15:591][324]LogAudio: Display: Audio Device (ID: 54) registered with world 'FirstPersonMap'.
+[2022.11.27-08.01.15:601][324]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-08.01.15:603][324]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-17.01.15
+[2022.11.27-08.01.15:604][324]LogWorld: Bringing up level for play took: 0.002875
+[2022.11.27-08.01.15:606][324]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2022.11.27-08.01.15:608][324]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-08.01.15:608][324]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-08.01.15:609][324]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0094
+[2022.11.27-08.01.15:609][324]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2022.11.27-08.01.15:609][324]PIE: Server logged in
+[2022.11.27-08.01.15:610][324]PIE: Play in editor total start time 0.169 seconds.
+[2022.11.27-08.01.17:580][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-08.01.17:580][440]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-08.01.17:580][440]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-08.01.17:580][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.01.17:593][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-08.01.17:601][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.01.17:644][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-08.01.17:644][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2022.11.27-08.01.17:646][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2022.11.27-08.01.17:652][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.27-08.01.17:803][441]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.11.27-08.01.18:933][498]LogSlate: Window 'Message Log' being destroyed
+[2022.11.27-08.01.18:942][498]LogSlate: Window 'Message Log' being destroyed
+[2022.11.27-08.01.21:346][640]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.21:346][640]LogEditorTransaction: Undo Change Class Pin Value
+[2022.11.27-08.01.21:480][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.21:866][644]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.21:866][644]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.21:986][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.22:419][661]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.22:419][661]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.22:547][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.22:993][680]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.22:993][680]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.23:110][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.23:524][697]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.23:524][697]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.23:646][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.24:060][714]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.24:060][714]LogEditorTransaction: Undo Change Class Pin Value
+[2022.11.27-08.01.24:181][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.24:664][735]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.24:664][735]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.24:783][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.25:198][752]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.25:198][752]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.25:318][752]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.25:749][770]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.25:749][770]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.25:869][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.26:333][790]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.26:333][790]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.27-08.01.26:451][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.26:947][812]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.26:947][812]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.27:065][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.27:545][833]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.27:545][833]LogEditorTransaction: Undo Move Nodes
+[2022.11.27-08.01.27:665][833]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.28:144][854]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.28:144][854]LogEditorTransaction: Undo Break Pin Links
+[2022.11.27-08.01.28:264][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.28:743][875]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.28:743][875]LogEditorTransaction: Undo Break Pin Links
+[2022.11.27-08.01.28:862][875]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.29:310][894]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.29:310][894]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.29:428][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.29:875][913]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.29:875][913]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.29:994][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.30:494][935]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.30:494][935]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.30:618][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.31:089][955]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.31:089][955]LogEditorTransaction: Undo Add Node
+[2022.11.27-08.01.31:207][955]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.31:711][977]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.31:711][977]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.31:830][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.32:478][  8]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.32:478][  8]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.32:595][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.33:193][ 36]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.33:193][ 36]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.33:311][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.33:741][ 54]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.33:741][ 54]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.33:860][ 54]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.34:340][ 75]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.34:340][ 75]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.34:457][ 75]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.34:970][ 98]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.34:970][ 98]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.35:087][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.35:553][118]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.35:553][118]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.35:671][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.36:084][135]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.36:084][135]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.36:205][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.36:604][151]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.36:604][151]LogEditorTransaction: Undo Resize Node
+[2022.11.27-08.01.36:721][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.37:173][170]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.37:173][170]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.37:292][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.37:774][191]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.37:775][191]LogEditorTransaction: Undo Break Pin Links
+[2022.11.27-08.01.37:897][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.38:312][208]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.38:312][208]LogEditorTransaction: Undo Change Bool Pin Value
+[2022.11.27-08.01.38:431][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.38:910][229]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.38:910][229]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.39:028][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.39:507][250]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.39:507][250]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.39:626][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.40:042][267]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.40:042][267]LogEditorTransaction: Undo Create Pin Link
+[2022.11.27-08.01.40:162][267]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.40:592][285]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.40:592][285]LogEditorTransaction: Undo Move Node
+[2022.11.27-08.01.40:712][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.41:160][304]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.41:160][304]LogEditorTransaction: Undo Add Node
+[2022.11.27-08.01.41:281][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.42:428][365]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.42:428][365]LogEditorTransaction: Undo Move Nodes
+[2022.11.27-08.01.42:546][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.43:028][386]Cmd: TRANSACTION UNDO
+[2022.11.27-08.01.43:028][386]LogEditorTransaction: Undo Resize Node
+[2022.11.27-08.01.43:146][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.27-08.01.45:681][528]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.11.27-08.01.45:813][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.27-08.01.46:272][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.11.27-08.01.46:303][544]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.11.27-08.01.46:304][544]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterEDDC154D46F54CA45DEEBDB5B4053766.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.11.27-08.01.46:319][544]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.11.27-08.01.46:319][544]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.11.27-08.01.47:562][619]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: GenerateStreaming started...
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2022.11.27-08.01.47:570][619]LogWorldPartition: Display: GenerateStreaming took 361 us
+[2022.11.27-08.01.47:571][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-08.01.47:571][619]PIE: New page: PIE session: FirstPersonMap (2022. 11. 28. 오전 2:01:47)
+[2022.11.27-08.01.47:592][619]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-08.01.47:599][619]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.11.27-08.01.47:599][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006138s)
+[2022.11.27-08.01.47:599][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006218s)
+[2022.11.27-08.01.47:599][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-08.01.47:600][619]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.27-08.01.47:600][619]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.27-08.01.47:600][619]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.11.27-08.01.47:601][619]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.11.27-08.01.47:601][619]LogPlayLevel: PIE: World Init took: (0.002223s)
+[2022.11.27-08.01.47:644][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.27-08.01.47:649][619]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-08.01.47:649][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.27-08.01.47:649][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-08.01.47:649][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.27-08.01.47:649][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.27-08.01.47:649][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-08.01.47:652][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-08.01.47:701][619]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.27-08.01.47:702][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-08.01.47:702][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-08.01.47:702][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-08.01.47:703][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2022.11.27-08.01.47:703][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2022.11.27-08.01.47:705][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2022.11.27-08.01.47:705][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2022.11.27-08.01.47:705][619]LogInit: FAudioDevice initialized.
+[2022.11.27-08.01.47:705][619]LogAudio: Display: Audio Device (ID: 55) registered with world 'FirstPersonMap'.
+[2022.11.27-08.01.47:716][619]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.11.27-08.01.47:719][619]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2022.11.27-17.01.47
+[2022.11.27-08.01.47:719][619]LogWorld: Bringing up level for play took: 0.002995
+[2022.11.27-08.01.47:722][619]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2022.11.27-08.01.47:724][619]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.11.27-08.01.47:724][619]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.11.27-08.01.47:724][619]PIE: Server logged in
+[2022.11.27-08.01.47:725][619]PIE: Play in editor total start time 0.156 seconds.
+[2022.11.27-08.01.50:614][792]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 80.0
+[2022.11.27-08.01.51:297][833]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 60.0
+[2022.11.27-08.01.51:948][872]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 40.0
+[2022.11.27-08.01.53:398][959]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 20.0
+[2022.11.27-08.01.54:998][ 55]LogBlueprintUserMessages: [BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271] 0.0
+[2022.11.27-08.03.18:591][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-08.03.18:592][ 65]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.11.27-08.03.18:592][ 65]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-08.03.18:593][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.03.18:619][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-08.03.18:626][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-08.03.18:669][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-08.03.18:669][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.11.27-08.03.18:672][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.11.27-08.03.18:674][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-08.03.18:677][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.27-08.03.18:713][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.11.27-08.03.45:223][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.27-08.03.45:226][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV_Auto8
+[2022.11.27-08.03.45:226][276]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/6AM04V09DI2IF4V52B0IAV_Auto8E3E73546439453F1864ACA9702E92D0B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV_Auto8.uasset'
+[2022.11.27-08.03.45:235][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.058
+[2022.11.27-08.03.45:235][276]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.11.27-08.03.54:519][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.27-08.03.54:559][358]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV
+[2022.11.27-08.03.54:559][358]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/6AM04V09DI2IF4V52B0IAV4EDF5CC44FCC3F7E02E4EDA6D45AD63A.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV.uasset'
+[2022.11.27-08.03.54:560][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/zombiegirl_Skeleton" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_Skeleton.uasset" SILENT=true
+[2022.11.27-08.03.54:563][358]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/zombiegirl_Skeleton
+[2022.11.27-08.03.54:563][358]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/zombiegirl_Skeleton9954EE6C47DF82D0305BB4918287F8B9.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/zombiegirl_Skeleton.uasset'
+[2022.11.27-08.03.54:579][358]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.27-08.03.54:580][358]LogContentValidation: Display: Validating Skeleton /Game/_Main/Zombie/zombiegirl_Skeleton.zombiegirl_Skeleton
+[2022.11.27-08.03.54:580][358]LogContentValidation: Display: Validating BP_Zombie_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271
