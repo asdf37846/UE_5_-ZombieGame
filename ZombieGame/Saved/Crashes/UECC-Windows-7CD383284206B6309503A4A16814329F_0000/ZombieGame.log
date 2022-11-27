@@ -1,0 +1,1419 @@
+﻿Log file open, 11/26/22 19:34:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6000)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZombieGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\ZombieGame.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1219] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="70cc212f4cc3c8fa73085c9b8d06e47a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.496438
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7CD383284206B6309503A4A16814329F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1219] (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.26-10.34.31:261][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.26-10.34.31:264][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.26-10.34.31:287][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.26-10.34.31:287][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.26-10.34.31:510][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.26-10.34.31:510][  0]LogD3D12RHI: Adapter has 5979MB of dedicated video memory, 0MB of dedicated system memory, and 8140MB of shared system memory, 1 output[s]
+[2022.11.26-10.34.31:521][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.26-10.34.31:521][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8140MB of shared system memory, 0 output[s]
+[2022.11.26-10.34.31:521][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.26-10.34.31:521][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.26-10.34.31:521][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.26-10.34.31:521][  0]LogHAL: Display: Platform has ~ 16 GB [17071009792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.26-10.34.31:521][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.26-10.34.31:521][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.26-10.34.31:521][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.26-10.34.31:522][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.26-10.34.31:522][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.26-10.34.31:522][  0]LogInit: Computer: LEEEUNHYUK
+[2022.11.26-10.34.31:522][  0]LogInit: User: gyu37
+[2022.11.26-10.34.31:522][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.26-10.34.31:522][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.26-10.34.31:522][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.26-10.34.31:522][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.26-10.34.31:522][  0]LogMemory: Process Physical Memory: 281.81 MB used, 291.43 MB peak
+[2022.11.26-10.34.31:522][  0]LogMemory: Process Virtual Memory: 250.04 MB used, 250.04 MB peak
+[2022.11.26-10.34.31:522][  0]LogMemory: Physical Memory: 9025.61 MB used,  7254.58 MB free, 16280.18 MB total
+[2022.11.26-10.34.31:522][  0]LogMemory: Virtual Memory: 17994.69 MB used,  9549.49 MB free, 27544.18 MB total
+[2022.11.26-10.34.31:522][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.26-10.34.31:530][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.26-10.34.31:556][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.26-10.34.31:559][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.11.26-10.34.31:559][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.11.26-10.34.31:786][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.26-10.34.31:845][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.26-10.34.31:845][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2022.11.26-10.34.31:845][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.11.26-10.34.31:845][  0]LogWindowsTextInputMethodSystem:   - 영어(미국) - (Keyboard).
+[2022.11.26-10.34.31:845][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 터치식 입력 수정 (TSF IME).
+[2022.11.26-10.34.31:846][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.11.26-10.34.31:876][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.26-10.34.31:876][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.26-10.34.32:120][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.26-10.34.32:123][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.26-10.34.32:123][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.26-10.34.32:205][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.26-10.34.32:266][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.26-10.34.32:282][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.26-10.34.32:321][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.26-10.34.32:379][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.26-10.34.32:379][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.26-10.34.32:477][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.26-10.34.32:477][  0]LogWindows: Attached monitors:
+[2022.11.26-10.34.32:477][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.26-10.34.32:477][  0]LogWindows: Found 1 attached monitors.
+[2022.11.26-10.34.32:477][  0]LogWindows: EnumDisplayDevices:
+[2022.11.26-10.34.32:477][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.26-10.34.32:478][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.26-10.34.32:478][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.26-10.34.32:479][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.26-10.34.32:479][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.26-10.34.32:479][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.11.26-10.34.32:479][  0]LogD3D12RHI:   Driver Version: 526.98 (internal:31.0.15.2698, unified:526.98)
+[2022.11.26-10.34.32:479][  0]LogD3D12RHI:      Driver Date: 11-13-2022
+[2022.11.26-10.34.32:479][  0]LogRHI: Texture pool is 3282 MB (70% of 4689 MB)
+[2022.11.26-10.34.32:479][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.26-10.34.32:479][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.26-10.34.32:498][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.26-10.34.32:512][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject"  -platform=all'
+[2022.11.26-10.34.32:513][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject"  -platform=all" ]
+[2022.11.26-10.34.32:559][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.26-10.34.32:573][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.26-10.34.32:573][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.26-10.34.32:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.26-10.34.32:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.26-10.34.32:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.26-10.34.32:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.26-10.34.32:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.26-10.34.32:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.26-10.34.32:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.26-10.34.32:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.26-10.34.32:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.26-10.34.32:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.26-10.34.32:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.26-10.34.32:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.26-10.34.32:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.26-10.34.32:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.26-10.34.32:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.26-10.34.32:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.26-10.34.32:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.26-10.34.32:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.26-10.34.32:647][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.26-10.34.32:657][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.26-10.34.32:661][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.26-10.34.32:661][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.26-10.34.32:661][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.26-10.34.32:661][  0]LogTargetPlatformManager:   PCM
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager:   BINKA
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager:   OGG
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.26-10.34.32:667][  0]LogTargetPlatformManager:   OPUS
+[2022.11.26-10.34.32:738][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.26-10.34.32:738][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.26-10.34.32:746][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.26-10.34.32:747][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.26-10.34.32:751][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.26-10.34.32:751][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.26-10.34.32:752][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.26-10.34.32:752][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.26-10.34.32:752][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.26-10.34.32:752][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.26-10.34.32:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.26-10.34.32:755][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.26-10.34.32:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.26-10.34.32:755][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.26-10.34.32:778][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.26-10.34.32:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.26-10.34.32:778][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.26-10.34.32:792][  0]LogDerivedDataCache: Speed tests for C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.26-10.34.32:792][  0]LogDerivedDataCache: Display: Performance to C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=135.51MBs, RandomWriteSpeed=185.35MBs. Assigned SpeedClass 'Local'
+[2022.11.26-10.34.32:793][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.26-10.34.32:793][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.26-10.34.32:793][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.26-10.34.32:799][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.26-10.34.32:799][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.26-10.34.32:799][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/Shaders/WorkingDirectory/66088/).
+[2022.11.26-10.34.32:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gyu37/AppData/Local/Temp/UnrealShaderWorkingDir/450E87ED4007A932C28E3FA2FF300E70/'.
+[2022.11.26-10.34.32:799][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.26-10.34.32:799][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.26-10.34.34:627][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.26-10.34.34:640][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.26-10.34.34:708][  0]LogAssetRegistry: FAssetRegistry took 0.0247 seconds to start up
+[2022.11.26-10.34.34:719][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.26-10.34.35:032][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.26-10.34.35:032][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.26-10.34.35:516][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.26-10.34.35:516][  0]LogDeviceProfileManager: Active device profile: [00000464535C3B80][000004644C010000 50] WindowsEditor
+[2022.11.26-10.34.35:516][  0]LogDeviceProfileManager: Profiles: [00000464535C3640][000004644C015000 50] Windows, [00000464535C3B80][000004644C010000 50] WindowsEditor, [00000464535C1340][0000046448797800 50] WindowsServer, [00000464535C01C0][000004644874C800 50] WindowsClient, [00000464535C1F80][000004644C012800 50] IOS, [00000464535C0E00][000004643920A000 50] iPadAir2, [00000464535C5400][00000464535D2800 50] IPadPro, [00000464535C5780][00000464535D0000 50] iPadAir3, [00000464535C08C0][00000464535D7800 50] iPadAir4, [00000464535C55C0][00000464535DA000 50] iPadMini4, [00000464535C5CC0][00000464535DC800 50] iPadMini5, [00000464535C16C0][000004644C8EC800 50] iPadMini6, [00000464535C8A40][0000046453615000 50] iPhone6S, [00000464535C8880][0000046453612800 50] iPhone7, [00000464535C8500][0000046453610000 50] iPodTouch7, [00000464535C7E00][000004645361A000 50] iPhone6SPlus, [00000464535C5240][000004645361C800 50] iPhone7Plus, [00000464535C5080][00000464535D5000 50] iPhoneSE, [00000464535C8C00][0000046453630000 50] iPhone8, [00000464535C5B00][0000046453635000 50] iPhone8Plus, [00000464535C86C0][0000046453637800 50] iPhoneX, [00000464535C0000][000004645363A000 50] iPhoneXS, [00000464535C7FC0][000004645363C800 50] iPhoneXSMax, [00000464535C3100][0000046453617800 50] iPhoneXR, [00000464535C5940][00000464535F0000 50] iPhone11, [00000464535C32C0][00000464535F5000 50] iPhone11Pro, [00000464535C2F40][00000464535F7800 50] iPhone11ProMax, [00000464535C0A80][00000464535FA000 50] iPhoneSE2, [00000464535C40C0][00000464535FC800 50] iPhone12Mini, [00000464535C2840][0000046453632800 50] iPhone12, [00000464535C7700][0000046453650000 50] iPhone12Pro, [00000464535C0540][0000046453655000 50] iPhone12ProMax, [00000464535C1A40][0000046453657800 50] iPhone13Mini, [00000464535C4440][000004645365A000 50] iPhone13, [00000464535C0700][000004645365C800 50] iPhone13Pro, [00000464535C1DC0][00000464535F2800 50] iPhone13ProMax, [00000464535C0380][0000046453660000 50] iPadPro105, [00000464535C2300][0000046453665000 50] iPadPro129, [00000464535C4600][0000046453667800 50] iPadPro97, [00000464535C7540][000004645366A000 50] iPadPro2_129, [00000464535C8340][000004645366C800 50] iPad5, [00000464535C6900][0000046453652800 50] iPad6, [00000464535C71C0][0000046453670000 50] iPad7, [00000464535C2140][0000046453675000 50] iPad8, [00000464535C78C0][0000046453677800 50] iPad9, [00000464535C24C0][000004645367A000 50] iPadPro11, [00000464535C6E40][000004645367C800 50] iPadPro2_11, [00000464535C4980][0000046453662800 50] iPadPro3_11, [00000464535C2BC0][0000046453680000 50] iPadPro3_129, [00000464535C6740][0000046453685000 50] iPadPro4_129, [00000464535C6200][0000046453687800 50] iPadPro5_129, [00000464535C2A00][000004645368A000 50] AppleTV, [00000464535C8180][000004645368C800 50] AppleTV4K, [00000464535C4EC0][0000046453672800 50] TVOS, [00000464535CA2C0][0000046453692800 50] Mac, [00000464535CA640][0000046453690000 50] MacEditor, [00000464535C5E80][0000046453697800 50] MacClient, [00000464535CA100][000004645369A000 50] MacServer, [00000464535C9F40][0000046453682800 50] Linux, [00000464535C9D80][000004645369C800 50] LinuxEditor, [00000464535C2680][00000464536A0000 50] LinuxArm64Editor, [00000464535C47C0][00000464536A5000 50] LinuxArm64, [00000464535CA9C0][00000464536A7800 50] LinuxClient, [00000464535CA480][00000464536AA000 50] LinuxArm64Client, [00000464535C3480][00000464536AC800 50] LinuxServer, [00000464535C0C40][0000046453695000 50] LinuxArm64Server, [00000464535C0FC0][00000464536B0000 50] Android, [00000464535C8DC0][00000464536B5000 50] Android_Preview_OpenGL, [00000464535C4B40][00000464536B7800 50] Android_Preview_Vulkan, [00000464535C9140][00000464536BA000 50] Android_Low, [00000464535C6040][00000464536BC800 50] Android_Mid, [00000464535C63C0][00000464536A2800 50] Android_High, [00000464535C1180][00000464536C0000 50] Android_Default, [00000464535C9A00][00000464536C5000 50] Android_Adreno4xx, [00000464535C7A80][00000464536C7800 50] Android_Adreno5xx_Low, [00000464535C6AC0][00000464536CA000 50] Android_Adreno5xx, [00000464535CAB80][00000464536CC800 50] Android_Adreno6xx, [00000464535C3F00][00000464536B2800 50] Android_Adreno6xx_Vulkan, [00000464535CA800][00000464536D0000 50] Android_Adreno7xx, [00000464535C39C0][00000464536D5000 50] Android_Adreno7xx_Vulkan, [00000464535CB980][00000464536D7800 50] Android_Mali_T6xx, [00000464535C6C80][00000464536DA000 50] Android_Mali_T7xx, [00000464535CB440][00000464536DC800 50] Android_Mali_T8xx, [00000464535C7C40][00000464536C2800 50] Android_Mali_G71, [00000464535CBB40][00000464536E0000 50] Android_Mali_G72, [00000464535C9840][00000464536E5000 50] Android_Mali_G72_Vulkan, [00000464535C1500][00000464536E7800 50] Android_Mali_G76, [00000464535C2D80][00000464536EA000 50] Android_Mali_G76_Vulkan, [00000464535C7380][00000464536EC800 50] Android_Mali_G77, [00000464535CC940][00000464536D2800 50] Android_Mali_G77_Vulkan, [00000464535C1C00][00000464536F0000 50] Android_Mali_G78, [00000464535CC400][00000464536F5000 50] Android_Mali_G78_Vulkan, [00000464535C7000][00000464536F7800 50] Android_Mali_G710, [00000464535CCB00][00000464536FA000 50] Android_Mali_G710_Vulkan, [00000464535CAD40][00000464536FC800 50] Android_Xclipse_920, [00000464535C1880][00000464536E2800 50] Android_Xclipse_920_Vulkan, [00000464535CB280][0000046453700000 50] Android_Vulkan_SM5, [00000464535CB0C0][0000046453705000 50] Android_PowerVR_G6xxx, [00000464535CD900][0000046453707800 50] Android_PowerVR_GT7xxx, [00000464535C9680][000004645370A000 50] Android_PowerVR_GE8xxx, [00000464535C6580][000004645370C800 50] Android_PowerVR_GM9xxx, [00000464535C4280][00000464536F2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000464535CC780][0000046453710000 50] Android_TegraK1, [00000464535CD3C0][0000046453715000 50] Android_Unknown_Vulkan, [00000464535C94C0][0000046453717800 50] Oculus_Quest, [00000464535C9300][000004645371A000 50] Oculus_Quest2, [00000464535CE8C0][000004645371C800 50] HoloLens, 
+[2022.11.26-10.34.35:516][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.26-10.34.35:559][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.26-10.34.35:801][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.26-10.34.35:801][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.26-10.34.35:801][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.26-10.34.35:801][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.26-10.34.35:801][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.26-10.34.35:835][  0]LogNetVersion: ZombieGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4264997134)
+[2022.11.26-10.34.36:077][  0]LogSlate: Border
+[2022.11.26-10.34.36:078][  0]LogSlate: BreadcrumbButton
+[2022.11.26-10.34.36:078][  0]LogSlate: Default
+[2022.11.26-10.34.36:078][  0]LogSlate: Icons.Save
+[2022.11.26-10.34.36:078][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.26-10.34.36:078][  0]LogSlate: ListView
+[2022.11.26-10.34.36:078][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.26-10.34.36:078][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.26-10.34.36:078][  0]LogSlate: TableView.DarkRow
+[2022.11.26-10.34.36:078][  0]LogSlate: TableView.Row
+[2022.11.26-10.34.36:078][  0]LogSlate: TreeView
+[2022.11.26-10.34.36:360][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.36:395][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.36:395][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.36:580][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.26-10.34.36:580][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.26-10.34.36:580][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.26-10.34.37:340][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 554D13C64BDF7DC1D118A080C568CA09 | Instance: 85C16E9043DC016B09DCE3AC6BF05552 (LEEEUNHYUK-66088).
+[2022.11.26-10.34.37:471][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.26-10.34.37:482][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.26-10.34.37:515][  0]LogPython: Using Python 3.9.7
+[2022.11.26-10.34.39:051][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.39:060][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.39:089][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.39:113][  0]LogUProjectInfo: Found projects:
+[2022.11.26-10.34.39:815][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.26-10.34.39:869][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.26-10.34.39:905][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.26-10.34.39:905][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.26-10.34.40:149][  0]LogCollectionManager: Loaded 0 collections in 0.004948 seconds
+[2022.11.26-10.34.40:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Collections/' took 0.00s
+[2022.11.26-10.34.40:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Developers/gyu37/Collections/' took 0.00s
+[2022.11.26-10.34.40:322][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Collections/' took 0.00s
+[2022.11.26-10.34.40:797][  0]LogEngine: Initializing Engine...
+[2022.11.26-10.34.40:821][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.26-10.34.40:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.26-10.34.41:248][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.26-10.34.41:249][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.26-10.34.41:271][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-10.34.41:327][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.26-10.34.41:329][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.26-10.34.41:375][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.26-10.34.41:376][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.26-10.34.41:376][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.26-10.34.41:377][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.26-10.34.41:377][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.26-10.34.41:377][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.26-10.34.41:377][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.26-10.34.41:378][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.26-10.34.41:378][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.26-10.34.41:378][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.26-10.34.41:390][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.26-10.34.41:504][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.11.26-10.34.41:504][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.26-10.34.41:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.26-10.34.41:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.26-10.34.41:511][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.26-10.34.41:511][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.26-10.34.41:514][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.26-10.34.41:514][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.26-10.34.41:514][  0]LogInit: FAudioDevice initialized.
+[2022.11.26-10.34.41:514][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.26-10.34.41:515][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.26-10.34.41:515][  0]LogInit: Texture streaming: Enabled
+[2022.11.26-10.34.41:592][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.26-10.34.41:615][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.26-10.34.41:616][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={D2232F34-416A-038D-A59C-9EAE8E4F2FA7}
+[2022.11.26-10.34.41:666][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.26-10.34.41:682][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.26-10.34.41:682][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.26-10.34.43:507][  0]LogLiveCoding: Display: First instance in process group "UE_ZombieGame_0x2f26df6f", spawning console
+[2022.11.26-10.34.43:508][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.26-10.34.43:508][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.26-10.34.43:550][  0]LogInit: Transaction tracking system initialized
+[2022.11.26-10.34.43:696][  0]BlueprintLog: New page: Editor Load
+[2022.11.26-10.34.43:953][  0]LocalizationService: Localization service is disabled
+[2022.11.26-10.34.44:014][  0]TimingProfiler: Initialize
+[2022.11.26-10.34.44:014][  0]TimingProfiler: OnSessionChanged
+[2022.11.26-10.34.44:014][  0]LoadingProfiler: Initialize
+[2022.11.26-10.34.44:014][  0]LoadingProfiler: OnSessionChanged
+[2022.11.26-10.34.44:014][  0]NetworkingProfiler: Initialize
+[2022.11.26-10.34.44:014][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.26-10.34.44:014][  0]MemoryProfiler: Initialize
+[2022.11.26-10.34.44:014][  0]MemoryProfiler: OnSessionChanged
+[2022.11.26-10.34.44:810][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/' took 0.01s
+[2022.11.26-10.34.44:810][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.26-10.34.44:964][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.26-10.34.44:966][  0]SourceControl: Source control is disabled
+[2022.11.26-10.34.44:966][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.091
+[2022.11.26-10.34.44:966][  0]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.26-10.34.44:967][  0]LightingResults: New page: Lighting Build
+[2022.11.26-10.34.44:976][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-10.34.44:976][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-10.34.44:976][  0]MapCheck: New page: Map Check
+[2022.11.26-10.34.44:976][  0]LightingResults: New page: Lighting Build
+[2022.11.26-10.34.44:981][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.26-10.34.44:984][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.26-10.34.45:231][  0]LogStaticMesh: StaticMesh /Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.St_Sphere_01 should be resaved to improve async compilation performance.
+[2022.11.26-10.34.45:244][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:244][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:244][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_206' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_207' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_208' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_210' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_211' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_212' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_229' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_230' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_231' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_232' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_233' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_234' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_235' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:245][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.11.26-10.34.45:343][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.11.26-10.34.45:354][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-10.34.45:355][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.11.26-10.34.45:356][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.26-10.34.45:356][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.26-10.34.45:448][  0]LogWorldPartition: Display: WorldPartition initialize took 91 ms
+[2022.11.26-10.34.45:452][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.26-10.34.45:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.26-10.34.45:461][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.26-10.34.45:461][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2022.11.26-10.34.45:461][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.495
+[2022.11.26-10.34.45:477][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.602
+[2022.11.26-10.34.45:477][  0]LogShaderCompilers: Display: ================================================
+[2022.11.26-10.34.45:477][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.26-10.34.45:478][  0]LogShaderCompilers: Display: ================================================
+[2022.11.26-10.34.45:600][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.26-10.34.45:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-10.34.45:614][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-10.34.45:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-10.34.45:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-10.34.45:662][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:662][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:669][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:669][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:676][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:676][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:681][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:681][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:694][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:694][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:700][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:700][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:705][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:705][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:711][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:711][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:715][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:715][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:720][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.26-10.34.45:720][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.26-10.34.45:720][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.26-10.34.46:010][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.26-10.34.46:096][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.26-10.34.46:618][  0]LogSlate: Took 0.000966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.26-10.34.46:620][  0]LogSlate: Took 0.000589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.26-10.34.46:627][  0]LogSlate: Took 0.004364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.26-10.34.46:629][  0]LogSlate: Took 0.000446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.26-10.34.46:655][  0]LogViewport: Scene viewport resized to 1206x580, mode Windowed.
+[2022.11.26-10.34.46:695][  0]LogSlate: Took 0.000941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.26-10.34.47:328][  0]LogStall: Startup...
+[2022.11.26-10.34.47:330][  0]LogStall: Startup complete.
+[2022.11.26-10.34.47:357][  0]LogLoad: (Engine Initialization) Total time: 18.48 seconds
+[2022.11.26-10.34.47:357][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.26-10.34.47:419][  0]LogAssetRegistry: Asset discovery search completed in 12.7132 seconds
+[2022.11.26-10.34.47:425][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.26-10.34.47:426][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.26-10.34.47:839][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2022.11.26-10.34.59:414][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.26-10.35.00:066][671]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchUnderground\Meshes\SM_Concrete_Light_1.uasset: Failed to load '/Game/SecretBase/Materials/M_Emessive_2': Can't find file.
+[2022.11.26-10.35.00:066][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Materials/M_Emessive_2'
+[2022.11.26-10.35.02:991][671]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchFacility\Meshes\SM_Light_2.uasset: Failed to load '/Game/ResearchUnderground/Materials/MasterMaterial/M_Table_Wheel_1': Can't find file.
+[2022.11.26-10.35.02:991][671]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ResearchUnderground/Materials/MasterMaterial/M_Table_Wheel_1'
+[2022.11.26-10.35.04:584][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Concrete_1_B.T_Concrete_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:584][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_1_B.T_Capsule_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:586][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_Ceiling_1_B.T_Capsule_Ceiling_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:913][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Metal_1_B.T_Metal_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:913][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_1_N.T_Capsule_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:913][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_1_ORM.T_Capsule_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.04:913][671]LogMaterial: Display: Missing cached shadermap for M_Steel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 65DC0DB10808C8E9A6314E2AE300DF569AE4D41E), compiling. 
+[2022.11.26-10.35.05:137][671]LogMaterial: Display: Missing cached shadermap for M_Emessive_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B3B51F7399416402F32CBB754A4E36FC8A1A029D), compiling. 
+[2022.11.26-10.35.05:196][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Concrete_1_N.T_Concrete_1_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:196][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_Ceiling_1_E.T_Capsule_Ceiling_1_E (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:196][671]LogMaterial: Display: Missing cached shadermap for M_Capsule_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4127052AD7E8CE0C4747B39134B0F770BF10ABC9), compiling. 
+[2022.11.26-10.35.05:252][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 18EF41E070FD363F6EB2AD148686F10BD8D94D0B), compiling. 
+[2022.11.26-10.35.05:312][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Cloth_1_B.T_Cloth_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:312][671]LogMaterial: Display: Missing cached shadermap for M_Glass_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E1D93151518F0D8ACB1A0253C7C6A5EF5D58AD1B), compiling. 
+[2022.11.26-10.35.05:427][671]LogMaterial: Display: Missing cached shadermap for M_Capsule_Ceilin_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A23AE2A3DA6C075F47E135B2B20206831541C70), compiling. 
+[2022.11.26-10.35.05:483][671]LogStaticMesh: Display: Building static mesh SM_Capsule_1...
+[2022.11.26-10.35.05:483][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_Ceiling_1_N.T_Capsule_Ceiling_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:483][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Cloth_1_ORM.T_Cloth_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:483][671]LogMaterial: Display: Missing cached shadermap for M_Cloth_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 77C440F37634AE2F3A21AEE305A1847AC7889A4E), compiling. 
+[2022.11.26-10.35.05:565][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Cloth_1_N.T_Cloth_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:565][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Capsule_Ceiling_1_ORM.T_Capsule_Ceiling_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.05:565][671]LogStaticMesh: Display: Building static mesh SM_Capsule_Ceiling_1...
+[2022.11.26-10.35.05:566][671]LogMaterial: Display: Missing cached shadermap for M_Creature_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 19F78ED6C072C1A86AE61EBA38F1C7BC7321BA0A), compiling. 
+[2022.11.26-10.35.05:643][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Capsule_Ceiling_1.SM_Capsule_Ceiling_1
+[2022.11.26-10.35.05:643][671]LogStaticMesh: Built static mesh [0.17s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Capsule_1.SM_Capsule_1
+[2022.11.26-10.35.05:643][671]LogStaticMesh: Display: Building static mesh SM_Cloth_1...
+[2022.11.26-10.35.05:644][671]LogMaterial: Display: Missing cached shadermap for M_Button_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D4F8E844D33E601F53C6387084E226DF76E0C815), compiling. 
+[2022.11.26-10.35.05:723][671]LogStaticMesh: Display: Building static mesh SM_Creature_1...
+[2022.11.26-10.35.05:723][671]LogStaticMesh: Built static mesh [0.08s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Cloth_1.SM_Cloth_1
+[2022.11.26-10.35.05:723][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E83292E3C2298A49D2FF6A5B2244B5BE723AC52A), compiling. 
+[2022.11.26-10.35.05:784][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_1_A in PCD3D_SM5, Default, SM5 (DDC key hash: F91E6CE0D8BE13A18FC36F246D37229ECAB5E50A), compiling. 
+[2022.11.26-10.35.05:842][671]LogStaticMesh: Built static mesh [0.14s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Creature_1.SM_Creature_1
+[2022.11.26-10.35.05:842][671]LogMaterial: Display: Missing cached shadermap for M_Steel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3FFC9722AAE20191D65AB6173CF72D8076D23E13), compiling. 
+[2022.11.26-10.35.05:911][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Ceiling_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D74BA5EE43C61B20F9501C876AD44FA547C7851B), compiling. 
+[2022.11.26-10.35.05:970][671]LogStaticMesh: Display: Building static mesh SM_Elevator_1...
+[2022.11.26-10.35.05:970][671]LogMaterial: Display: Missing cached shadermap for M_Gurney_Metal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C023EEE72630499C270C5A2646BF730AF80D71C0), compiling. 
+[2022.11.26-10.35.06:031][671]LogStaticMesh: Built static mesh [0.09s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_1.SM_Elevator_1
+[2022.11.26-10.35.06:031][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Ceiling_1...
+[2022.11.26-10.35.06:032][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Creature_1_B.T_Creature_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:032][671]LogMaterial: Display: Missing cached shadermap for M_Gurney_Metal_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E642D7A325BEFBD7C966784436B39037DA4C8DFC), compiling. 
+[2022.11.26-10.35.06:091][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_Ceiling_1.SM_Elevator_Ceiling_1
+[2022.11.26-10.35.06:091][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Creature_1_N.T_Creature_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:091][671]LogMaterial: Display: Missing cached shadermap for M_Table_Wheel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E9B6F6E5B171196BFA83A4CF890D62EDA2AFD4A6), compiling. 
+[2022.11.26-10.35.06:151][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Creature_1_ORM.T_Creature_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:151][671]LogMaterial: Display: Missing cached shadermap for M_Mattress_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 633729173FBDBC760AE03CE8AB9F7C12789A3194), compiling. 
+[2022.11.26-10.35.06:226][671]LogStaticMesh: Display: Building static mesh SM_Gurney_1...
+[2022.11.26-10.35.06:226][671]LogMaterial: Display: Missing cached shadermap for M_Metal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F09B5AE43C6232DDD5440DB9CD9FA323EC929AA1), compiling. 
+[2022.11.26-10.35.06:326][671]LogStaticMesh: Display: Building static mesh SM_Mattress_1...
+[2022.11.26-10.35.06:326][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Mattress_1.SM_Mattress_1
+[2022.11.26-10.35.06:326][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Light_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6646E7852A299C2D3B8238DDCA9EC1AD94A48B0C), compiling. 
+[2022.11.26-10.35.06:379][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Light_1...
+[2022.11.26-10.35.06:380][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Light_1.SM_Concrete_Light_1
+[2022.11.26-10.35.06:380][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Light_1_ in PCD3D_SM5, Default, SM5 (DDC key hash: AE1FCD2640A254E98471FC14845A7EDF4712470D), compiling. 
+[2022.11.26-10.35.06:459][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_B.T_Elevator_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:459][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_N.T_Elevator_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:459][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Light_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D5BEEC1818CE4E6B1E6FE350593AAE35F2794FE), compiling. 
+[2022.11.26-10.35.06:540][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Light_1...
+[2022.11.26-10.35.06:540][671]LogMaterial: Display: Missing cached shadermap for M_Glass_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 079151F11E2388FF3CEFBAC4925FF97119067C6C), compiling. 
+[2022.11.26-10.35.06:633][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_ORM.T_Elevator_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:633][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_Light_1.SM_Elevator_Light_1
+[2022.11.26-10.35.06:633][671]LogMaterial: Display: Missing cached shadermap for M_Glass_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C6540A9A3CEBA813FB016E774DEA99D59891B5AA), compiling. 
+[2022.11.26-10.35.06:717][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_B_A.T_Elevator_1_B_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:717][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Door_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C495DF0C43B704E228CF3BACA0D7E6E29DE8182), compiling. 
+[2022.11.26-10.35.06:781][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_ORM_A.T_Elevator_1_ORM_A (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:782][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_1_N_A.T_Elevator_1_N_A (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.06:782][671]LogMaterial: Display: Missing cached shadermap for M_Door_Case_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 646A669C18A8BAEEE963DB43D3B9D183A3990CD8), compiling. 
+[2022.11.26-10.35.06:847][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_1...
+[2022.11.26-10.35.06:847][671]LogMaterial: Display: Missing cached shadermap for M_Red_Light_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40593D33BC219E4C1B1185638A9DD74001B1434C), compiling. 
+[2022.11.26-10.35.06:904][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_1.SM_Metal_Door_1
+[2022.11.26-10.35.06:904][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_2...
+[2022.11.26-10.35.06:904][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_2.SM_Metal_Door_2
+[2022.11.26-10.35.06:904][671]LogMaterial: Display: Missing cached shadermap for M_Steel_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 249D42E685D0F9CE0DDA507BBED80312485E38FF), compiling. 
+[2022.11.26-10.35.07:006][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_Case_2...
+[2022.11.26-10.35.07:006][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_Case_2.SM_Metal_Door_Case_2
+[2022.11.26-10.35.07:006][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Stair_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BDAD99CBF75BA71073AD4E27090ABA27FF4408F), compiling. 
+[2022.11.26-10.35.07:064][671]LogStaticMesh: Display: Building static mesh SM_Metal_Stair_1...
+[2022.11.26-10.35.07:064][671]LogStaticMesh: Display: Building static mesh SM_Stair_Fence_1...
+[2022.11.26-10.35.07:064][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Colomn_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1304C88F29C3BFE13A3D2E4D0186C9278F75682E), compiling. 
+[2022.11.26-10.35.07:129][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Stair_1.SM_Metal_Stair_1
+[2022.11.26-10.35.07:130][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Stair_Fence_1.SM_Stair_Fence_1
+[2022.11.26-10.35.07:130][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Colomn_3...
+[2022.11.26-10.35.07:130][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Door_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EE0C5CA78C2742BAD5C558F0C1078F39F8022C8), compiling. 
+[2022.11.26-10.35.07:224][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Colomn_3.SM_Tunnel_Colomn_3
+[2022.11.26-10.35.07:224][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Colomn_4...
+[2022.11.26-10.35.07:224][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Colomn_4.SM_Tunnel_Colomn_4
+[2022.11.26-10.35.07:224][671]LogMaterial: Display: Missing cached shadermap for M_Emessive_3 in PCD3D_SM5, Default, SM5 (DDC key hash: AD62D20E26DC9DE4BFE27DF11C00F27FDB7CB8AF), compiling. 
+[2022.11.26-10.35.07:290][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Door_1...
+[2022.11.26-10.35.07:290][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Door_1.SM_Tunnel_Door_1
+[2022.11.26-10.35.07:290][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Ceiling_1_B.T_Elevator_Ceiling_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:290][671]LogMaterial: Display: Missing cached shadermap for M_Asphalt_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C90902427A5977C5510613E4A2C050432A18BB7), compiling. 
+[2022.11.26-10.35.07:350][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Ceiling_1_N.T_Elevator_Ceiling_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:350][671]LogMaterial: Display: Missing cached shadermap for M_Ceiling_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 56F13CE98968452F700A632F592FE3825FE533CB), compiling. 
+[2022.11.26-10.35.07:415][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Ceiling_1_ORM.T_Elevator_Ceiling_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:415][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_1_B.T_Gurney_Metal_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:415][671]LogMaterial: Display: Missing cached shadermap for M_Ceiling_Light_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C97A87AF062ED9881C0F1C25616F200C529CCED), compiling. 
+[2022.11.26-10.35.07:477][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_1_N.T_Gurney_Metal_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:477][671]LogMaterial: Display: Missing cached shadermap for M_Ceiling_Metal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B06C3FB51D98484A08DB1786CAC31CB5E52887A3), compiling. 
+[2022.11.26-10.35.07:541][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_1_ORM.T_Gurney_Metal_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:542][671]LogMaterial: Display: Missing cached shadermap for M_Chair_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E352AA0F020DBF365C3E2BAED5606635A79261E), compiling. 
+[2022.11.26-10.35.07:604][671]LogMaterial: Display: Missing cached shadermap for M_Chair_1_A in PCD3D_SM5, Default, SM5 (DDC key hash: 70F9BC4D67DFCAE55EC85E7A8EE82292B62C54E4), compiling. 
+[2022.11.26-10.35.07:661][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 02CEFBD15417629C4AE1DC8DD972715E0D4B87E0), compiling. 
+[2022.11.26-10.35.07:789][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_2_B.T_Gurney_Metal_2_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:789][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_2_N.T_Gurney_Metal_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.07:789][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_Colomn_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0108C15A3A468CF475891E5CD727E03D8CA2CAF8), compiling. 
+[2022.11.26-10.35.07:857][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_Door_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AADFD5B18E7C50F1A544DA10E00BBA3AB5EB5E36), compiling. 
+[2022.11.26-10.35.07:974][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_Floor_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AD84D53FCDEC761F8AF2358E16966F63B3E49B4), compiling. 
+[2022.11.26-10.35.08:041][671]LogMaterial: Display: Missing cached shadermap for M_Cover_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 399288628A78E92A77B6D0FFE61093F78165CB71), compiling. 
+[2022.11.26-10.35.08:116][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Gurney_Metal_2_ORM.T_Gurney_Metal_2_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:116][671]LogMaterial: Display: Missing cached shadermap for M_Door_Metal_Floor_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 711F65FDB5BBDB85CECD7F24CF05F6E202E4563A), compiling. 
+[2022.11.26-10.35.08:190][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Table_1_Wheel_1_B.T_Table_1_Wheel_1_B (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:190][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Table_1_Wheel_1_N.T_Table_1_Wheel_1_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:190][671]LogMaterial: Display: Missing cached shadermap for M_Facade_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D1E58130ECD4999350394E07EA5904325574A01), compiling. 
+[2022.11.26-10.35.08:251][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Table_1_Wheel_1_ORM.T_Table_1_Wheel_1_ORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:251][671]LogMaterial: Display: Missing cached shadermap for M_Floor_12_Corner_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8077FF00A679492594C318158C1A055975A047C9), compiling. 
+[2022.11.26-10.35.08:306][671]LogMaterial: Display: Missing cached shadermap for M_Grille_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B8E1E0430197C4DD5053DA1515325C0F31CB24F6), compiling. 
+[2022.11.26-10.35.08:361][671]LogMaterial: Display: Missing cached shadermap for M_Keyboard_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AED933FE2A1E7D0AB38C10E094ADE07FD99C561F), compiling. 
+[2022.11.26-10.35.08:419][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Mattress_1_B.T_Mattress_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:419][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Mattress_1_N.T_Mattress_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:419][671]LogStaticMesh: Built static mesh [2.24s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Gurney_1.SM_Gurney_1
+[2022.11.26-10.35.08:419][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Door_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 193D9525EAC61837E2677519E3168925F1D7E0D0), compiling. 
+[2022.11.26-10.35.08:485][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Mattress_1_ORM.T_Mattress_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:485][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Light_1_B.T_Elevator_Light_1_B (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:485][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Light_1_N.T_Elevator_Light_1_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:485][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Walkway_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D3C4CEE9E48D862A120BFE515A056F9FF6157FC), compiling. 
+[2022.11.26-10.35.08:647][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchFacility/Textures/T_Elevator_Light_1_ORM.T_Elevator_Light_1_ORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:647][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Walkway_3 in PCD3D_SM5, Default, SM5 (DDC key hash: AED7CE6E5D5B58BC222292A990A500120480834E), compiling. 
+[2022.11.26-10.35.08:743][671]LogMaterial: Display: Missing cached shadermap for M_Mouse_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EF44ADF683BADD95939A0DEB2AE74CDEF8E2CDDD), compiling. 
+[2022.11.26-10.35.08:801][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_2_B.T_Metal_Door_2_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:801][671]LogMaterial: Display: Missing cached shadermap for M_Platform_Colomn_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 47D394AAEAF7C2643332057E2088767A94873D7A), compiling. 
+[2022.11.26-10.35.08:857][671]LogMaterial: Display: Missing cached shadermap for M_Research_Wall_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F1DE99C64FF81BD6217CAD9E6159BEE9ADE990A3), compiling. 
+[2022.11.26-10.35.08:919][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_2_N.T_Metal_Door_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:919][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_Case_2_N.T_Metal_Door_Case_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:919][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_Case_2_B.T_Metal_Door_Case_2_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:919][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_2_ORM.T_Metal_Door_2_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.08:919][671]LogMaterial: Display: Missing cached shadermap for M_Rock_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5824B11E33762EB8B37FBDA3A9D26DEB30268A38), compiling. 
+[2022.11.26-10.35.09:032][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Door_Case_2_ORM.T_Metal_Door_Case_2_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:032][671]LogMaterial: Display: Missing cached shadermap for M_Rock_Dirt_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1476540C5C4598FB56AE2AFB85268AEC71631570), compiling. 
+[2022.11.26-10.35.09:093][671]LogMaterial: Display: Missing cached shadermap for M_Scaffolding_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6112CA5909F45045FB802DC9CA7038943C859DE7), compiling. 
+[2022.11.26-10.35.09:143][671]LogMaterial: Display: Missing cached shadermap for M_Screen_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5309E91C786AEACE6833EA1C14E175F9444F317D), compiling. 
+[2022.11.26-10.35.09:201][671]LogMaterial: Display: Missing cached shadermap for M_Sign_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D50BF0E84CE363E5D847BAD048F14DDBA6E1C6A), compiling. 
+[2022.11.26-10.35.09:253][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_2_B.T_Concrete_2_B (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:253][671]LogMaterial: Display: Missing cached shadermap for M_Steel_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0441DE75AE5A448816A406E99C92D754FF6B1307), compiling. 
+[2022.11.26-10.35.09:301][671]LogMaterial: Display: Missing cached shadermap for M_Steel_4 in PCD3D_SM5, Default, SM5 (DDC key hash: D64BB10B3B05D5129AA75AEF6B6361FCB546EE4F), compiling. 
+[2022.11.26-10.35.09:352][671]LogMaterial: Display: Missing cached shadermap for M_Steel_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E3C7464329AFA0D0C5EE4414793E3195DFC39D33), compiling. 
+[2022.11.26-10.35.09:409][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Colomn_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 656D9B7278D0A2A140E7E7FA52FA8A0AC1D1DD35), compiling. 
+[2022.11.26-10.35.09:466][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Stair_1_B.T_Metal_Stair_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:466][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Stair_1_N.T_Metal_Stair_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:466][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Door_Case_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D3E89639E5EEF243F4BE98CB1C90A49056C066F3), compiling. 
+[2022.11.26-10.35.09:524][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Fence_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 18A95D739E999BD7E9180FEC58B0467AA57F9853), compiling. 
+[2022.11.26-10.35.09:585][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Floor_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 60BF79C5097B3C04F681EE19BCBB7BB5428B9229), compiling. 
+[2022.11.26-10.35.09:646][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Colomn_2_B.T_Tunnel_Colomn_2_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:646][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Metal_Stair_1_ORM.T_Metal_Stair_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:646][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Floor_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3620330C36FA578D577091BA2F78DD3E99995C79), compiling. 
+[2022.11.26-10.35.09:708][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Colomn_2_ORM.T_Tunnel_Colomn_2_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:708][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Metal_Colomn_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 34897F443CAC7F2B2883AA9B445079AA1A75FA78), compiling. 
+[2022.11.26-10.35.09:781][671]LogMaterial: Display: Missing cached shadermap for M_Yellow_Glass_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 083B811923E53719E6F9C469FC466940F8DE4866), compiling. 
+[2022.11.26-10.35.09:882][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Colomn_2_N.T_Tunnel_Colomn_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.09:882][671]LogMaterial: Display: Missing cached shadermap for M_Decal_2_A in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC976ED0744B575F696387F68AEA428955392F9), compiling. 
+[2022.11.26-10.35.09:955][671]LogMaterial: Display: Missing cached shadermap for M_Monitor_Screen_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CBBE8544DB65A3F29C2D47140D95E1FDBC4472DE), compiling. 
+[2022.11.26-10.35.10:017][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Door_1_B.T_Tunnel_Door_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:017][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DF8FA68BF5183F3FD9E1B412DA2B4B9B33FE3A5), compiling. 
+[2022.11.26-10.35.10:141][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Door_1_N.T_Tunnel_Door_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:141][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_Floor_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 46B00EB1A49112C5BFCF155CD46861633CD72B5D), compiling. 
+[2022.11.26-10.35.10:219][671]LogMaterial: Display: Missing cached shadermap for M_Decal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DF91E3136962DC161D022D05C6DD1505C7601229), compiling. 
+[2022.11.26-10.35.10:304][671]LogMaterial: Display: Missing cached shadermap for MI_Decal_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C99ECACFBA3BDF7A583405B5067B960D80B7C5C8), compiling. 
+[2022.11.26-10.35.10:379][671]LogMaterial: Display: Missing cached shadermap for MI_Decal_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D3F9D2A9DC6205675BDBF0D92153705E998C3AF4), compiling. 
+[2022.11.26-10.35.10:449][671]LogMaterial: Display: Missing cached shadermap for MI_Decal_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 504C0A07CB684C3D7230963B67EEB5CAAC3B6824), compiling. 
+[2022.11.26-10.35.10:512][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:512][671]LogMaterial: Display: Missing cached shadermap for M_Fence_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D5BE532121BA3278C99769E1BC5FB0FF00ED7BBB), compiling. 
+[2022.11.26-10.35.10:601][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:601][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:601][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:601][671]LogMaterial: Display: Missing cached shadermap for M_Glass_Dirt_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FA38D53688CDB8180A12D0E6743EA67E94B5E6FF), compiling. 
+[2022.11.26-10.35.10:676][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Tunnel_Door_1_ORM.T_Tunnel_Door_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:676][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:676][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:676][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_16 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:676][671]LogMaterial: Display: Missing cached shadermap for M_Gravel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 48C2B8187730730963156E7CCCA17F8475E811FF), compiling. 
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_17 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_19 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_18 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:795][671]LogMaterial: Display: Missing cached shadermap for M_Master_Height_Rock_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A5C1969C7D753979096A62C8372105093345315A), compiling. 
+[2022.11.26-10.35.10:965][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:965][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:965][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:965][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.10:965][671]LogMaterial: Display: Missing cached shadermap for M_Water_Puddle_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CC8860A19410171EE119A9317C72FA364BAC11C1), compiling. 
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_16 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_15 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_17 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:085][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_19 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:086][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_18 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:086][671]LogMaterial: Display: Missing cached shadermap for M_Research_Wall_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0429427E182E619FD7B958E6D406BCFC2B110097), compiling. 
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:150][671]LogMaterial: Display: Missing cached shadermap for M_Research_Wall_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EAC3CDBB63D44817EFA374AC5EF1F542A28BB6B), compiling. 
+[2022.11.26-10.35.11:206][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:206][671]LogMaterial: Display: Missing cached shadermap for MI_Research_Wall_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 68FA76F5CEAC63CFD2E7EFEF232BF44A2A03DF3A), compiling. 
+[2022.11.26-10.35.11:268][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:268][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Asphalt_1_AO.T_Asphalt_1_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:268][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_1_M.T_Ceiling_1_M (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:268][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_1_B.T_Ceiling_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:268][671]LogMaterial: Display: Missing cached shadermap for M_Rock_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 108823023C838663623D309719BE85463D5A0F9E), compiling. 
+[2022.11.26-10.35.11:401][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Asphalt_1_R.T_Asphalt_1_R (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:401][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_1_AO.T_Ceiling_1_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:401][671]LogMaterial: Display: Missing cached shadermap for M_Rock_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D7025B919DAE8F6F68AFA993932FF77B26A77126), compiling. 
+[2022.11.26-10.35.11:536][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Asphalt_1_B.T_Asphalt_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:536][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Asphalt_1_N.T_Asphalt_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:536][671]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 4A79ECAF5AA6F391B2ED0111525416BB9C7C4471), compiling. 
+[2022.11.26-10.35.11:626][671]LogMaterial: Display: Missing cached shadermap for M_Yellow_Glass_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9759B336017C44684EA5B380FFCC59B829FBEA39), compiling. 
+[2022.11.26-10.35.11:691][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_1_R.T_Ceiling_1_R (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:691][671]LogMaterial: Display: Missing cached shadermap for M_PostProcess_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 185B6BBBA60AC797ABE0A78185142BF5CF9C2E3F), compiling. 
+[2022.11.26-10.35.11:718][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Light_1_AO.T_Ceiling_Light_1_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:718][671]LogMaterial: Display: Missing cached shadermap for M_Camera_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F925089280482B1F122AA6D417F8CA3D5B9629E), compiling. 
+[2022.11.26-10.35.11:768][671]LogMaterial: Display: Missing cached shadermap for M_Barrel_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 038B8AFE8F1F2565FC865CF008A6A35112453E6B), compiling. 
+[2022.11.26-10.35.11:826][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_1_N.T_Ceiling_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.11:826][671]LogMaterial: Display: Missing cached shadermap for M_Cabinet_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D8484337B62913EF2B4CFC58CB60F0706F95D29D), compiling. 
+[2022.11.26-10.35.11:881][671]LogMaterial: Display: Missing cached shadermap for M_Medical_Curtain_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 6C60997F750CE0013E1BAFCCCB10D6E2949747C8), compiling. 
+[2022.11.26-10.35.11:938][671]LogMaterial: Display: Missing cached shadermap for M_Cabinet_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 70461DD18B4ABC937F683D05C8394D160EE646B8), compiling. 
+[2022.11.26-10.35.11:991][671]LogMaterial: Display: Missing cached shadermap for M_Cabinet_1_A in PCD3D_SM5, Default, SM5 (DDC key hash: 40EC0BC76F9E8DF33BB95228B9E1FE9407E3C61E), compiling. 
+[2022.11.26-10.35.12:061][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_4...
+[2022.11.26-10.35.12:061][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_5...
+[2022.11.26-10.35.12:061][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Elevator_Metal_5.SM_Elevator_Metal_5
+[2022.11.26-10.35.12:061][671]LogStaticMesh: Display: Building static mesh SM_Cabinet_2...
+[2022.11.26-10.35.12:061][671]LogStaticMesh: Display: Building static mesh SM_Cabinet_3...
+[2022.11.26-10.35.12:061][671]LogMaterial: Display: Missing cached shadermap for M_Computer_Cart_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B9B6EDD5E6CE5BE5F27076F85F3AD13E6DB5FDC), compiling. 
+[2022.11.26-10.35.12:116][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Elevator_Metal_4.SM_Elevator_Metal_4
+[2022.11.26-10.35.12:116][671]LogStaticMesh: Display: Building static mesh SM_Cabinet_5_A...
+[2022.11.26-10.35.12:116][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Cabinet_3.SM_Cabinet_3
+[2022.11.26-10.35.12:116][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Cabinet_2.SM_Cabinet_2
+[2022.11.26-10.35.12:116][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Light_1_M.T_Ceiling_Light_1_M (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:116][671]LogMaterial: Display: Missing cached shadermap for M_Keyboard in PCD3D_SM5, Default, SM5 (DDC key hash: 7BE514AD6E7802FBEBFF53FD58172286C30065F0), compiling. 
+[2022.11.26-10.35.12:174][671]LogMaterial: Display: Missing cached shadermap for M_Mouse_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A5D47A5B19E8BB23C3B89DB691FD3D49E68E492B), compiling. 
+[2022.11.26-10.35.12:233][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Light_1_E.T_Ceiling_Light_1_E (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:233][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Light_1_N.T_Ceiling_Light_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:233][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Light_1_B.T_Ceiling_Light_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:233][671]LogMaterial: Display: Missing cached shadermap for M_Control_Panel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B143FACF8A3081FC9DE63991D2D35421FC1CB51B), compiling. 
+[2022.11.26-10.35.12:296][671]LogStaticMesh: Built static mesh [0.17s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Cabinet_5_A.SM_Cabinet_5_A
+[2022.11.26-10.35.12:296][671]LogStaticMesh: Display: Building static mesh SM_Computer_Cart_1...
+[2022.11.26-10.35.12:296][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Floor_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EF9AE0612A206ED50ACE0EE1325279B43A26E18A), compiling. 
+[2022.11.26-10.35.12:367][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Metal_1_B.T_Ceiling_Metal_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:367][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Metal_1_N.T_Ceiling_Metal_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:367][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Fence_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F94384F1B85FAD04F465C39E80428AC754E8B161), compiling. 
+[2022.11.26-10.35.12:461][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Metal_5 in PCD3D_SM5, Default, SM5 (DDC key hash: E28CCE98AACC78F7DA32E376058840FC4FFC654B), compiling. 
+[2022.11.26-10.35.12:525][671]LogStaticMesh: Built static mesh [0.17s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Computer_Cart_1.SM_Computer_Cart_1
+[2022.11.26-10.35.12:525][671]LogMaterial: Display: Missing cached shadermap for M_Flash_Light_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AA8B4C3202175CA91AA942A0FB432DDA0C55DD60), compiling. 
+[2022.11.26-10.35.12:580][671]LogStaticMesh: Display: Building static mesh SM_Control_Panel_1...
+[2022.11.26-10.35.12:580][671]LogStaticMesh: Display: Building static mesh SM_Detail_3...
+[2022.11.26-10.35.12:580][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_1...
+[2022.11.26-10.35.12:580][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Detail_3.SM_Detail_3
+[2022.11.26-10.35.12:580][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_2...
+[2022.11.26-10.35.12:580][671]LogMaterial: Display: Missing cached shadermap for M_Iv_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 38E2E1EB0FD1E6B24162A362998191E13B8ED644), compiling. 
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_Metal_2.SM_Elevator_Metal_2
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_5...
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_Metal_5.SM_Elevator_Metal_5
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Control_Panel_1.SM_Control_Panel_1
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Display: Building static mesh SM_Flash_Light_1...
+[2022.11.26-10.35.12:640][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Elevator_Metal_1.SM_Elevator_Metal_1
+[2022.11.26-10.35.12:640][671]LogMaterial: Display: Missing cached shadermap for M_Light_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 292C832107A1CA6A63469FF9542DBEC3002CBE6E), compiling. 
+[2022.11.26-10.35.12:696][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Flash_Light_1.SM_Flash_Light_1
+[2022.11.26-10.35.12:696][671]LogStaticMesh: Display: Building static mesh SM_Iv_1...
+[2022.11.26-10.35.12:696][671]LogStaticMesh: Display: Building static mesh SM_Keyboard...
+[2022.11.26-10.35.12:696][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Keyboard.SM_Keyboard
+[2022.11.26-10.35.12:696][671]LogMaterial: Display: Missing cached shadermap for M_Medical_Curtain_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DAA3046DBC3E7C9D05701F8344914D2602B522B), compiling. 
+[2022.11.26-10.35.12:756][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Ceiling_Metal_1_ORM.T_Ceiling_Metal_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:756][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_B.T_Chair_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:756][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_ORM.T_Chair_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:756][671]LogMaterial: Display: Missing cached shadermap for M_Monitor_1_A in PCD3D_SM5, Default, SM5 (DDC key hash: B290FE87A3B55F9C8C970606BB9CFBF6601AA69F), compiling. 
+[2022.11.26-10.35.12:821][671]LogStaticMesh: Display: Building static mesh SM_Light_2...
+[2022.11.26-10.35.12:821][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_N.T_Chair_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:821][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_A_B.T_Chair_1_A_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.12:821][671]LogMaterial: Display: Missing cached shadermap for M_Shelf_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DC39EDA50FBA2B2ED02CFE0FF3DDF9F980C38757), compiling. 
+[2022.11.26-10.35.12:892][671]LogMaterial: Display: Missing cached shadermap for M_Stool_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A053131C994F5476ABF54D1EB78063C39740473E), compiling. 
+[2022.11.26-10.35.12:948][671]LogStaticMesh: Built static mesh [0.25s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Iv_1.SM_Iv_1
+[2022.11.26-10.35.12:948][671]LogStaticMesh: Built static mesh [0.16s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Light_2.SM_Light_2
+[2022.11.26-10.35.12:948][671]LogMaterial: Display: Missing cached shadermap for M_Barrel_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 94AA92FE6A61B2C8D2C49E5D4CB5CE1A1D2D581C), compiling. 
+[2022.11.26-10.35.13:002][671]LogStaticMesh: Display: Building static mesh SM_MedicalCurtain_1...
+[2022.11.26-10.35.13:002][671]LogStaticMesh: Display: Building static mesh SM_MedicalCurtain_2...
+[2022.11.26-10.35.13:002][671]LogMaterial: Display: Missing cached shadermap for M_Barrel_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FDA3DD6FDCE2A7410F277888674E6CE6ACE4C76), compiling. 
+[2022.11.26-10.35.13:054][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_MedicalCurtain_1.SM_MedicalCurtain_1
+[2022.11.26-10.35.13:054][671]LogStaticMesh: Display: Building static mesh SM_Monitor_5...
+[2022.11.26-10.35.13:054][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Monitor_5.SM_Monitor_5
+[2022.11.26-10.35.13:054][671]LogStaticMesh: Display: Building static mesh SM_Mouse_1...
+[2022.11.26-10.35.13:054][671]LogMaterial: Display: Missing cached shadermap for M_Box_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F2908CB63B8A36511A31F0022C7B80A6E50D8A33), compiling. 
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Mouse_1.SM_Mouse_1
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Display: Building static mesh SM_Shelf_2...
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Display: Building static mesh SM_Stool_1...
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Shelf_2.SM_Shelf_2
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Display: Building static mesh SM_Asphalt_Colomn_1...
+[2022.11.26-10.35.13:108][671]LogStaticMesh: Display: Building static mesh SM_Asphalt_Floor_1...
+[2022.11.26-10.35.13:108][671]LogMaterial: Display: Missing cached shadermap for M_Box_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 436CAFE583199CE7DCAAF87C85C06B1A849BA5AF), compiling. 
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Asphalt_Floor_1.SM_Asphalt_Floor_1
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Display: Building static mesh SM_Asphalt_Floor_2...
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Asphalt_Floor_2.SM_Asphalt_Floor_2
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Display: Building static mesh SM_Barrel_2...
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Display: Building static mesh SM_BG_Building_1...
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_BG_Building_1.SM_BG_Building_1
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Display: Building static mesh SM_BG_Building_2...
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_BG_Building_2.SM_BG_Building_2
+[2022.11.26-10.35.13:159][671]LogStaticMesh: Built static mesh [0.14s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_MedicalCurtain_2.SM_MedicalCurtain_2
+[2022.11.26-10.35.13:159][671]LogMaterial: Display: Missing cached shadermap for M_Box_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F553879E176B4C8188401B5683D08368955A54A), compiling. 
+[2022.11.26-10.35.13:210][671]LogStaticMesh: Built static mesh [0.10s] /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Stool_1.SM_Stool_1
+[2022.11.26-10.35.13:210][671]LogStaticMesh: Built static mesh [0.09s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Barrel_2.SM_Barrel_2
+[2022.11.26-10.35.13:210][671]LogMaterial: Display: Missing cached shadermap for M_Button_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A3C368F33963CAC5C2DE841754850C666523560), compiling. 
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Display: Building static mesh SM_Box_3...
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Display: Building static mesh SM_Building_Ceiling_1...
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Ceiling_1.SM_Building_Ceiling_1
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Display: Building static mesh SM_Building_Ceiling_2...
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Box_3.SM_Box_3
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Display: Building static mesh SM_Building_Ceiling_3...
+[2022.11.26-10.35.13:256][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Ceiling_2.SM_Building_Ceiling_2
+[2022.11.26-10.35.13:256][671]LogMaterial: Display: Missing cached shadermap for M_Emessive_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D1EAD9A8D8154FC0EA867518AC16AF946E007676), compiling. 
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Display: Building static mesh SM_Building_Colomn_2...
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Ceiling_3.SM_Building_Ceiling_3
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Display: Building static mesh SM_Building_Colomn_3...
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Colomn_3.SM_Building_Colomn_3
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Colomn_2.SM_Building_Colomn_2
+[2022.11.26-10.35.13:311][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_A_N.T_Chair_1_A_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Display: Building static mesh SM_Building_Colomn_4...
+[2022.11.26-10.35.13:311][671]LogStaticMesh: Display: Building static mesh SM_Building_Colomn_5...
+[2022.11.26-10.35.13:311][671]LogMaterial: Display: Missing cached shadermap for M_Ceiling_Light_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F3A8AAF9C2C7ADF1A77642EB7595538D95124EC4), compiling. 
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Built static mesh [0.22s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Asphalt_Colomn_1.SM_Asphalt_Colomn_1
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Colomn_5.SM_Building_Colomn_5
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Display: Building static mesh SM_Building_Colomn_6...
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Colomn_6.SM_Building_Colomn_6
+[2022.11.26-10.35.13:377][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Chair_1_A_ORM.T_Chair_1_A_ORM (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Display: Building static mesh SM_Building_Floor_5...
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Floor_5.SM_Building_Floor_5
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Built static mesh [0.06s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Colomn_4.SM_Building_Colomn_4
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Display: Building static mesh SM_Building_Metal_1...
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Display: Building static mesh SM_Building_Metal_2...
+[2022.11.26-10.35.13:377][671]LogStaticMesh: Display: Building static mesh SM_Building_Metal_3...
+[2022.11.26-10.35.13:377][671]LogMaterial: Display: Missing cached shadermap for M_Concrete_Door_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 76A19950271BDA990BF543C3C105F182150B2481), compiling. 
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Metal_2.SM_Building_Metal_2
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Metal_1.SM_Building_Metal_1
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_1...
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_2...
+[2022.11.26-10.35.13:436][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_1_AO.T_Concrete_1_AO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_1.SM_Ceiling_1
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_2.SM_Ceiling_2
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_3...
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_Light_1...
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_Light_1.SM_Ceiling_Light_1
+[2022.11.26-10.35.13:436][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Building_Metal_3.SM_Building_Metal_3
+[2022.11.26-10.35.13:436][671]LogMaterial: Display: Missing cached shadermap for M_Elevator_Metal_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D5F5981ABD0E4BBADD5A7F62AC519E98638E3BDE), compiling. 
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_Light_2...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_Metal_1...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_Light_2.SM_Ceiling_Light_2
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_Metal_2...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_Metal_1.SM_Ceiling_Metal_1
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Ceiling_Vent_1...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_Metal_2.SM_Ceiling_Metal_2
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_Vent_1.SM_Ceiling_Vent_1
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Chair_1...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Colomn_1...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Colomn_1.SM_Colomn_1
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Display: Building static mesh SM_Colomn_2...
+[2022.11.26-10.35.13:487][671]LogStaticMesh: Built static mesh [0.06s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ceiling_3.SM_Ceiling_3
+[2022.11.26-10.35.13:487][671]LogMaterial: Display: Missing cached shadermap for M_Pillow_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 134D3C8743317B8D660F4B256CC89E994B45A449), compiling. 
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Colomn_3...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Colomn_2.SM_Colomn_2
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Colomn_1...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Colomn_3.SM_Colomn_3
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Colomn_2...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Colomn_2.SM_Concrete_Colomn_2
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Colomn_3...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Colomn_3.SM_Concrete_Colomn_3
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Door_1...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Door_2...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Colomn_1.SM_Concrete_Colomn_1
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Door_1.SM_Concrete_Door_1
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Door_2.SM_Concrete_Door_2
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_1...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_12...
+[2022.11.26-10.35.13:535][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_13...
+[2022.11.26-10.35.13:535][671]LogMaterial: Display: Missing cached shadermap for M_Pipe_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E25C3E0ABBEAA57F81C1DE77FADF87552E07E7D), compiling. 
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_14...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_13.SM_Concrete_Floor_13
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_1.SM_Concrete_Floor_1
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_12.SM_Concrete_Floor_12
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_14.SM_Concrete_Floor_14
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_15...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_16...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_17...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_2...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_2.SM_Concrete_Floor_2
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_17.SM_Concrete_Floor_17
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_15.SM_Concrete_Floor_15
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_3...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_16.SM_Concrete_Floor_16
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_4...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_5...
+[2022.11.26-10.35.13:626][671]LogStaticMesh: Display: Building static mesh SM_Concrete_Floor_6...
+[2022.11.26-10.35.13:626][671]LogMaterial: Display: Missing cached shadermap for M_Pipe_3 in PCD3D_SM5, Default, SM5 (DDC key hash: B8F47670175DC3C03CB8C97C433D278BC761EE2E), compiling. 
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_3.SM_Concrete_Floor_3
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_6.SM_Concrete_Floor_6
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_5.SM_Concrete_Floor_5
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Concrete_Floor_4.SM_Concrete_Floor_4
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Desk_1...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Desk_2...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Detail_2...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Door_Metal_Floor_1...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Detail_2.SM_Detail_2
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Floor_1...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Door_Metal_Floor_1.SM_Door_Metal_Floor_1
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Metal_3...
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Floor_1.SM_Elevator_Floor_1
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Desk_2.SM_Desk_2
+[2022.11.26-10.35.13:719][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Wall_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Wall_2...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Desk_1.SM_Desk_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Wall_3...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_2.SM_Elevator_Wall_2
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Wall_4...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Metal_3.SM_Elevator_Metal_3
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Elevator_Wall_5...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_3.SM_Elevator_Wall_3
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Elevetor_Door_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Entry_Stair_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.18s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Chair_1.SM_Chair_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_5.SM_Elevator_Wall_5
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Ex_Fence_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_4.SM_Elevator_Wall_4
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevetor_Door_1.SM_Elevetor_Door_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Ex_Fence_2...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Fence_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Entry_Stair_1.SM_Entry_Stair_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Fence_2...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ex_Fence_2.SM_Ex_Fence_2
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Fence_3...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Ex_Fence_1.SM_Ex_Fence_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Fence_Door_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Floor_12_Corner_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Floor_12_Corner_1.SM_Floor_12_Corner_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Fence_Door_1.SM_Fence_Door_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Fence_1.SM_Fence_1
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Fence_2.SM_Fence_2
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Fence_3.SM_Fence_3
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Floor_12_Corner_2...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Glass_Door_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Glass_Wall_1...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Display: Building static mesh SM_Glass_Door_2...
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Floor_12_Corner_2.SM_Floor_12_Corner_2
+[2022.11.26-10.35.13:720][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1
+[2022.11.26-10.35.13:720][671]LogMaterial: Display: Missing cached shadermap for M_Platform_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 53AF9ED3D5797E2A406A8AF0A5C51DB18ECE551F), compiling. 
+[2022.11.26-10.35.13:773][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_2.SM_Glass_Door_2
+[2022.11.26-10.35.13:773][671]LogStaticMesh: Display: Building static mesh SM_Glass_Wall_5...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Grille_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Keyboard_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Light_6...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Grille_1.SM_Grille_1
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_1_Detail...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_3...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Keyboard_1.SM_Keyboard_1
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Metal_Door_Case_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_1_Detail.SM_Metal_Door_1_Detail
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_3.SM_Metal_Door_3
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Metal_Door_Case_1.SM_Metal_Door_Case_1
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_5.SM_Glass_Wall_5
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Mouse_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Pillow_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Pipe_1...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pillow_1.SM_Pillow_1
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Pipe_2...
+[2022.11.26-10.35.13:774][671]LogStaticMesh: Display: Building static mesh SM_Pipe_3...
+[2022.11.26-10.35.13:774][671]LogMaterial: Display: Missing cached shadermap for M_Metal_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6E2FC6ECF08F1AE50C9CFDF668156A2F09AE8CA7), compiling. 
+[2022.11.26-10.35.13:824][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_2.SM_Pipe_2
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_1.SM_Pipe_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Pipe_5...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_3.SM_Pipe_3
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_Colomn_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_1.SM_Platform_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_Colomn_1.SM_Platform_Colomn_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_Detail_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Mouse_1.SM_Mouse_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_Fence_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_Fence_2...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_Detail_1.SM_Platform_Detail_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Platform_Fence_3...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_5.SM_Pipe_5
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Light_6.SM_Light_6
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_Fence_1.SM_Platform_Fence_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Pole_2...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_R_Wall_2_Door_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Railing_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_Fence_2.SM_Platform_Fence_2
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Research_Ceiling_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Platform_Fence_3.SM_Platform_Fence_3
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_R_Wall_2_Door_1.SM_R_Wall_2_Door_1
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Research_Floor_1...
+[2022.11.26-10.35.13:825][671]LogStaticMesh: Display: Building static mesh SM_Research_Wall_1...
+[2022.11.26-10.35.13:825][671]LogMaterial: Display: Missing cached shadermap for M_Sign_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AE4C5247CE2ADE8B5617C31B54612EA65AEF2CAB), compiling. 
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Floor_1.SM_Research_Floor_1
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Display: Building static mesh SM_Research_Wall_2...
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Wall_1.SM_Research_Wall_1
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Display: Building static mesh SM_Research_Wall_3...
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pole_2.SM_Pole_2
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Railing_1.SM_Railing_1
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Display: Building static mesh SM_Research_Wall_4...
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Display: Building static mesh SM_Research_Wall_Colomn_1...
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Wall_2.SM_Research_Wall_2
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Wall_Colomn_1.SM_Research_Wall_Colomn_1
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Wall_3.SM_Research_Wall_3
+[2022.11.26-10.35.13:876][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Wall_4.SM_Research_Wall_4
+[2022.11.26-10.35.13:876][671]LogMaterial: Display: Missing cached shadermap for M_Sign_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 737BA7A8DB901E646A47F3D4EA5E1F435E51B344), compiling. 
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Built static mesh [0.06s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Research_Ceiling_1.SM_Research_Ceiling_1
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_1...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_10...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_11...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_13...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_13_Concrete_1...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_13_Concrete_1.SM_Rock_13_Concrete_1
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_11.SM_Rock_11
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_14...
+[2022.11.26-10.35.13:925][671]LogStaticMesh: Display: Building static mesh SM_Rock_14_Concrete_1...
+[2022.11.26-10.35.13:926][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_14_Concrete_1.SM_Rock_14_Concrete_1
+[2022.11.26-10.35.13:926][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_10.SM_Rock_10
+[2022.11.26-10.35.13:926][671]LogStaticMesh: Display: Building static mesh SM_Rock_15...
+[2022.11.26-10.35.13:926][671]LogMaterial: Display: Missing cached shadermap for M_Sofa_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A217E01698C70023B2FB4A0CCBCAE17F65DEBA04), compiling. 
+[2022.11.26-10.35.13:976][671]LogStaticMesh: Display: Building static mesh SM_Rock_16...
+[2022.11.26-10.35.13:976][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_16.SM_Rock_16
+[2022.11.26-10.35.13:976][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_1_B.T_Concrete_1_B (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.13:976][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_13.SM_Rock_13
+[2022.11.26-10.35.13:976][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_14.SM_Rock_14
+[2022.11.26-10.35.13:976][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_15.SM_Rock_15
+[2022.11.26-10.35.13:976][671]LogMaterial: Display: Missing cached shadermap for M_Sofa_2 in PCD3D_SM5, Default, SM5 (DDC key hash: DFACE77E9C5FF1761F0AA96B3DEE1DE9D9F9D470), compiling. 
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Display: Building static mesh SM_Rock_17...
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Display: Building static mesh SM_Rock_18...
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Display: Building static mesh SM_Rock_2...
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Display: Building static mesh SM_Rock_3...
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_17.SM_Rock_17
+[2022.11.26-10.35.14:025][671]LogStaticMesh: Built static mesh [0.13s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_1.SM_Rock_1
+[2022.11.26-10.35.14:025][671]LogMaterial: Display: Missing cached shadermap for M_Sofa_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D7B80ED1DDE846CA99F4552B31EF83F44FE6353A), compiling. 
+[2022.11.26-10.35.14:074][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_18.SM_Rock_18
+[2022.11.26-10.35.14:074][671]LogStaticMesh: Display: Building static mesh SM_Rock_4...
+[2022.11.26-10.35.14:074][671]LogStaticMesh: Display: Building static mesh SM_Rock_6...
+[2022.11.26-10.35.14:074][671]LogStaticMesh: Display: Building static mesh SM_Rock_5...
+[2022.11.26-10.35.14:074][671]LogMaterial: Display: Missing cached shadermap for M_Table_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D845C5DEE5AED4CEC1B66712F18AC01090C92CA), compiling. 
+[2022.11.26-10.35.14:123][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_5.SM_Rock_5
+[2022.11.26-10.35.14:123][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_6.SM_Rock_6
+[2022.11.26-10.35.14:123][671]LogStaticMesh: Built static mesh [0.12s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_2.SM_Rock_2
+[2022.11.26-10.35.14:123][671]LogMaterial: Display: Missing cached shadermap for M_Table_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A521DA946FF0439FE6B34746FBCD3485E35DC9FB), compiling. 
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Display: Building static mesh SM_Rock_7...
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Display: Building static mesh SM_Rock_8...
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Display: Building static mesh SM_Rock_9...
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_7.SM_Rock_7
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Built static mesh [0.13s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_3.SM_Rock_3
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_9.SM_Rock_9
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_8.SM_Rock_8
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Display: Building static mesh SM_Rope_1...
+[2022.11.26-10.35.14:175][671]LogStaticMesh: Display: Building static mesh SM_Scaffolding_1...
+[2022.11.26-10.35.14:175][671]LogMaterial: Display: Missing cached shadermap for M_Transformer_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FD67DEE6B363488C5FB1D02CE89D25ACA0C4D06), compiling. 
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Display: Building static mesh SM_Scaffolding_2...
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Display: Building static mesh SM_Screen_1...
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Scaffolding_2.SM_Scaffolding_2
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Display: Building static mesh SM_Shelf_1...
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Screen_1.SM_Screen_1
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Built static mesh [0.04s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Scaffolding_1.SM_Scaffolding_1
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Display: Building static mesh SM_Sign_3...
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Display: Building static mesh SM_Sofa_1...
+[2022.11.26-10.35.14:226][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Sign_3.SM_Sign_3
+[2022.11.26-10.35.14:226][671]LogMaterial: Display: Missing cached shadermap for M_Tunnel_Floor_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 39770EBD59CE1371B7CBDA07A7295BC865598DF7), compiling. 
+[2022.11.26-10.35.14:281][671]LogStaticMesh: Display: Building static mesh SM_Sofa_2...
+[2022.11.26-10.35.14:281][671]LogStaticMesh: Built static mesh [0.05s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Shelf_1.SM_Shelf_1
+[2022.11.26-10.35.14:281][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Sofa_2.SM_Sofa_2
+[2022.11.26-10.35.14:281][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Sofa_1.SM_Sofa_1
+[2022.11.26-10.35.14:281][671]LogStaticMesh: Built static mesh [0.10s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rope_1.SM_Rope_1
+[2022.11.26-10.35.14:281][671]LogMaterial: Display: Missing cached shadermap for M_Metal_Fence_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A1E369E3D63181F0CA2B4426DC0332DFF8F288C), compiling. 
+[2022.11.26-10.35.14:372][671]LogStaticMesh: Display: Building static mesh SM_Stair_2...
+[2022.11.26-10.35.14:372][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Stair_2.SM_Stair_2
+[2022.11.26-10.35.14:372][671]LogStaticMesh: Display: Building static mesh SM_Table_1...
+[2022.11.26-10.35.14:372][671]LogStaticMesh: Built static mesh [0.26s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Rock_4.SM_Rock_4
+[2022.11.26-10.35.14:372][671]LogMaterial: Display: Missing cached shadermap for M_Plant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BBC3E4C8753D0DBAD833403D9DB034CC1A3D3DEE), compiling. 
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.08s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Table_1.SM_Table_1
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Table_2...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Text_1...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_2...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_3...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.08s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Table_2.SM_Table_2
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_2.SM_Tunnel_2
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_4...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_5...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.07s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_5.SM_Tunnel_5
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Colomn_2...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.15s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_3.SM_Tunnel_3
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.13s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_4.SM_Tunnel_4
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.22s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Text_1.SM_Text_1
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Door_Case_1...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.06s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Colomn_2.SM_Tunnel_Colomn_2
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Fence_1...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Fence_2...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Fence_3...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Fence_2.SM_Tunnel_Fence_2
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Fence_4...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Fence_3.SM_Tunnel_Fence_3
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Fence_5...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Fence_1.SM_Tunnel_Fence_1
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Floor_2...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.03s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Door_Case_1.SM_Tunnel_Door_Case_1
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Floor_2.SM_Tunnel_Floor_2
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Floor_3...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Floor_4...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Floor_4.SM_Tunnel_Floor_4
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Floor_5...
+[2022.11.26-10.35.14:795][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Fence_4.SM_Tunnel_Fence_4
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Fence_5.SM_Tunnel_Fence_5
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Floor_6...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Metal_Colomn_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Floor_6.SM_Tunnel_Floor_6
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Floor_3.SM_Tunnel_Floor_3
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Metal_Detail_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Floor_5.SM_Tunnel_Floor_5
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Tunnel_Wall_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Vase_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_1.SM_Wall_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Wall_1.SM_Tunnel_Wall_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_2...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_3...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_2.SM_Wall_2
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Vase_1.SM_Vase_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_3_Detail_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Metal_Detail_1.SM_Tunnel_Metal_Detail_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_5...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_5_Colomn_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_3_Detail_1.SM_Wall_3_Detail_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_6...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_5_Colomn_1.SM_Wall_5_Colomn_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_3.SM_Wall_3
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_7...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_7_Detail_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_7_Detail_1.SM_Wall_7_Detail_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_5.SM_Wall_5
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_8...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Display: Building static mesh SM_Wall_Decor_1...
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_6.SM_Wall_6
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_8.SM_Wall_8
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_7.SM_Wall_7
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_Decor_1.SM_Wall_Decor_1
+[2022.11.26-10.35.14:796][671]LogStaticMesh: Built static mesh [0.12s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Tunnel_Metal_Colomn_1.SM_Tunnel_Metal_Colomn_1
+[2022.11.26-10.35.14:950][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_1_R.T_Concrete_1_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.14:950][671]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground.ResearchUnderground
+[2022.11.26-10.35.14:950][671]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.26-10.35.14:950][671]LightingResults: New page: Lighting Build
+[2022.11.26-10.35.14:950][671]LoadErrors: New page: Loading map: ResearchUnderground.umap
+[2022.11.26-10.35.14:952][671]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-10.35.14:953][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-10.35.14:958][671]MapCheck: New page: Map Check
+[2022.11.26-10.35.14:958][671]LightingResults: New page: Lighting Build
+[2022.11.26-10.35.14:974][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.26-10.35.14:977][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_2_R.T_Concrete_2_R (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:005][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_2_AO.T_Concrete_2_AO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:011][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Colomn_1_B.T_Concrete_Colomn_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:067][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.26-10.35.15:143][671]LogTexture: Display: Waiting for textures to be ready 64/408 (/Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData) ...
+[2022.11.26-10.35.15:227][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:DeprecatedTexture1DD3F7594D72A4A2BAC63CAD0EE167D7 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:227][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Map/ResearchUnderground_BuiltData.ResearchUnderground_BuiltData:DeprecatedTextureC59BC4084A774CABC55C38B809947350 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:227][671]LogTexture: Display: Waiting for textures to be ready 130/408 (/Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_1_N) ...
+[2022.11.26-10.35.15:493][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Colomn_1_ORM.T_Concrete_Colomn_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:493][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Colomn_1_N.T_Concrete_Colomn_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:703][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_1_N.T_Concrete_1_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:703][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_2_N.T_Concrete_2_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:912][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Floor_1_B.T_Concrete_Floor_1_B (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.15:912][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Floor_1_N.T_Concrete_Floor_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.16:329][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Cover_1_B.T_Cover_1_B (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.16:329][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Concrete_Floor_1_ORM.T_Concrete_Floor_1_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.16:537][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Cover_1_N.T_Cover_1_N (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.11.26-10.35.16:746][671]LogTexture: Display: Building textures: /Game/ResearchMegaPack/ResearchUnderground/Textures/T_Cover_1_O.T_Cover_1_O (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
