@@ -6774,3 +6774,28 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.27-09.08.45:911][591]AssetCheck: New page: Asset Save: zombiegirl_PhysicsAsset
 [2022.11.27-09.08.45:911][591]LogContentValidation: Display: Validating PhysicsAsset /Game/_Main/Zombie/zombiegirl_PhysicsAsset.zombiegirl_PhysicsAsset
 [2022.11.27-09.08.48:089][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.27-09.20.16:001][138]LogDerivedDataCache: C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.518 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-09.21.44:659][788]BlueprintLog: New page: Compile BP_Zombie
+[2022.11.27-09.21.44:740][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.27-09.21.45:274][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.11.27-09.21.45:292][810]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.11.27-09.21.45:292][810]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_ZombieC7E3E032492B7E39D4B29B8D283020EB.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.11.27-09.21.45:313][810]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.11.27-09.21.45:313][810]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.27-09.21.53:347][883]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-09.22.19:426][722]BlueprintLog: New page: Compile BP_Zombie
+[2022.11.27-09.22.19:503][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.27-09.22.19:885][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.11.27-09.22.19:903][738]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.11.27-09.22.19:903][738]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_Zombie0E9B60B440373BCE3D6B788A2F10CB80.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.11.27-09.22.19:920][738]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.11.27-09.22.19:920][738]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.27-09.23.10:748][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.27-09.23.10:812][606]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV
+[2022.11.27-09.23.10:812][606]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/6AM04V09DI2IF4V52B0IAV9D32AB234AC6C6770434C2A52C764121.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BU/6AM04V09DI2IF4V52B0IAV.uasset'
+[2022.11.27-09.23.10:815][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.11.27-09.23.10:832][606]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.11.27-09.23.10:833][606]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_Zombie1677CF244E62B2DCEDCCECB988005BCA.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.11.27-09.23.10:850][606]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.27-09.23.10:850][606]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.27-09.23.10:850][606]LogContentValidation: Display: Validating BP_Zombie_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Zombie_C_UAID_80FA5B8AF008AF4D01_1922854271
