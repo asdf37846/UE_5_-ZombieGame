@@ -4674,3 +4674,947 @@ Script Stack (0 frames):
 [2022.11.29-01.41.30:308][697]LogFileHelpers: No new changes to save!
 [2022.11.29-01.41.30:325][697]AssetCheck: New page: Asset Save: LoadingDock
 [2022.11.29-01.41.30:325][697]LogContentValidation: Display: Validating World /Game/_Main/Maps/LoadingDock.LoadingDock
+[2022.11.29-01.46.12:072][425]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-01.46.12:122][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.29-01.46.12:439][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-01.46.12:453][438]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-01.46.12:453][438]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode90D8F5DF452CB91201C1BAB5AA7718EA.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-01.46.12:469][438]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-01.46.12:469][438]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-01.46.15:366][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-01.46.15:373][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-01.46.15:373][611]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 7:46:15)
+[2022.11.29-01.46.15:373][611]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.46.15:552][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179210s)
+[2022.11.29-01.46.15:552][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.179302s)
+[2022.11.29-01.46.15:552][611]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-01.46.15:552][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.46.15:553][611]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-01.46.15:553][611]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2022.11.29-01.46.15:579][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.29-01.46.15:583][611]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-01.46.15:583][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-01.46.15:583][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-01.46.15:583][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-01.46.15:583][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-01.46.15:583][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-01.46.15:585][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-01.46.15:645][611]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-01.46.15:645][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-01.46.15:645][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-01.46.15:645][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-01.46.15:646][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.11.29-01.46.15:646][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.11.29-01.46.15:648][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.11.29-01.46.15:648][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.11.29-01.46.15:648][611]LogInit: FAudioDevice initialized.
+[2022.11.29-01.46.15:648][611]LogAudio: Display: Audio Device (ID: 28) registered with world 'LoadingDock'.
+[2022.11.29-01.46.15:659][611]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-01.46.15:709][611]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-10.46.15
+[2022.11.29-01.46.15:709][611]LogWorld: Bringing up level for play took: 0.048920
+[2022.11.29-01.46.15:711][611]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.11.29-01.46.15:729][611]PIE: Server logged in
+[2022.11.29-01.46.15:729][611]PIE: Play in editor total start time 0.356 seconds.
+[2022.11.29-01.46.15:751][611]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.15:751][611]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.15:751][611]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.19:342][822]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.22:491][ 10]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.31:776][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.46.31:776][565]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.46.31:777][565]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.46.31:783][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.46.31:795][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-01.46.31:802][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.46.31:834][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-01.46.31:834][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.11.29-01.46.31:836][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.11.29-01.46.31:838][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.46.31:855][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.29-01.46.31:898][566]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.11.29-01.46.36:219][822]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-01.46.36:267][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.29-01.46.36:987][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-01.46.37:000][859]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-01.46.37:000][859]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode6EBED2434A9D01D3BEB631BE5AF3CA13.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-01.46.37:014][859]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-01.46.37:014][859]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-01.46.38:248][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-01.46.38:255][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-01.46.38:255][933]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 7:46:38)
+[2022.11.29-01.46.38:255][933]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.46.38:435][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179654s)
+[2022.11.29-01.46.38:435][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.179747s)
+[2022.11.29-01.46.38:435][933]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-01.46.38:435][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.46.38:435][933]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-01.46.38:436][933]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.11.29-01.46.38:462][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.29-01.46.38:465][933]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-01.46.38:465][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-01.46.38:465][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-01.46.38:465][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-01.46.38:465][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-01.46.38:465][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-01.46.38:467][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-01.46.38:527][933]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-01.46.38:527][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-01.46.38:528][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-01.46.38:528][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-01.46.38:529][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.11.29-01.46.38:529][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.11.29-01.46.38:531][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.11.29-01.46.38:531][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.11.29-01.46.38:531][933]LogInit: FAudioDevice initialized.
+[2022.11.29-01.46.38:531][933]LogAudio: Display: Audio Device (ID: 29) registered with world 'LoadingDock'.
+[2022.11.29-01.46.38:542][933]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-01.46.38:591][933]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-10.46.38
+[2022.11.29-01.46.38:592][933]LogWorld: Bringing up level for play took: 0.050350
+[2022.11.29-01.46.38:594][933]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2022.11.29-01.46.38:619][933]PIE: Server logged in
+[2022.11.29-01.46.38:620][933]PIE: Play in editor total start time 0.366 seconds.
+[2022.11.29-01.46.38:649][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.38:649][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.38:649][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.47:984][487]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.51:903][722]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.46.52:416][753]LogBlueprintUserMessages: [BP_Zombie_C_5] 80.0
+[2022.11.29-01.46.55:462][935]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.11.29-01.46.58:132][ 95]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.11.29-01.46.58:798][135]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.11.29-01.47.00:955][264]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.11.29-01.47.02:122][334]LogBlueprintUserMessages: [BP_Zombie_C_2] 30.0
+[2022.11.29-01.47.02:657][366]LogBlueprintUserMessages: [BP_Zombie_C_2] -20.0
+[2022.11.29-01.47.03:243][401]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.11.29-01.47.05:056][505]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.11.29-01.47.06:445][577]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.11.29-01.47.10:078][768]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.11.29-01.47.10:554][791]LogBlueprintUserMessages: [BP_Zombie_C_1] 30.0
+[2022.11.29-01.47.11:627][843]LogBlueprintUserMessages: [BP_Zombie_C_1] -20.0
+[2022.11.29-01.47.12:131][865]LogBlueprintUserMessages: [BP_Zombie_C_7] 80.0
+[2022.11.29-01.47.12:996][903]LogBlueprintUserMessages: [BP_Zombie_C_7] 60.0
+[2022.11.29-01.47.13:392][921]LogBlueprintUserMessages: [BP_Zombie_C_7] 10.0
+[2022.11.29-01.47.13:788][939]LogBlueprintUserMessages: [BP_Zombie_C_7] -40.0
+[2022.11.29-01.47.14:182][956]LogBlueprintUserMessages: [BP_Zombie_C_5] 60.0
+[2022.11.29-01.47.15:284][  7]LogBlueprintUserMessages: [BP_Zombie_C_5] 10.0
+[2022.11.29-01.47.15:623][ 23]LogBlueprintUserMessages: [BP_Zombie_C_5] -40.0
+[2022.11.29-01.47.16:005][ 42]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.11.29-01.47.16:390][ 62]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.11.29-01.47.17:154][101]LogBlueprintUserMessages: [BP_Zombie_C_8] 80.0
+[2022.11.29-01.47.17:581][123]LogBlueprintUserMessages: [BP_Zombie_C_8] 60.0
+[2022.11.29-01.47.17:961][143]LogBlueprintUserMessages: [BP_Zombie_C_8] 10.0
+[2022.11.29-01.47.18:353][163]LogBlueprintUserMessages: [BP_Zombie_C_8] -40.0
+[2022.11.29-01.47.18:725][182]LogBlueprintUserMessages: [BP_Zombie_C_10] 50.0
+[2022.11.29-01.47.19:873][241]LogBlueprintUserMessages: [BP_Zombie_C_10] 0.0
+[2022.11.29-01.47.20:286][261]LogBlueprintUserMessages: [BP_Zombie_C_20] 80.0
+[2022.11.29-01.47.25:339][546]LogBlueprintUserMessages: [BP_Zombie_C_9] 80.0
+[2022.11.29-01.47.26:457][609]LogBlueprintUserMessages: [BP_Zombie_C_9] 30.0
+[2022.11.29-01.47.27:109][641]LogBlueprintUserMessages: [BP_Zombie_C_9] 10.0
+[2022.11.29-01.47.27:450][658]LogBlueprintUserMessages: [BP_Zombie_C_9] -40.0
+[2022.11.29-01.47.27:930][681]LogBlueprintUserMessages: [BP_Zombie_C_21] 50.0
+[2022.11.29-01.47.28:304][699]LogBlueprintUserMessages: [BP_Zombie_C_21] 0.0
+[2022.11.29-01.47.29:065][732]LogBlueprintUserMessages: [BP_Zombie_C_11] 50.0
+[2022.11.29-01.47.30:452][791]LogBlueprintUserMessages: [BP_Zombie_C_11] 30.0
+[2022.11.29-01.47.30:823][807]LogBlueprintUserMessages: [BP_Zombie_C_11] -20.0
+[2022.11.29-01.47.42:596][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.47.42:597][484]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.47.42:598][484]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.47.42:604][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.47.42:618][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-01.47.42:625][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.47.42:659][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-01.47.42:660][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.11.29-01.47.42:660][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.11.29-01.47.42:663][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.47.42:680][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.29-01.47.42:742][485]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.11.29-01.48.04:650][751]LogStaticMesh: Display: Building static mesh SM_Fence_Door_1...
+[2022.11.29-01.48.04:681][752]LogStaticMesh: Built static mesh [0.02s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Fence_Door_1.SM_Fence_Door_1
+[2022.11.29-01.48.06:165][836]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Fence_Door_1.SM_Fence_Door_1
+[2022.11.29-01.48.06:176][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.48.07:413][836]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.48.18:341][404]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_9.SM_Floor_9
+[2022.11.29-01.48.18:346][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.48.18:765][404]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.48.20:218][484]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.48.20:218][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.48.30:728][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.48.50:392][249]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.48.52:364][364]LogSavePackage: Moving output files for package: /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_9
+[2022.11.29-01.48.52:364][364]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/SM_Floor_9083FA47E43A4E752ECF0A5A55B872DD0.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_9.uasset'
+[2022.11.29-01.48.52:378][364]AssetCheck: New page: Asset Save: SM_Floor_9
+[2022.11.29-01.48.52:378][364]LogContentValidation: Display: Validating StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_9.SM_Floor_9
+[2022.11.29-01.48.53:638][438]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.48.53:638][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.48.55:739][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-01.48.55:746][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-01.48.55:746][560]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 7:48:55)
+[2022.11.29-01.48.55:746][560]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.48.55:918][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171930s)
+[2022.11.29-01.48.55:918][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.172022s)
+[2022.11.29-01.48.55:918][560]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-01.48.55:918][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.48.55:919][560]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-01.48.55:919][560]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2022.11.29-01.48.55:948][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.29-01.48.55:952][560]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-01.48.55:953][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-01.48.55:953][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-01.48.55:953][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-01.48.55:953][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-01.48.55:953][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-01.48.55:955][560]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-01.48.56:016][560]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-01.48.56:016][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-01.48.56:016][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-01.48.56:016][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-01.48.56:017][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.11.29-01.48.56:017][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.11.29-01.48.56:018][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.11.29-01.48.56:018][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.11.29-01.48.56:018][560]LogInit: FAudioDevice initialized.
+[2022.11.29-01.48.56:019][560]LogAudio: Display: Audio Device (ID: 30) registered with world 'LoadingDock'.
+[2022.11.29-01.48.56:032][560]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-01.48.56:081][560]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-10.48.56
+[2022.11.29-01.48.56:081][560]LogWorld: Bringing up level for play took: 0.048802
+[2022.11.29-01.48.56:084][560]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.11.29-01.48.56:112][560]PIE: Server logged in
+[2022.11.29-01.48.56:113][560]PIE: Play in editor total start time 0.367 seconds.
+[2022.11.29-01.48.58:308][682]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-01.49.00:226][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.49.00:226][795]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-01.49.00:228][795]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.49.00:234][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.49.00:247][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-01.49.00:253][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.49.00:284][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-01.49.00:285][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.11.29-01.49.00:287][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.11.29-01.49.00:289][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-01.49.00:307][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.29-01.49.00:366][796]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.11.29-01.50.23:065][466]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-01.50.23:113][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.29-01.50.23:691][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-01.50.23:705][495]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-01.50.23:705][495]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode867496F343162A6D3E55F5B3CCA59E41.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-01.50.23:717][495]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-01.50.23:718][495]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-01.50.44:143][722]LogDerivedDataCache: C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.476 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.29-01.52.46:764][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-01.52.46:776][ 54]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-01.52.46:776][ 54]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeCB061C574BBBC75CB5FB5C99D3F8E2B3.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-01.52.46:790][ 54]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-01.52.46:790][ 54]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-01.52.54:864][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.29-01.52.54:868][534]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.030
+[2022.11.29-01.53.27:064][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Box_8.SM_Box_8
+[2022.11.29-01.53.27:065][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Box_8.SM_Box_8
+[2022.11.29-01.53.27:065][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Box_8.SM_Box_8 as actor: StaticMeshActor /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.StaticMeshActor_0
+[2022.11.29-01.53.31:154][680]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Ceiling_5.SM_Ceiling_5
+[2022.11.29-01.53.31:159][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.53.31:529][680]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.53.33:650][798]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.53.33:651][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.53.46:854][563]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Elevator_Ceiling_1.SM_Elevator_Ceiling_1
+[2022.11.29-01.53.46:858][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.53.47:234][563]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.53.52:845][893]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.53.52:845][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.54.09:469][870]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_3.SM_Floor_3
+[2022.11.29-01.54.09:474][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.54.09:851][870]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.54.16:942][289]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.29-01.54.20:445][479]LogStaticMesh: Display: Building static mesh SM_Floor_3...
+[2022.11.29-01.54.20:445][479]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_3.SM_Floor_3
+[2022.11.29-01.54.20:512][480]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.24:920][733]LogMaterial: Display: Missing cached shadermap for M_Colomn_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C476FD80C09E1F4E74C3BE1A543F2D24C514D43), compiling. 
+[2022.11.29-01.54.25:107][734]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: ================================================
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Jobs assigned 18, completed 1 (5.56%)
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.48 s
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 1.39 s
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 1.48
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.48 s
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 2.00 jobs/batch
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Average processing rate: 0.68 jobs/sec
+[2022.11.29-01.54.26:530][817]LogShaderCompilers: Display: Effective parallelization: 0.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.29-01.54.26:531][817]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.11.29-01.54.26:531][817]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2022.11.29-01.54.26:531][817]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.11.29-01.54.26:531][817]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2022.11.29-01.54.26:531][817]LogShaderCompilers: Display: ================================================
+[2022.11.29-01.54.34:840][225]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.39:162][480]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.54.39:162][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.54.41:270][602]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Floor_3.SM_Floor_3
+[2022.11.29-01.54.41:275][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.54.41:652][602]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.54.42:545][654]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.11.29-01.54.42:791][655]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.43:453][682]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.11.29-01.54.43:648][683]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.44:648][743]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.11.29-01.54.44:906][744]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.11.29-01.54.45:405][774]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.29-01.54.46:294][816]LogEditorTransaction: Undo Move Nodes
+[2022.11.29-01.54.48:263][918]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.54.48:263][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.55.00:671][632]LogStaticMesh: Display: Building static mesh SM_Vent_1...
+[2022.11.29-01.55.00:671][632]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Vent_1.SM_Vent_1
+[2022.11.29-01.55.00:685][632]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Vent_1.SM_Vent_1
+[2022.11.29-01.55.00:685][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.55.01:061][632]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.55.02:895][734]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.55.02:895][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.55.04:017][797]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-01.55.04:075][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.29-01.55.04:405][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-01.55.04:417][811]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-01.55.04:418][811]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode73D15228479D601F4F7BBBB72FBE2A9D.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-01.55.04:431][811]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-01.55.04:431][811]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-01.55.06:703][943]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4
+[2022.11.29-01.55.06:707][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.55.07:078][943]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.55.09:011][ 52]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.55.09:011][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.55.21:153][770]LogStaticMesh: Display: Building static mesh SM_Wheel_4...
+[2022.11.29-01.55.21:153][770]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wheel_4.SM_Wheel_4
+[2022.11.29-01.55.21:170][770]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wheel_4) ...
+[2022.11.29-01.55.21:255][770]LogStaticMesh: Built static mesh [0.08s] /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wheel_4.SM_Wheel_4
+[2022.11.29-01.55.21:255][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.55.21:627][770]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.55.30:823][313]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.55.30:823][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.55.46:648][235]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Box_2.SM_Box_2
+[2022.11.29-01.55.46:654][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.55.47:024][235]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.56.21:673][305]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.56.21:674][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-01.56.24:331][456]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Camera_1.SM_Camera_1
+[2022.11.29-01.56.24:335][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-01.56.24:705][456]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.29-01.56.37:606][223]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-01.56.37:606][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.02.55:375][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.11.29-02.02.55:377][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.034
+[2022.11.29-02.02.55:378][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/Blueprints/ZombieGameMode] ([2] browsable assets)...
+[2022.11.29-02.02.55:378][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Blueprints/ZombieGameMode]
+[2022.11.29-02.02.55:390][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto3
+[2022.11.29-02.02.55:390][580]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode_Auto3D2EFE2664809C7336A0792B3A1BBAD0E.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto3.uasset'
+[2022.11.29-02.02.55:391][580]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.11.29-02.06.55:587][ 80]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.06.55:636][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.29-02.06.56:491][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.06.56:504][124]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.06.56:505][124]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeF0386EDE4817A1824FB284BD7F1A5949.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.06.56:519][124]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.06.56:519][124]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.11.20:821][171]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.11.20:873][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.29-02.11.21:277][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.11.21:291][189]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.11.21:292][189]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeE2DD9153496D7145583C95B68E765D06.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.11.21:306][189]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.11.21:306][189]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.12.58:067][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.29-02.12.58:071][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.029
+[2022.11.29-02.12.58:071][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/Blueprints/ZombieGameMode] ([2] browsable assets)...
+[2022.11.29-02.12.58:071][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Blueprints/ZombieGameMode]
+[2022.11.29-02.12.58:086][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto4
+[2022.11.29-02.12.58:086][779]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode_Auto4F37828B84630471A3FBD54893FF20D36.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto4.uasset'
+[2022.11.29-02.12.58:087][779]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.11.29-02.13.24:659][822]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.13.24:712][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.29-02.13.25:132][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.13.25:149][841]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.13.25:149][841]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeCE85CF7D4DE443EE6FF144B20B8B9ADE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.13.25:163][841]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.13.25:163][841]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.14.45:158][611]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.14.45:209][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.29-02.14.46:026][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.14.46:041][655]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.14.46:041][655]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode8A7991104F0F3AF9F2918FA9F404EE01.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.14.46:055][655]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.14.46:055][655]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.15.15:168][880]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.15.15:218][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.29-02.15.20:621][200]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.15.20:628][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.15.20:628][200]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:15:20)
+[2022.11.29-02.15.20:656][200]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.15.20:836][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179753s)
+[2022.11.29-02.15.20:836][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.179891s)
+[2022.11.29-02.15.20:836][200]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.15.20:836][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.15.20:836][200]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.15.20:837][200]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2022.11.29-02.15.20:862][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.29-02.15.20:866][200]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.15.20:866][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.15.20:866][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.15.20:867][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.15.20:867][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.15.20:867][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.15.20:869][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.15.20:929][200]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.15.20:930][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.15.20:930][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.15.20:930][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.15.20:931][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.11.29-02.15.20:931][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.11.29-02.15.20:932][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.11.29-02.15.20:932][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.11.29-02.15.20:932][200]LogInit: FAudioDevice initialized.
+[2022.11.29-02.15.20:932][200]LogAudio: Display: Audio Device (ID: 31) registered with world 'LoadingDock'.
+[2022.11.29-02.15.20:945][200]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.15.20:996][200]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.15.20
+[2022.11.29-02.15.20:996][200]LogWorld: Bringing up level for play took: 0.050208
+[2022.11.29-02.15.20:998][200]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.11.29-02.15.21:013][200]PIE: Server logged in
+[2022.11.29-02.15.21:014][200]PIE: Play in editor total start time 0.386 seconds.
+[2022.11.29-02.15.21:034][200]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.21:034][200]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.21:034][200]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.24:019][370]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.26:919][544]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.36:926][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.15.36:926][143]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.15.36:927][143]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.15.36:933][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.15.36:941][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.15.36:948][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.15.36:980][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-02.15.36:981][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.11.29-02.15.36:983][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.11.29-02.15.36:985][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.15.37:002][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.29-02.15.37:045][144]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.11.29-02.15.47:566][772]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.15.47:616][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.29-02.15.48:971][850]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.15.48:977][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.15.48:977][850]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:15:48)
+[2022.11.29-02.15.48:977][850]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.15.49:155][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177283s)
+[2022.11.29-02.15.49:155][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.177377s)
+[2022.11.29-02.15.49:155][850]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.15.49:155][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.15.49:156][850]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.15.49:156][850]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.11.29-02.15.49:181][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.29-02.15.49:184][850]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.15.49:184][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.15.49:184][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.15.49:184][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.15.49:184][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.15.49:184][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.15.49:187][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.15.49:247][850]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.15.49:247][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.15.49:247][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.15.49:247][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.15.49:248][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.11.29-02.15.49:248][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.11.29-02.15.49:249][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.11.29-02.15.49:249][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.11.29-02.15.49:249][850]LogInit: FAudioDevice initialized.
+[2022.11.29-02.15.49:249][850]LogAudio: Display: Audio Device (ID: 32) registered with world 'LoadingDock'.
+[2022.11.29-02.15.49:258][850]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.15.49:308][850]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.15.49
+[2022.11.29-02.15.49:308][850]LogWorld: Bringing up level for play took: 0.050332
+[2022.11.29-02.15.49:310][850]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.11.29-02.15.49:321][850]PIE: Server logged in
+[2022.11.29-02.15.49:323][850]PIE: Play in editor total start time 0.345 seconds.
+[2022.11.29-02.15.49:341][850]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.49:341][850]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.49:341][850]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.15.58:148][373]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.00:530][516]LogBlueprintUserMessages: [BP_Zombie_C_2] 80.0
+[2022.11.29-02.16.01:498][574]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.11.29-02.16.02:099][610]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.05:166][794]LogBlueprintUserMessages: [BP_Zombie_C_0] 80.0
+[2022.11.29-02.16.06:406][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.16.06:406][867]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.16.06:407][867]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.16.06:413][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.16.06:422][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.16.06:428][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.16.06:466][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-02.16.06:466][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.11.29-02.16.06:468][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.11.29-02.16.06:471][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.16.06:488][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.29-02.16.06:557][868]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.11.29-02.16.14:899][365]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.16.14:949][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.29-02.16.18:173][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.16.18:187][552]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.16.18:187][552]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeC7CFEB834B032CDAADBBC4806EEE51DB.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.16.18:202][552]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.16.18:202][552]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.16.19:531][632]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.16.19:538][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.16.19:538][632]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:16:19)
+[2022.11.29-02.16.19:538][632]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.16.19:718][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179421s)
+[2022.11.29-02.16.19:718][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.179513s)
+[2022.11.29-02.16.19:718][632]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.16.19:718][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.16.19:718][632]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.16.19:719][632]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2022.11.29-02.16.19:745][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.29-02.16.19:749][632]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.16.19:749][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.16.19:749][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.16.19:749][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.16.19:749][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.16.19:749][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.16.19:751][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.16.19:812][632]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.16.19:813][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.16.19:813][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.16.19:813][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.16.19:813][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.11.29-02.16.19:813][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.11.29-02.16.19:815][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.11.29-02.16.19:815][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.11.29-02.16.19:815][632]LogInit: FAudioDevice initialized.
+[2022.11.29-02.16.19:815][632]LogAudio: Display: Audio Device (ID: 33) registered with world 'LoadingDock'.
+[2022.11.29-02.16.19:826][632]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.16.19:873][632]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.16.19
+[2022.11.29-02.16.19:873][632]LogWorld: Bringing up level for play took: 0.047927
+[2022.11.29-02.16.19:875][632]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.11.29-02.16.19:880][632]PIE: Server logged in
+[2022.11.29-02.16.19:881][632]PIE: Play in editor total start time 0.344 seconds.
+[2022.11.29-02.16.19:899][632]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.19:899][632]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.19:899][632]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.23:859][864]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.26:406][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.16.26:406][ 14]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.16.26:407][ 14]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.16.26:414][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.16.26:429][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.16.26:436][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.16.26:460][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.16.26:470][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.11.29-02.16.26:471][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.11.29-02.16.26:490][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.29-02.16.26:560][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.11.29-02.16.52:200][546]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.16.52:252][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.29-02.16.52:586][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.16.52:600][559]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.16.52:601][559]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeF5A64BDE493A08199FE103AA8D85319B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.16.52:614][559]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.16.52:614][559]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.16.53:663][622]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.16.53:670][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.16.53:670][622]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:16:53)
+[2022.11.29-02.16.53:670][622]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.16.53:846][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176228s)
+[2022.11.29-02.16.53:846][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.176323s)
+[2022.11.29-02.16.53:846][622]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.16.53:846][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.16.53:846][622]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.16.53:847][622]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.11.29-02.16.53:871][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.29-02.16.53:875][622]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.16.53:875][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.16.53:875][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.16.53:876][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.16.53:876][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.16.53:876][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.16.53:877][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.16.53:952][622]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.16.53:952][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.16.53:952][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.16.53:952][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.16.53:953][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.11.29-02.16.53:953][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.11.29-02.16.53:954][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.11.29-02.16.53:955][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.11.29-02.16.53:955][622]LogInit: FAudioDevice initialized.
+[2022.11.29-02.16.53:955][622]LogAudio: Display: Audio Device (ID: 34) registered with world 'LoadingDock'.
+[2022.11.29-02.16.53:965][622]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.16.54:037][622]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.16.54
+[2022.11.29-02.16.54:037][622]LogWorld: Bringing up level for play took: 0.072636
+[2022.11.29-02.16.54:041][622]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2022.11.29-02.16.54:049][622]PIE: Server logged in
+[2022.11.29-02.16.54:050][622]PIE: Play in editor total start time 0.381 seconds.
+[2022.11.29-02.16.54:070][622]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.54:070][622]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.54:070][622]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.16.54:070][622]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.01:399][ 55]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.22:950][348]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.11.29-02.17.23:367][373]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.11.29-02.17.26:816][580]LogChaos: Warning: Degenerate triangle 275: (814.981079 159.927246 10.000009) (1239.972290 159.927246 10.000000) (1239.972290 159.927246 10.000020)
+[2022.11.29-02.17.37:037][193]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.11.29-02.17.37:487][220]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.11.29-02.17.38:476][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.17.38:476][277]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.17.38:477][277]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.17.38:483][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.17.38:495][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.17.38:501][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.17.38:528][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.17.38:536][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.11.29-02.17.38:538][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.11.29-02.17.38:556][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.29-02.17.38:622][278]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.11.29-02.17.44:614][629]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.17.44:665][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.29-02.17.47:813][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.17.47:820][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.17.47:820][811]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:17:47)
+[2022.11.29-02.17.47:820][811]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.17.47:997][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176948s)
+[2022.11.29-02.17.47:997][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.177041s)
+[2022.11.29-02.17.47:997][811]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.17.47:997][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.17.47:997][811]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.17.47:997][811]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2022.11.29-02.17.48:023][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.29-02.17.48:027][811]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.17.48:027][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.17.48:027][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.17.48:027][811]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.17.48:027][811]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.17.48:027][811]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.17.48:029][811]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.17.48:089][811]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.17.48:089][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.17.48:089][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.17.48:089][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.17.48:091][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.11.29-02.17.48:091][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.11.29-02.17.48:092][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.11.29-02.17.48:092][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.11.29-02.17.48:092][811]LogInit: FAudioDevice initialized.
+[2022.11.29-02.17.48:092][811]LogAudio: Display: Audio Device (ID: 35) registered with world 'LoadingDock'.
+[2022.11.29-02.17.48:103][811]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.17.48:152][811]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.17.48
+[2022.11.29-02.17.48:153][811]LogWorld: Bringing up level for play took: 0.049529
+[2022.11.29-02.17.48:154][811]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.11.29-02.17.48:162][811]PIE: Server logged in
+[2022.11.29-02.17.48:163][811]PIE: Play in editor total start time 0.343 seconds.
+[2022.11.29-02.17.48:181][811]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.48:181][811]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.48:181][811]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.48:181][811]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.17.50:750][959]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.06:376][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.18.06:376][895]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.18.06:377][895]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.18.06:383][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.18.06:395][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.18.06:402][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.18.06:434][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-02.18.06:434][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.11.29-02.18.06:436][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.11.29-02.18.06:439][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.18.06:455][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.29-02.18.06:520][896]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.11.29-02.18.14:466][351]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.18.14:518][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.29-02.18.15:262][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.18.15:278][389]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.18.15:278][389]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode316FAA204EFFD62D98B728A7661167BC.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.18.15:290][389]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.18.15:290][389]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.18.16:441][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.18.16:448][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.18.16:448][458]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:18:16)
+[2022.11.29-02.18.16:448][458]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.18.16:624][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.175943s)
+[2022.11.29-02.18.16:624][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.176040s)
+[2022.11.29-02.18.16:624][458]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.18.16:624][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.18.16:625][458]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.18.16:625][458]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2022.11.29-02.18.16:650][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.29-02.18.16:653][458]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.11.29-02.18.16:653][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.18.16:654][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.18.16:654][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.18.16:654][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.18.16:654][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.18.16:654][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.18.16:656][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.18.16:716][458]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.18.16:716][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.18.16:716][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.18.16:716][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.18.16:716][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.11.29-02.18.16:716][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.11.29-02.18.16:718][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.11.29-02.18.16:718][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.11.29-02.18.16:718][458]LogInit: FAudioDevice initialized.
+[2022.11.29-02.18.16:718][458]LogAudio: Display: Audio Device (ID: 36) registered with world 'LoadingDock'.
+[2022.11.29-02.18.16:727][458]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.18.16:776][458]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.18.16
+[2022.11.29-02.18.16:777][458]LogWorld: Bringing up level for play took: 0.049538
+[2022.11.29-02.18.16:779][458]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.11.29-02.18.16:790][458]PIE: Server logged in
+[2022.11.29-02.18.16:792][458]PIE: Play in editor total start time 0.344 seconds.
+[2022.11.29-02.18.16:810][458]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.16:810][458]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.16:810][458]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.25:751][990]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.29:651][224]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.18.37:396][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.18.37:396][685]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.18.37:397][685]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.18.37:403][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.18.37:418][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.18.37:425][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.18.37:460][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-02.18.37:461][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.11.29-02.18.37:462][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.11.29-02.18.37:465][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.18.37:482][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.11.29-02.18.37:560][686]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.11.29-02.19.32:323][925]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.19.32:372][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.29-02.19.32:907][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.19.32:921][951]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.19.32:922][951]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode6EE507DC4E11D4F39930709E3D6E830F.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.19.32:935][951]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.19.32:935][951]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.19.46:401][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.19.46:408][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.19.46:408][758]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:19:46)
+[2022.11.29-02.19.46:409][758]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.19.46:587][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178623s)
+[2022.11.29-02.19.46:587][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.178727s)
+[2022.11.29-02.19.46:587][758]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.19.46:587][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.19.46:588][758]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.19.46:588][758]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2022.11.29-02.19.46:614][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.29-02.19.46:617][758]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.19.46:617][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.19.46:617][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.19.46:617][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.19.46:617][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.19.46:617][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.19.46:619][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.19.46:678][758]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.19.46:679][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.19.46:679][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.19.46:679][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.19.46:679][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.11.29-02.19.46:680][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.11.29-02.19.46:681][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.11.29-02.19.46:681][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.11.29-02.19.46:681][758]LogInit: FAudioDevice initialized.
+[2022.11.29-02.19.46:681][758]LogAudio: Display: Audio Device (ID: 37) registered with world 'LoadingDock'.
+[2022.11.29-02.19.46:694][758]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.19.46:742][758]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.19.46
+[2022.11.29-02.19.46:742][758]LogWorld: Bringing up level for play took: 0.048110
+[2022.11.29-02.19.46:744][758]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2022.11.29-02.19.46:756][758]PIE: Server logged in
+[2022.11.29-02.19.46:757][758]PIE: Play in editor total start time 0.348 seconds.
+[2022.11.29-02.19.46:777][758]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.19.46:777][758]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.19.46:777][758]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.19.50:398][973]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.19.52:849][120]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.20.02:876][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.20.02:876][719]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.20.02:877][719]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.20.02:883][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.20.02:894][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.20.02:901][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.20.02:925][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.20.02:933][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.11.29-02.20.02:934][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.11.29-02.20.02:954][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.29-02.20.03:008][720]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.11.29-02.21.02:667][195]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.21.02:717][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.29-02.24.26:853][605]BlueprintLog: New page: Compile ZombieGameMode
+[2022.11.29-02.24.26:906][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.29-02.24.27:155][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.11.29-02.24.27:172][614]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.11.29-02.24.27:173][614]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode82872E644C4932D5E6FCE1AFBC960684.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.11.29-02.24.27:186][614]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.11.29-02.24.27:186][614]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.11.29-02.25.01:397][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.29-02.25.01:397][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.26.52:988][446]BlueprintLog: New page: Compile BP_Zombie
+[2022.11.29-02.26.53:084][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.29-02.26.53:301][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Zombie/BP_Zombie" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.11.29-02.26.53:322][448]LogSavePackage: Moving output files for package: /Game/_Main/Zombie/BP_Zombie
+[2022.11.29-02.26.53:323][448]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_Zombie3E41C47B44BD1AC797C6338A30E48215.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Zombie/BP_Zombie.uasset'
+[2022.11.29-02.26.53:337][448]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.11.29-02.26.53:337][448]LogContentValidation: Display: Validating Blueprint /Game/_Main/Zombie/BP_Zombie.BP_Zombie
+[2022.11.29-02.27.02:038][626]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.29-02.27.02:046][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.29-02.27.02:046][626]PIE: New page: PIE session: LoadingDock (2022. 11. 29. 오후 8:27:02)
+[2022.11.29-02.27.02:076][626]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.27.02:259][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183219s)
+[2022.11.29-02.27.02:259][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.183357s)
+[2022.11.29-02.27.02:259][626]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.29-02.27.02:259][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.29-02.27.02:259][626]LogAIModule: Creating AISystem for world LoadingDock
+[2022.11.29-02.27.02:260][626]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2022.11.29-02.27.02:290][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.29-02.27.02:292][626]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.29-02.27.02:292][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.29-02.27.02:292][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.29-02.27.02:292][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.29-02.27.02:292][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.29-02.27.02:292][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.29-02.27.02:294][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.29-02.27.02:354][626]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.11.29-02.27.02:354][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.29-02.27.02:354][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.29-02.27.02:354][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.29-02.27.02:355][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.11.29-02.27.02:355][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.11.29-02.27.02:356][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.11.29-02.27.02:356][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.11.29-02.27.02:356][626]LogInit: FAudioDevice initialized.
+[2022.11.29-02.27.02:356][626]LogAudio: Display: Audio Device (ID: 38) registered with world 'LoadingDock'.
+[2022.11.29-02.27.02:366][626]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.11.29-02.27.02:415][626]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.11.29-11.27.02
+[2022.11.29-02.27.02:416][626]LogWorld: Bringing up level for play took: 0.050141
+[2022.11.29-02.27.02:418][626]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2022.11.29-02.27.02:430][626]PIE: Server logged in
+[2022.11.29-02.27.02:431][626]PIE: Play in editor total start time 0.385 seconds.
+[2022.11.29-02.27.02:451][626]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.27.02:451][626]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.27.02:451][626]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.27.10:666][114]LogBlueprintUserMessages: [BP_Zombie_C_5] 80.0
+[2022.11.29-02.27.11:134][142]LogBlueprintUserMessages: [BP_Zombie_C_5] 30.0
+[2022.11.29-02.27.12:101][200]LogBlueprintUserMessages: [BP_Zombie_C_5] -20.0
+[2022.11.29-02.27.13:035][256]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.11.29-02.27.13:351][275]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.11.29-02.27.16:085][439]LogBlueprintUserMessages: [BP_Zombie_C_3] 80.0
+[2022.11.29-02.27.16:485][463]LogBlueprintUserMessages: [BP_Zombie_C_3] 60.0
+[2022.11.29-02.27.18:084][559]LogBlueprintUserMessages: [BP_Zombie_C_3] 40.0
+[2022.11.29-02.27.19:984][673]LogBlueprintUserMessages: [BP_Zombie_C_3] 20.0
+[2022.11.29-02.27.21:452][761]LogBlueprintUserMessages: [BP_Zombie_C_4] 80.0
+[2022.11.29-02.27.22:768][840]LogBlueprintUserMessages: [BP_Zombie_C_4] 30.0
+[2022.11.29-02.27.24:635][952]LogBlueprintUserMessages: [BP_Zombie_C_4] -20.0
+[2022.11.29-02.27.26:973][ 91]LogBlueprintUserMessages: [BP_Zombie_C_3] -30.0
+[2022.11.29-02.27.30:424][298]LogBlueprintUserMessages: [BP_Zombie_C_2] 80.0
+[2022.11.29-02.27.32:258][408]LogBlueprintUserMessages: [BP_Zombie_C_2] 60.0
+[2022.11.29-02.27.32:608][429]LogBlueprintUserMessages: [BP_Zombie_C_2] 10.0
+[2022.11.29-02.27.33:074][457]LogBlueprintUserMessages: [BP_Zombie_C_2] -40.0
+[2022.11.29-02.27.33:092][457]LogBlueprintUserMessages: [ZombieGameMode_C_0] Next Wave Start
+[2022.11.29-02.27.33:096][457]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=33.08 Y=8.42 Z=0.00 Location: X=9240.00 Y=100.00 Z=-1197.00 Normal: X=-1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.000 Actor:BP_Zombie_C_24 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.11.29-02.27.33:963][509]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.11.29-02.27.34:363][533]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.11.29-02.27.39:335][831]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.27.45:969][229]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.11.29-02.27.46:971][289]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.11.29-02.27.48:878][403]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.11.29-02.27.49:926][466]LogBlueprintUserMessages: [BP_Zombie_C_12] 50.0
+[2022.11.29-02.27.50:277][487]LogBlueprintUserMessages: [BP_Zombie_C_12] 30.0
+[2022.11.29-02.27.50:644][509]LogBlueprintUserMessages: [BP_Zombie_C_12] -20.0
+[2022.11.29-02.27.51:093][536]LogBlueprintUserMessages: [BP_Zombie_C_11] 80.0
+[2022.11.29-02.27.51:460][558]LogBlueprintUserMessages: [BP_Zombie_C_11] 60.0
+[2022.11.29-02.27.56:805][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.27.56:805][876]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.11.29-02.27.56:806][876]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.11.29-02.27.56:813][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.27.56:826][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.29-02.27.56:833][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.29-02.27.56:870][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.29-02.27.56:871][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.11.29-02.27.56:872][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.11.29-02.27.56:875][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.29-02.27.56:892][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.29-02.27.56:934][877]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.11.29-02.27.58:959][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/LoadingDock" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.29-02.27.58:991][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.29-02.27.59:758][993]LogSavePackage: Moving output files for package: /Game/_Main/Maps/LoadingDock
+[2022.11.29-02.27.59:758][993]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/LoadingDock5B148866420DD6B02E77F58803E9C9AD.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap'
+[2022.11.29-02.27.59:775][993]LogFileHelpers: No new changes to save!
+[2022.11.29-02.27.59:789][993]AssetCheck: New page: Asset Save: LoadingDock
+[2022.11.29-02.27.59:789][993]LogContentValidation: Display: Validating World /Game/_Main/Maps/LoadingDock.LoadingDock
+[2022.11.29-02.28.01:608][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/LoadingDock" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.29-02.28.01:639][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.29-02.28.02:362][ 96]LogSavePackage: Moving output files for package: /Game/_Main/Maps/LoadingDock
+[2022.11.29-02.28.02:362][ 96]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/LoadingDock07B54CA246C5116E65C302AF22D9D830.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap'
+[2022.11.29-02.28.02:377][ 96]LogFileHelpers: No new changes to save!
+[2022.11.29-02.28.02:390][ 96]AssetCheck: New page: Asset Save: LoadingDock
+[2022.11.29-02.28.02:390][ 96]LogContentValidation: Display: Validating World /Game/_Main/Maps/LoadingDock.LoadingDock
