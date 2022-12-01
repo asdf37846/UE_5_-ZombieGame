@@ -825,3 +825,1104 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-00.07.54:989][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2022.12.01-00.07.55:010][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2022.12.01-00.07.55:044][489]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.01-00.10.00:042][116]LogSlate: Took 0.008406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.01-00.10.00:793][159]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.10.00:795][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.10.00:801][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.10.00:812][159]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.01-00.10.02:419][159]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.10.02:419][159]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.10.03:314][159]LogSlate: Took 0.004597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.01-00.10.03:320][159]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.01-00.10.15:747][591]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-00.10.21:191][746]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.01-00.11.09:400][464]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.11.09:488][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.12.01-00.11.10:125][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.11.10:136][493]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009435 seconds
+[2022.12.01-00.11.10:156][493]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.11.10:156][493]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WE817134F4B0ED2FA6EE9E79307717C0D.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.11.10:183][493]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.11.10:183][493]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.11.20:519][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-00.11.20:526][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-00.11.20:526][674]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 6:11:20)
+[2022.12.01-00.11.20:526][674]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.11.20:699][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172996s)
+[2022.12.01-00.11.20:699][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.173065s)
+[2022.12.01-00.11.20:699][674]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-00.11.20:699][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.11.20:699][674]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-00.11.20:700][674]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2022.12.01-00.11.20:739][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.12.01-00.11.20:740][674]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-00.11.20:740][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-00.11.20:740][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-00.11.20:741][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-00.11.20:741][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-00.11.20:741][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-00.11.20:743][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-00.11.20:802][674]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-00.11.20:802][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-00.11.20:802][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-00.11.20:802][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-00.11.20:803][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.01-00.11.20:803][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.01-00.11.20:805][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.01-00.11.20:805][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.01-00.11.20:805][674]LogInit: FAudioDevice initialized.
+[2022.12.01-00.11.20:805][674]LogAudio: Display: Audio Device (ID: 3) registered with world 'LoadingDock'.
+[2022.12.01-00.11.20:818][674]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-00.11.20:867][674]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-09.11.20
+[2022.12.01-00.11.20:867][674]LogWorld: Bringing up level for play took: 0.049404
+[2022.12.01-00.11.20:869][674]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.12.01-00.11.20:881][674]PIE: Server logged in
+[2022.12.01-00.11.20:882][674]PIE: Play in editor total start time 0.356 seconds.
+[2022.12.01-00.11.20:903][674]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.11.20:903][674]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.11.20:903][674]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.11.20:903][674]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.11.25:554][950]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-00.11.27:440][ 63]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.11.28:204][109]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.01-00.11.29:687][198]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-00.11.30:054][220]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-00.11.32:371][359]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-00.11.33:038][399]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-00.11.35:004][517]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.01-00.11.36:638][615]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.01-00.11.45:827][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.11.45:827][163]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.11.45:829][163]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.11.45:835][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.11.45:845][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-00.11.45:852][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.11.45:887][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-00.11.45:888][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-00.11.45:890][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-00.11.45:892][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.11.45:907][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.01-00.11.45:945][164]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.12.01-00.12.42:996][725]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.12.43:050][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.01-00.12.43:500][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.12.43:509][746]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.12.43:509][746]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W11D6CAAC4E534A97D5A70E8B2B8D15D2.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.12.43:521][746]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.12.43:521][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.13.18:922][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-00.13.18:924][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.034
+[2022.12.01-00.13.18:925][381]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Widgets/MainWidget_W] ([2] browsable assets)...
+[2022.12.01-00.13.18:928][381]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W]
+[2022.12.01-00.13.18:928][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Widgets/MainWidget_W]
+[2022.12.01-00.13.18:938][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto1
+[2022.12.01-00.13.18:939][381]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W_Auto19006514543C5D71743A752980BA9B022.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto1.uasset'
+[2022.12.01-00.13.18:939][381]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.12.01-00.14.02:285][782]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.14.02:285][782]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.14.09:487][206]LogEditorTransaction: Undo Move Node
+[2022.12.01-00.15.27:053][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.15.27:053][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.17.10:162][996]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.17.10:218][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-00.17.10:765][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.17.10:776][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.17.10:776][ 23]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WB857F8C14294FCC6C9F5738EE6B8DE54.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.17.10:790][ 23]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.17.10:790][ 23]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.17.22:411][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-00.17.22:418][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-00.17.22:419][225]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 6:17:22)
+[2022.12.01-00.17.22:419][225]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.17.22:592][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172910s)
+[2022.12.01-00.17.22:592][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.172991s)
+[2022.12.01-00.17.22:592][225]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-00.17.22:592][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.17.22:592][225]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-00.17.22:593][225]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2022.12.01-00.17.22:626][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.12.01-00.17.22:628][225]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-00.17.22:628][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-00.17.22:628][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-00.17.22:629][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-00.17.22:629][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-00.17.22:629][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-00.17.22:631][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-00.17.22:690][225]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-00.17.22:691][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-00.17.22:691][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-00.17.22:691][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-00.17.22:691][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.01-00.17.22:691][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.01-00.17.22:692][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.01-00.17.22:692][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.01-00.17.22:692][225]LogInit: FAudioDevice initialized.
+[2022.12.01-00.17.22:692][225]LogAudio: Display: Audio Device (ID: 4) registered with world 'LoadingDock'.
+[2022.12.01-00.17.22:709][225]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-00.17.22:757][225]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-09.17.22
+[2022.12.01-00.17.22:757][225]LogWorld: Bringing up level for play took: 0.048722
+[2022.12.01-00.17.22:760][225]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.12.01-00.17.22:772][225]PIE: Server logged in
+[2022.12.01-00.17.22:772][225]PIE: Play in editor total start time 0.354 seconds.
+[2022.12.01-00.17.22:793][225]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.17.22:793][225]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.17.22:793][225]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.17.22:793][225]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.17.22:819][226]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054863 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2022.12.01-00.17.26:279][431]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-00.17.27:162][484]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-00.17.27:563][508]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-00.17.27:963][532]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.01-00.17.30:617][691]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.17.33:848][885]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.01-00.17.35:666][994]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-00.17.36:583][ 49]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-00.17.38:099][140]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.01-00.17.48:982][793]LogBlueprintUserMessages: [BP_Zombie_C_7] 80.0
+[2022.12.01-00.17.49:399][818]LogBlueprintUserMessages: [BP_Zombie_C_7] 30.0
+[2022.12.01-00.17.52:048][977]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.01-00.17.53:032][ 36]LogBlueprintUserMessages: [BP_Zombie_C_2] 30.0
+[2022.12.01-00.17.53:699][ 76]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.12.01-00.17.54:149][103]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.12.01-00.17.55:166][164]LogBlueprintUserMessages: [BP_Zombie_C_2] 10.0
+[2022.12.01-00.17.58:650][373]LogBlueprintUserMessages: [BP_Zombie_C_7] 10.0
+[2022.12.01-00.18.00:150][463]LogBlueprintUserMessages: [BP_Zombie_C_7] -40.0
+[2022.12.01-00.18.00:666][494]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.01-00.18.01:717][557]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.01-00.18.02:549][607]LogBlueprintUserMessages: [BP_Zombie_C_2] -40.0
+[2022.12.01-00.18.02:562][607]LogBlueprintUserMessages: [ZombieGameMode_C_0] Next Wave Start
+[2022.12.01-00.18.02:564][607]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.02:726][617]LogCharacterMovement: BP_Zombie_C_11 is stuck and failed to move! Velocity: X=25.24 Y=-54.43 Z=0.00 Location: X=4215.73 Y=4353.69 Z=-802.00 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:16.208 Actor:BP_Zombie_C_9 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.02:845][624]LogCharacterMovement: BP_Zombie_C_14 is stuck and failed to move! Velocity: X=58.14 Y=14.81 Z=0.00 Location: X=9240.69 Y=100.11 Z=-1196.90 Normal: X=0.20 Y=-0.98 Z=0.00 PenetrationDepth:25.097 Actor:BP_Zombie_C_15 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.02:860][625]LogCharacterMovement: BP_Zombie_C_15 is stuck and failed to move! Velocity: X=59.73 Y=5.69 Z=0.00 Location: X=9233.15 Y=143.81 Z=-1198.30 Normal: X=-0.17 Y=0.99 Z=-0.00 PenetrationDepth:23.652 Actor:BP_Zombie_C_14 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.02:894][627]LogCharacterMovement: BP_Zombie_C_9 is stuck and failed to move! Velocity: X=14.59 Y=-30.86 Z=0.00 Location: X=4189.98 Y=4398.67 Z=-801.44 Normal: X=-0.49 Y=0.87 Z=0.00 PenetrationDepth:13.612 Actor:BP_Zombie_C_11 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.03:611][670]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=-5.97 Y=-59.70 Z=0.00 Location: X=9896.96 Y=5221.14 Z=-794.92 Normal: X=-0.96 Y=0.28 Z=0.00 PenetrationDepth:27.371 Actor:BP_Zombie_C_23 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.04:046][696]LogCharacterMovement: BP_Zombie_C_18 is stuck and failed to move! Velocity: X=-48.29 Y=-35.61 Z=0.00 Location: X=8233.49 Y=3197.76 Z=-799.85 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:24.981 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.04:580][728]LogCharacterMovement: BP_Zombie_C_19 is stuck and failed to move! Velocity: X=-45.14 Y=-39.53 Z=0.00 Location: X=8206.45 Y=3228.38 Z=-802.00 Normal: X=0.69 Y=-0.73 Z=0.00 PenetrationDepth:33.235 Actor:BP_Zombie_C_16 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.10:663][ 93]LogBlueprintUserMessages: [BP_Zombie_C_13] 50.0
+[2022.12.01-00.18.11:029][115]LogBlueprintUserMessages: [BP_Zombie_C_13] 0.0
+[2022.12.01-00.18.11:932][169]LogBlueprintUserMessages: [BP_Zombie_C_14] 50.0
+[2022.12.01-00.18.12:332][193]LogBlueprintUserMessages: [BP_Zombie_C_14] 0.0
+[2022.12.01-00.18.13:034][235]LogBlueprintUserMessages: [BP_Zombie_C_15] 50.0
+[2022.12.01-00.18.15:723][395]LogBlueprintUserMessages: [BP_Zombie_C_15] 0.0
+[2022.12.01-00.18.17:988][531]LogBlueprintUserMessages: [BP_Zombie_C_12] 50.0
+[2022.12.01-00.18.18:323][551]LogBlueprintUserMessages: [BP_Zombie_C_12] 0.0
+[2022.12.01-00.18.21:243][726]LogBlueprintUserMessages: [BP_Zombie_C_17] 50.0
+[2022.12.01-00.18.21:890][765]LogBlueprintUserMessages: [BP_Zombie_C_18] 50.0
+[2022.12.01-00.18.22:440][798]LogBlueprintUserMessages: [BP_Zombie_C_17] 0.0
+[2022.12.01-00.18.22:976][830]LogBlueprintUserMessages: [BP_Zombie_C_18] 0.0
+[2022.12.01-00.18.24:042][894]LogBlueprintUserMessages: [BP_Zombie_C_16] 50.0
+[2022.12.01-00.18.24:460][919]LogBlueprintUserMessages: [BP_Zombie_C_16] 0.0
+[2022.12.01-00.18.25:326][971]LogBlueprintUserMessages: [BP_Zombie_C_19] 50.0
+[2022.12.01-00.18.26:260][ 27]LogBlueprintUserMessages: [BP_Zombie_C_19] 0.0
+[2022.12.01-00.18.30:661][291]LogBlueprintUserMessages: [BP_Zombie_C_8] 50.0
+[2022.12.01-00.18.31:227][325]LogBlueprintUserMessages: [BP_Zombie_C_8] 0.0
+[2022.12.01-00.18.32:027][373]LogBlueprintUserMessages: [BP_Zombie_C_11] 50.0
+[2022.12.01-00.18.33:193][443]LogBlueprintUserMessages: [BP_Zombie_C_11] 0.0
+[2022.12.01-00.18.36:094][617]LogBlueprintUserMessages: [BP_Zombie_C_9] 50.0
+[2022.12.01-00.18.36:560][645]LogBlueprintUserMessages: [BP_Zombie_C_9] 0.0
+[2022.12.01-00.18.43:061][ 35]LogBlueprintUserMessages: [BP_Zombie_C_20] 50.0
+[2022.12.01-00.18.45:094][157]LogBlueprintUserMessages: [BP_Zombie_C_20] 0.0
+[2022.12.01-00.18.47:445][298]LogBlueprintUserMessages: [BP_Zombie_C_22] 80.0
+[2022.12.01-00.18.48:212][344]LogBlueprintUserMessages: [BP_Zombie_C_22] 30.0
+[2022.12.01-00.18.48:678][372]LogBlueprintUserMessages: [BP_Zombie_C_22] -20.0
+[2022.12.01-00.18.49:161][401]LogBlueprintUserMessages: [BP_Zombie_C_23] 50.0
+[2022.12.01-00.18.49:627][429]LogBlueprintUserMessages: [BP_Zombie_C_23] 0.0
+[2022.12.01-00.18.50:678][492]LogBlueprintUserMessages: [BP_Zombie_C_21] 50.0
+[2022.12.01-00.18.51:695][553]LogBlueprintUserMessages: [BP_Zombie_C_21] 0.0
+[2022.12.01-00.18.53:245][646]LogBlueprintUserMessages: [BP_Zombie_C_10] 50.0
+[2022.12.01-00.18.53:761][677]LogBlueprintUserMessages: [BP_Zombie_C_10] 0.0
+[2022.12.01-00.18.53:781][677]LogBlueprintUserMessages: [ZombieGameMode_C_0] Next Wave Start
+[2022.12.01-00.18.54:119][697]LogCharacterMovement: BP_Zombie_C_25 is stuck and failed to move! Velocity: X=25.87 Y=-54.14 Z=0.00 Location: X=4187.19 Y=4398.70 Z=-801.77 Normal: X=-0.54 Y=0.84 Z=0.00 PenetrationDepth:16.202 Actor:BP_Zombie_C_29 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.54:186][701]LogCharacterMovement: BP_Zombie_C_35 is stuck and failed to move! Velocity: X=59.63 Y=6.66 Z=0.00 Location: X=9230.01 Y=138.76 Z=-1198.94 Normal: X=-0.25 Y=0.97 Z=-0.00 PenetrationDepth:27.907 Actor:BP_Zombie_C_34 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.54:644][728]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=14.36 Y=-30.96 Z=0.00 Location: X=4215.00 Y=4355.00 Z=-802.00 Normal: X=0.57 Y=-0.82 Z=0.00 PenetrationDepth:14.749 Actor:BP_Zombie_C_25 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.55:194][761]LogCharacterMovement: BP_Zombie_C_40 is stuck and failed to move! Velocity: X=-55.32 Y=-23.23 Z=0.00 Location: X=8224.66 Y=3196.02 Z=-801.98 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:28.738 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.55:443][776]LogCharacterMovement: BP_Zombie_C_31 is stuck and failed to move! Velocity: X=58.15 Y=14.80 Z=0.00 Location: X=9240.04 Y=100.01 Z=-1197.00 Normal: X=0.23 Y=-0.97 Z=0.00 PenetrationDepth:27.153 Actor:BP_Zombie_C_32 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.55:475][778]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=59.65 Y=6.43 Z=0.00 Location: X=9231.56 Y=140.96 Z=-1198.94 Normal: X=-0.20 Y=0.98 Z=0.00 PenetrationDepth:26.179 Actor:BP_Zombie_C_31 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.55:626][787]LogCharacterMovement: BP_Zombie_C_47 is stuck and failed to move! Velocity: X=-4.91 Y=-33.78 Z=0.00 Location: X=9920.00 Y=5215.00 Z=-797.00 Normal: X=0.04 Y=1.00 Z=0.00 PenetrationDepth:32.831 Actor:BP_Zombie_C_46 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.56:344][830]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-55.30 Y=-23.27 Z=0.00 Location: X=8224.70 Y=3195.96 Z=-801.99 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:0.407 Actor:BP_Zombie_C_36 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.18.58:081][934]LogCharacterMovement: BP_Zombie_C_36 is stuck and failed to move! Velocity: X=-41.96 Y=-42.88 Z=0.00 Location: X=8186.64 Y=3253.67 Z=-799.46 Normal: X=-0.53 Y=0.85 Z=0.00 PenetrationDepth:31.058 Actor:BP_Zombie_C_38 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.19.01:473][137]LogBlueprintUserMessages: [BP_Zombie_C_37] 50.0
+[2022.12.01-00.19.02:744][213]LogBlueprintUserMessages: [BP_Zombie_C_36] 50.0
+[2022.12.01-00.19.03:160][238]LogBlueprintUserMessages: [BP_Zombie_C_37] 0.0
+[2022.12.01-00.19.03:560][262]LogBlueprintUserMessages: [BP_Zombie_C_40] 50.0
+[2022.12.01-00.19.04:108][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.19.04:108][292]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.19.04:109][292]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.19.04:116][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.19.04:125][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-00.19.04:133][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.19.04:162][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-00.19.04:166][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-00.19.04:167][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-00.19.04:170][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.19.04:192][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.01-00.19.04:218][293]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.12.01-00.19.18:456][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.19.18:456][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.20.10:748][622]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.20.10:814][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.12.01-00.20.11:271][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.20.11:283][644]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.20.11:283][644]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W5E26E93242EF4B308DA5C38D04B96793.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.20.11:298][644]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.20.11:298][644]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.20.47:053][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.20.47:053][833]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.21.57:589][537]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.21.57:643][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.01-00.21.58:013][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.21.58:026][554]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.21.58:026][554]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W46137F1B42FF52D50C36608B964FFF96.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.21.58:039][554]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.21.58:039][554]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.22.05:406][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-00.22.05:412][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-00.22.05:412][709]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 6:22:05)
+[2022.12.01-00.22.05:438][709]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.22.05:608][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170151s)
+[2022.12.01-00.22.05:608][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.170250s)
+[2022.12.01-00.22.05:608][709]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-00.22.05:608][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.22.05:608][709]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-00.22.05:609][709]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2022.12.01-00.22.05:641][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.01-00.22.05:642][709]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.01-00.22.05:642][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-00.22.05:642][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-00.22.05:642][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-00.22.05:642][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-00.22.05:643][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-00.22.05:643][709]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-00.22.05:643][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-00.22.05:643][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-00.22.05:643][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-00.22.05:643][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-00.22.05:643][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-00.22.05:645][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-00.22.05:707][709]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-00.22.05:707][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-00.22.05:707][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-00.22.05:707][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-00.22.05:707][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.01-00.22.05:707][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.01-00.22.05:709][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.01-00.22.05:709][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.01-00.22.05:709][709]LogInit: FAudioDevice initialized.
+[2022.12.01-00.22.05:709][709]LogAudio: Display: Audio Device (ID: 5) registered with world 'LoadingDock'.
+[2022.12.01-00.22.05:718][709]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-00.22.05:766][709]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-09.22.05
+[2022.12.01-00.22.05:767][709]LogWorld: Bringing up level for play took: 0.048735
+[2022.12.01-00.22.05:769][709]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.12.01-00.22.05:780][709]PIE: Server logged in
+[2022.12.01-00.22.05:781][709]PIE: Play in editor total start time 0.369 seconds.
+[2022.12.01-00.22.05:803][709]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.22.05:803][709]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.22.05:803][709]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.22.05:803][709]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.22.08:758][881]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.01-00.22.09:908][950]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.01-00.22.11:108][ 22]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-00.22.11:608][ 52]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-00.22.15:691][297]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-00.22.16:258][331]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-00.22.17:729][418]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-00.22.17:928][430]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-00.22.19:211][507]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.01-00.22.28:578][ 69]LogBlueprintUserMessages: [BP_Zombie_C_7] 50.0
+[2022.12.01-00.22.29:027][ 96]LogBlueprintUserMessages: [BP_Zombie_C_7] 0.0
+[2022.12.01-00.22.31:612][251]LogBlueprintUserMessages: [BP_Zombie_C_6] 80.0
+[2022.12.01-00.22.31:961][272]LogBlueprintUserMessages: [BP_Zombie_C_6] 30.0
+[2022.12.01-00.22.32:511][305]LogBlueprintUserMessages: [BP_Zombie_C_6] -20.0
+[2022.12.01-00.22.34:261][410]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.01-00.22.36:061][518]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.01-00.22.37:145][583]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.01-00.22.37:727][618]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.01-00.22.37:740][618]LogBlueprintUserMessages: [ZombieGameMode_C_0] Next Wave Start
+[2022.12.01-00.22.37:743][618]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.37:954][631]LogCharacterMovement: BP_Zombie_C_10 is stuck and failed to move! Velocity: X=34.16 Y=-1.16 Z=0.00 Location: X=4214.07 Y=4399.45 Z=-801.72 Normal: X=-0.05 Y=1.00 Z=0.00 PenetrationDepth:23.521 Actor:BP_Zombie_C_11 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.38:557][667]LogCharacterMovement: BP_Zombie_C_11 is stuck and failed to move! Velocity: X=59.99 Y=0.90 Z=0.00 Location: X=4257.45 Y=4359.81 Z=-801.90 Normal: X=0.72 Y=-0.69 Z=0.00 PenetrationDepth:10.354 Actor:BP_Zombie_C_10 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.39:223][707]LogCharacterMovement: BP_Zombie_C_18 is stuck and failed to move! Velocity: X=-48.62 Y=-35.15 Z=0.00 Location: X=8233.86 Y=3197.35 Z=-801.90 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:24.421 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.39:794][741]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-23.71 Y=-24.55 Z=0.00 Location: X=8183.91 Y=3253.86 Z=-799.84 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:33.624 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.39:842][744]LogCharacterMovement: BP_Zombie_C_19 is stuck and failed to move! Velocity: X=-45.25 Y=-39.40 Z=0.00 Location: X=8204.54 Y=3225.74 Z=-802.00 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:31.676 Actor:BP_Zombie_C_16 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.40:257][769]LogBlueprintUserMessages: [BP_Zombie_C_20] 50.0
+[2022.12.01-00.22.40:573][788]LogBlueprintUserMessages: [BP_Zombie_C_20] 0.0
+[2022.12.01-00.22.44:143][  2]LogBlueprintUserMessages: [BP_Zombie_C_23] 50.0
+[2022.12.01-00.22.44:493][ 23]LogBlueprintUserMessages: [BP_Zombie_C_23] 0.0
+[2022.12.01-00.22.44:859][ 45]LogBlueprintUserMessages: [BP_Zombie_C_21] 50.0
+[2022.12.01-00.22.45:227][ 67]LogBlueprintUserMessages: [BP_Zombie_C_21] 0.0
+[2022.12.01-00.22.45:961][111]LogBlueprintUserMessages: [BP_Zombie_C_22] 50.0
+[2022.12.01-00.22.46:896][167]LogBlueprintUserMessages: [BP_Zombie_C_22] 0.0
+[2022.12.01-00.22.54:545][626]LogBlueprintUserMessages: [BP_Zombie_C_15] 50.0
+[2022.12.01-00.22.54:913][648]LogBlueprintUserMessages: [BP_Zombie_C_15] 0.0
+[2022.12.01-00.22.55:263][669]LogBlueprintUserMessages: [BP_Zombie_C_13] 50.0
+[2022.12.01-00.22.56:213][726]LogBlueprintUserMessages: [BP_Zombie_C_14] 50.0
+[2022.12.01-00.22.56:595][749]LogBlueprintUserMessages: [BP_Zombie_C_14] 0.0
+[2022.12.01-00.22.56:631][751]LogCharacterMovement: BP_Zombie_C_13 is stuck and failed to move! Velocity: X=35.23 Y=5.52 Z=0.00 Location: X=9239.61 Y=99.90 Z=-1198.97 Normal: X=-0.22 Y=-0.06 Z=-0.97 PenetrationDepth:0.417 Actor:BP_Zombie_C_12 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.22.57:430][799]LogBlueprintUserMessages: [BP_Zombie_C_13] 0.0
+[2022.12.01-00.22.59:063][897]LogBlueprintUserMessages: [BP_Zombie_C_12] 50.0
+[2022.12.01-00.23.00:764][999]LogBlueprintUserMessages: [BP_Zombie_C_12] 0.0
+[2022.12.01-00.23.05:841][303]LogBlueprintUserMessages: [BP_Zombie_C_17] 50.0
+[2022.12.01-00.23.08:309][451]LogBlueprintUserMessages: [BP_Zombie_C_17] 30.0
+[2022.12.01-00.23.08:642][471]LogBlueprintUserMessages: [BP_Zombie_C_17] -20.0
+[2022.12.01-00.23.09:308][511]LogBlueprintUserMessages: [BP_Zombie_C_18] 50.0
+[2022.12.01-00.23.09:742][537]LogBlueprintUserMessages: [BP_Zombie_C_18] 0.0
+[2022.12.01-00.23.10:894][606]LogBlueprintUserMessages: [BP_Zombie_C_16] 50.0
+[2022.12.01-00.23.12:592][708]LogBlueprintUserMessages: [BP_Zombie_C_16] 0.0
+[2022.12.01-00.23.16:275][929]LogBlueprintUserMessages: [BP_Zombie_C_19] 50.0
+[2022.12.01-00.23.17:026][974]LogBlueprintUserMessages: [BP_Zombie_C_19] 0.0
+[2022.12.01-00.23.25:764][497]LogBlueprintUserMessages: [BP_Zombie_C_11] 50.0
+[2022.12.01-00.23.26:130][519]LogBlueprintUserMessages: [BP_Zombie_C_11] 0.0
+[2022.12.01-00.23.26:463][539]LogBlueprintUserMessages: [BP_Zombie_C_10] 50.0
+[2022.12.01-00.23.26:930][567]LogBlueprintUserMessages: [BP_Zombie_C_10] 0.0
+[2022.12.01-00.23.27:463][599]LogBlueprintUserMessages: [BP_Zombie_C_9] 50.0
+[2022.12.01-00.23.27:780][618]LogBlueprintUserMessages: [BP_Zombie_C_9] 0.0
+[2022.12.01-00.23.28:180][642]LogBlueprintUserMessages: [BP_Zombie_C_8] 50.0
+[2022.12.01-00.23.28:530][663]LogBlueprintUserMessages: [BP_Zombie_C_8] 0.0
+[2022.12.01-00.23.28:549][663]LogBlueprintUserMessages: [ZombieGameMode_C_0] Next Wave Start
+[2022.12.01-00.23.28:552][663]LogCharacterMovement: BP_Zombie_C_36 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.28:839][680]LogCharacterMovement: BP_Zombie_C_25 is stuck and failed to move! Velocity: X=25.81 Y=-54.17 Z=0.00 Location: X=4187.90 Y=4398.69 Z=-801.53 Normal: X=-0.53 Y=0.85 Z=0.00 PenetrationDepth:16.585 Actor:BP_Zombie_C_28 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.30:023][751]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-48.59 Y=-35.20 Z=0.00 Location: X=8233.51 Y=3197.74 Z=-801.90 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:24.943 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.30:338][770]LogCharacterMovement: BP_Zombie_C_35 is stuck and failed to move! Velocity: X=59.63 Y=6.68 Z=0.00 Location: X=9229.86 Y=139.35 Z=-1198.94 Normal: X=-0.25 Y=0.97 Z=0.00 PenetrationDepth:27.368 Actor:BP_Zombie_C_34 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.30:439][776]LogCharacterMovement: BP_Zombie_C_34 is stuck and failed to move! Velocity: X=33.08 Y=8.42 Z=0.00 Location: X=9240.00 Y=100.00 Z=-1197.00 Normal: X=0.16 Y=-0.99 Z=0.00 PenetrationDepth:23.716 Actor:BP_Zombie_C_35 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.31:158][819]LogCharacterMovement: BP_Zombie_C_40 is stuck and failed to move! Velocity: X=-48.58 Y=-35.22 Z=0.00 Location: X=8233.37 Y=3197.90 Z=-801.90 Normal: X=0.66 Y=-0.75 Z=-0.00 PenetrationDepth:25.162 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.32:292][887]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-48.52 Y=-35.29 Z=0.00 Location: X=8232.82 Y=3198.51 Z=-801.90 Normal: X=0.66 Y=-0.75 Z=-0.00 PenetrationDepth:25.981 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.32:808][918]LogCharacterMovement: BP_Zombie_C_36 is stuck and failed to move! Velocity: X=-41.55 Y=-43.29 Z=0.00 Location: X=8179.79 Y=3253.78 Z=-799.84 Normal: X=-0.67 Y=0.74 Z=0.00 PenetrationDepth:31.431 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.32:857][921]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-45.16 Y=-39.50 Z=0.00 Location: X=8203.12 Y=3225.59 Z=-802.00 Normal: X=0.68 Y=-0.73 Z=0.00 PenetrationDepth:31.346 Actor:BP_Zombie_C_36 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-00.23.42:282][486]LogBlueprintUserMessages: [BP_Zombie_C_34] 50.0
+[2022.12.01-00.23.42:618][506]LogBlueprintUserMessages: [BP_Zombie_C_34] 0.0
+[2022.12.01-00.23.42:985][528]LogBlueprintUserMessages: [BP_Zombie_C_31] 50.0
+[2022.12.01-00.23.44:105][595]LogBlueprintUserMessages: [BP_Zombie_C_31] 0.0
+[2022.12.01-00.23.44:439][615]LogBlueprintUserMessages: [BP_Zombie_C_35] 50.0
+[2022.12.01-00.23.45:257][664]LogBlueprintUserMessages: [BP_Zombie_C_37] 50.0
+[2022.12.01-00.23.48:575][863]LogBlueprintUserMessages: [BP_Zombie_C_32] 50.0
+[2022.12.01-00.23.50:327][968]LogBlueprintUserMessages: [BP_Zombie_C_36] 50.0
+[2022.12.01-00.23.50:728][992]LogBlueprintUserMessages: [BP_Zombie_C_36] 0.0
+[2022.12.01-00.23.54:347][209]LogBlueprintUserMessages: [BP_Zombie_C_46] 80.0
+[2022.12.01-00.23.57:050][371]LogBlueprintUserMessages: [BP_Zombie_C_47] 50.0
+[2022.12.01-00.23.57:617][405]LogBlueprintUserMessages: [BP_Zombie_C_44] 50.0
+[2022.12.01-00.23.58:000][428]LogBlueprintUserMessages: [BP_Zombie_C_44] 0.0
+[2022.12.01-00.23.59:085][493]LogBlueprintUserMessages: [BP_Zombie_C_41] 50.0
+[2022.12.01-00.23.59:936][544]LogBlueprintUserMessages: [BP_Zombie_C_41] 0.0
+[2022.12.01-00.24.01:570][642]LogBlueprintUserMessages: [BP_Zombie_C_32] 0.0
+[2022.12.01-00.24.02:986][727]LogBlueprintUserMessages: [BP_Zombie_C_43] 50.0
+[2022.12.01-00.24.03:904][782]LogBlueprintUserMessages: [BP_Zombie_C_42] 80.0
+[2022.12.01-00.24.04:255][803]LogBlueprintUserMessages: [BP_Zombie_C_42] 30.0
+[2022.12.01-00.24.04:672][828]LogBlueprintUserMessages: [BP_Zombie_C_42] 10.0
+[2022.12.01-00.24.05:055][851]LogBlueprintUserMessages: [BP_Zombie_C_42] -40.0
+[2022.12.01-00.24.06:190][919]LogBlueprintUserMessages: [BP_Zombie_C_45] 80.0
+[2022.12.01-00.24.07:824][ 17]LogBlueprintUserMessages: [BP_Zombie_C_45] 30.0
+[2022.12.01-00.24.08:207][ 40]LogBlueprintUserMessages: [BP_Zombie_C_45] -20.0
+[2022.12.01-00.24.09:024][ 89]LogBlueprintUserMessages: [BP_Zombie_C_46] 60.0
+[2022.12.01-00.24.11:175][218]LogBlueprintUserMessages: [BP_Zombie_C_46] 10.0
+[2022.12.01-00.24.11:991][267]LogBlueprintUserMessages: [BP_Zombie_C_47] 0.0
+[2022.12.01-00.24.13:024][329]LogBlueprintUserMessages: [BP_Zombie_C_46] -40.0
+[2022.12.01-00.24.15:208][460]LogBlueprintUserMessages: [BP_Zombie_C_40] 50.0
+[2022.12.01-00.24.15:657][487]LogBlueprintUserMessages: [BP_Zombie_C_40] 0.0
+[2022.12.01-00.24.17:208][580]LogBlueprintUserMessages: [BP_Zombie_C_43] 0.0
+[2022.12.01-00.24.17:559][601]LogBlueprintUserMessages: [BP_Zombie_C_37] 0.0
+[2022.12.01-00.24.21:946][863]LogBlueprintUserMessages: [BP_Zombie_C_35] 0.0
+[2022.12.01-00.24.22:378][889]LogBlueprintUserMessages: [BP_Zombie_C_38] 50.0
+[2022.12.01-00.24.23:912][981]LogBlueprintUserMessages: [BP_Zombie_C_38] 30.0
+[2022.12.01-00.24.24:445][ 13]LogBlueprintUserMessages: [BP_Zombie_C_38] -20.0
+[2022.12.01-00.24.25:062][ 50]LogBlueprintUserMessages: [BP_Zombie_C_30] 50.0
+[2022.12.01-00.24.25:528][ 78]LogBlueprintUserMessages: [BP_Zombie_C_30] 0.0
+[2022.12.01-00.24.26:028][108]LogBlueprintUserMessages: [BP_Zombie_C_33] 50.0
+[2022.12.01-00.24.26:379][129]LogBlueprintUserMessages: [BP_Zombie_C_33] 0.0
+[2022.12.01-00.24.26:846][157]LogBlueprintUserMessages: [BP_Zombie_C_39] 50.0
+[2022.12.01-00.24.27:195][178]LogBlueprintUserMessages: [BP_Zombie_C_39] 0.0
+[2022.12.01-00.24.33:197][538]LogBlueprintUserMessages: [BP_Zombie_C_28] 80.0
+[2022.12.01-00.24.33:780][573]LogBlueprintUserMessages: [BP_Zombie_C_28] 60.0
+[2022.12.01-00.24.35:330][666]LogBlueprintUserMessages: [BP_Zombie_C_28] 10.0
+[2022.12.01-00.24.37:481][795]LogBlueprintUserMessages: [BP_Zombie_C_28] -10.0
+[2022.12.01-00.24.38:264][842]LogBlueprintUserMessages: [BP_Zombie_C_24] 80.0
+[2022.12.01-00.24.40:297][964]LogBlueprintUserMessages: [BP_Zombie_C_24] 60.0
+[2022.12.01-00.24.40:647][985]LogBlueprintUserMessages: [BP_Zombie_C_24] 40.0
+[2022.12.01-00.24.41:098][ 12]LogBlueprintUserMessages: [BP_Zombie_C_24] 20.0
+[2022.12.01-00.24.41:464][ 34]LogBlueprintUserMessages: [BP_Zombie_C_24] -30.0
+[2022.12.01-00.24.42:364][ 88]LogBlueprintUserMessages: [BP_Zombie_C_29] 80.0
+[2022.12.01-00.24.42:748][111]LogBlueprintUserMessages: [BP_Zombie_C_29] 30.0
+[2022.12.01-00.24.43:164][136]LogBlueprintUserMessages: [BP_Zombie_C_29] -20.0
+[2022.12.01-00.24.44:815][235]LogBlueprintUserMessages: [BP_Zombie_C_25] 80.0
+[2022.12.01-00.24.46:147][315]LogBlueprintUserMessages: [BP_Zombie_C_25] 30.0
+[2022.12.01-00.24.47:131][374]LogBlueprintUserMessages: [BP_Zombie_C_25] -20.0
+[2022.12.01-00.24.51:766][652]LogBlueprintUserMessages: [BP_Zombie_C_26] 50.0
+[2022.12.01-00.24.54:298][804]LogBlueprintUserMessages: [BP_Zombie_C_27] 50.0
+[2022.12.01-00.24.54:765][832]LogBlueprintUserMessages: [BP_Zombie_C_27] 0.0
+[2022.12.01-00.25.05:216][459]LogBlueprintUserMessages: [BP_Zombie_C_26] 0.0
+[2022.12.01-00.25.05:216][459]LogBlueprintUserMessages: [ZombieGameMode_C_0] Player Win
+[2022.12.01-00.25.07:988][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.25.07:988][624]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-00.25.07:989][624]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.25.07:995][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.25.08:005][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-00.25.08:013][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.25.08:045][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-00.25.08:047][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.01-00.25.08:049][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.01-00.25.08:052][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-00.25.08:070][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.01-00.25.08:118][625]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.01-00.25.10:913][788]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.25.10:961][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.01-00.25.11:351][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.25.11:363][806]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.25.11:364][806]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W76D278594299E01C191979BF4B2C7942.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.25.11:377][806]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.25.11:377][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.25.26:913][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-00.25.26:914][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.27.25:538][449]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-00.27.25:619][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.01-00.27.26:008][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-00.27.26:028][464]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-00.27.26:029][464]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeFCEF6EC64E04466EC17FBCB6F6977559.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-00.27.26:044][464]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-00.27.26:044][464]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-00.27.45:795][689]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.27.45:795][689]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.28.23:834][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-00.28.23:835][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.29.25:976][488]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-00.29.26:103][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.12.01-00.29.26:537][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-00.29.26:576][497]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-00.29.26:576][497]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter96248ADF43848F3CA24C788BB6F0271C.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-00.29.26:590][497]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-00.29.26:590][497]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-00.30.33:674][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.12.01-00.30.33:676][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.045
+[2022.12.01-00.30.33:676][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.12.01-00.30.33:684][208]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.12.01-00.30.33:684][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Blueprints/BP_FirstPersonCharacter]
+[2022.12.01-00.30.33:722][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Blueprints/BP_FirstPersonCharacter_Auto2
+[2022.12.01-00.30.33:723][208]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter_Auto2703D3C2949F505EC9A84F2A993326C04.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2022.12.01-00.30.33:724][208]LogFileHelpers: Auto-saving content packages took 0.048
+[2022.12.01-00.30.46:159][275]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-00.30.46:260][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-00.30.46:648][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-00.30.46:687][280]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-00.30.46:687][280]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter8E75123141110EBE95E5C3B6FC802CF8.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-00.30.46:701][280]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-00.30.46:701][280]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-00.46.34:475][655]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.46.34:573][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.12.01-00.46.34:901][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.46.34:914][668]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.46.34:914][668]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W695306E648B331EE40F804917B8C68C5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.46.34:929][668]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.46.34:929][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.47.08:690][700]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-00.47.08:816][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.12.01-00.47.09:385][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-00.47.09:424][721]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-00.47.09:425][721]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterFCDC447C4E730843A6F10BBC1658EC32.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-00.47.09:439][721]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-00.47.09:439][721]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-00.47.49:825][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.01-00.47.49:827][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.047
+[2022.12.01-00.47.49:827][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/Blueprints/ZombieGameMode] ([2] browsable assets)...
+[2022.12.01-00.47.49:827][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Blueprints/ZombieGameMode]
+[2022.12.01-00.47.49:848][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto3
+[2022.12.01-00.47.49:857][994]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode_Auto3951982DC41974C175C63C6AE7FD11466.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Blueprints/ZombieGameMode_Auto3.uasset'
+[2022.12.01-00.47.49:858][994]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Widgets/MainWidget_W] ([2] browsable assets)...
+[2022.12.01-00.47.49:863][994]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W]
+[2022.12.01-00.47.49:863][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Widgets/MainWidget_W]
+[2022.12.01-00.47.49:878][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto3
+[2022.12.01-00.47.49:879][994]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W_Auto3B5F56037415F049D9D1203A96069F264.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto3.uasset'
+[2022.12.01-00.47.49:879][994]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.12.01-00.47.50:758][ 35]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-00.47.50:840][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-00.47.51:277][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-00.47.51:296][ 53]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-00.47.51:297][ 53]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode208ABA63417ABCEC04D8618346377AA2.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-00.47.51:313][ 53]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-00.47.51:313][ 53]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-00.48.42:006][924]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.48.42:006][924]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.48.49:986][394]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.48.50:077][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.01-00.48.50:425][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.48.50:438][410]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.48.50:438][410]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W3248D821429AEBDCB540F1AE3FD0EAEE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.48.50:452][410]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.48.50:452][410]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.49.12:525][280]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.49.12:525][280]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.49.14:139][373]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.49.14:139][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.49.14:150][373]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-00.49.14:151][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.49.19:252][597]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.49.19:252][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.49.19:257][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-00.49.19:580][597]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.49.19:580][597]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.49.23:142][738]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.01-00.49.23:168][738]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.01-00.49.24:166][738]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2022.12.01-00.50.00:265][901]LogSlate: Took 0.003837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.01-00.50.04:200][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.50.04:200][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.51.14:446][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.51.14:446][418]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.51.50:150][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.51.50:164][464]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.51.50:164][464]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WF3FADA5648285DCF374F4AB9D7EEFD63.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.51.50:181][464]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.51.50:181][464]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.51.50:390][477]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.51.50:654][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.12.01-00.52.12:422][759]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.52.12:535][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.12.01-00.52.13:725][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.52.13:725][826]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.52.47:159][789]LogEditorTransaction: Undo Remove Widget
+[2022.12.01-00.52.47:542][795]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.01-00.52.48:342][835]LogEditorTransaction: Undo Move Widget
+[2022.12.01-00.52.48:890][865]LogEditorTransaction: Undo Remove Variable
+[2022.12.01-00.52.49:317][888]LogEditorTransaction: Undo Rename Variable
+[2022.12.01-00.52.49:693][908]LogEditorTransaction: Undo Add Variable
+[2022.12.01-00.52.50:069][928]LogEditorTransaction: Undo Move Widget
+[2022.12.01-00.52.50:500][951]LogEditorTransaction: Undo Move Widget
+[2022.12.01-00.52.50:865][970]LogEditorTransaction: Undo Move Widget
+[2022.12.01-00.52.51:231][989]LogEditorTransaction: Undo Remove Variable
+[2022.12.01-00.52.51:607][  9]LogEditorTransaction: Undo Add Variable
+[2022.12.01-00.52.52:000][ 30]LogEditorTransaction: Undo Rename Widget
+[2022.12.01-00.53.15:193][354]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.01-00.53.15:923][374]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.01-00.54.35:268][ 71]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.54.35:336][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.12.01-00.54.35:885][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.54.35:899][ 94]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.54.35:899][ 94]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W111E7F244B1E23BEF9A70CB66F925148.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.54.35:915][ 94]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.54.35:915][ 94]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.54.51:023][890]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.54.51:023][890]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.54.54:594][ 98]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.54.54:668][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.01-00.54.55:100][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.54.55:113][115]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.54.55:113][115]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W07DFE01047AB5BC9DFC5A88B644758F3.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.54.55:126][115]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.54.55:126][115]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.55.54:700][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.55.54:700][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.56.06:819][975]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.56.06:819][975]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-00.56.09:273][119]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-00.56.09:351][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.01-00.56.09:812][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.56.09:827][136]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.56.09:827][136]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W76A04E77486FC9C031B05AA1E690D9CF.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.56.09:840][136]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-00.56.09:840][136]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-00.56.24:908][948]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009135 seconds
+[2022.12.01-00.56.24:908][948]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.01-00.56.24:908][948]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.01-00.56.25:289][948]LogSlate: Took 0.008615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.01-00.56.25:300][948]LogSlate: Took 0.008258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.01-00.56.25:323][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-00.56.25:330][949]LogSlate: Took 0.000602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.01-00.56.25:332][949]LogSlate: Took 0.001362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.01-00.56.25:337][949]LogSlate: Took 0.001531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.01-00.56.25:337][949]LogSlate: Took 0.000720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.01-00.56.26:818][ 38]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.01-00.56.26:822][ 38]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.01-00.56.26:830][ 38]LogSlate: Took 0.008299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.01-00.56.26:832][ 38]LogSlate: Took 0.000754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.01-00.56.29:663][205]LogSlate: Took 0.000926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.01-00.56.38:442][715]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.01-00.57.06:787][397]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-00.57.12:359][724]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.57.12:360][724]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.57.14:670][859]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.57.14:738][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.12.01-00.57.15:258][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.57.15:272][885]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.57.15:273][885]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W78945C7C478625AF2BB8F9846023DD06.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.57.15:288][885]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-00.57.15:288][885]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-00.57.57:668][891]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.57.57:676][891]LogBlueprint: Error: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\_Main\Widgets\MainWidget_W.uasset: [Compiler] 바인딩: 프로퍼티 ' /Script/UMG.Widget:ToolTipTextDelegate ', 위젯 ' WaveBox ': 바인딩: 'None' : 'Main Widget W'에서 'None' 검색에 실패했습니다.
+[2022.12.01-00.57.57:737][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.01-00.57.58:240][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.57.58:253][914]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.57.58:253][914]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W7D8A1F8A4A8254CA84BCBE99C7380159.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.57.58:268][914]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-00.57.58:268][914]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-00.58.01:924][130]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.58.01:924][130]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.58.03:685][234]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.58.03:691][234]LogBlueprint: Error: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\_Main\Widgets\MainWidget_W.uasset: [Compiler] 바인딩: 프로퍼티 ' /Script/UMG.Widget:ToolTipTextDelegate ', 위젯 ' WaveBox ': 바인딩: 'None' : 'Main Widget W'에서 'None' 검색에 실패했습니다.
+[2022.12.01-00.58.03:754][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.01-00.58.16:615][994]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.58.16:678][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.01-00.58.17:421][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.58.17:434][ 29]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.58.17:434][ 29]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W6437092F42E2C10B656BCE89FDBE7048.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.58.17:447][ 29]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-00.58.17:447][ 29]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-00.58.28:935][712]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.58.29:002][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.01-00.58.29:537][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.58.29:550][734]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.58.29:550][734]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WC192D06C4A2B3DC4418EE59CFCD630DD.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.58.29:565][734]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-00.58.29:565][734]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-00.58.33:475][960]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.58.33:475][960]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.59.04:858][272]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-00.59.04:936][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.01-00.59.05:518][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-00.59.05:530][297]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-00.59.05:530][297]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W904F48D244CAF0286FD2898754B6F8F2.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-00.59.05:544][297]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-00.59.05:544][297]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-00.59.14:020][789]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-00.59.14:020][789]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2022.12.01-01.00.02:491][297]BlueprintLog: New page: MainWidget_W 컴파일
+[2022.12.01-01.00.02:558][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.01-01.00.03:114][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.00.03:126][320]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.00.03:126][320]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WFA37B4EF444E386CBBA13E95DABDEF1E.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.00.03:140][320]AssetCheck: New page: 에셋 저장:  MainWidget_W
+[2022.12.01-01.00.03:140][320]LogContentValidation: Display: WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W 유효성 검사 중
+[2022.12.01-01.00.12:401][862]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009210 seconds
+[2022.12.01-01.00.12:401][862]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.01-01.00.12:589][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.00.12:593][863]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.01-01.00.12:596][863]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.01-01.00.12:598][863]LogSlate: Took 0.000780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.01-01.00.13:762][933]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.01-01.00.13:766][933]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.01-01.00.13:767][933]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.01-01.00.15:227][ 21]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.00.15:294][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.12.01-01.00.15:681][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.00.15:694][ 35]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.00.15:695][ 35]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W211623DA4A3E9B28AD247281281A0E71.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.00.15:709][ 35]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.00.15:709][ 35]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.00.17:142][114]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.01-01.00.36:967][851]LogDerivedDataCache: C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.509 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-01.00.50:040][324]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.00.50:109][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.01-01.00.50:427][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.00.50:440][337]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.00.50:441][337]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W406AD76A4802DCFB37B069837DBAE45A.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.00.50:455][337]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.00.50:455][337]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.02.19:202][266]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-01.02.19:285][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.01-01.02.19:553][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-01.02.19:573][274]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-01.02.19:573][274]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameModeBCD3642F44A88CE04BAE5995C8C0C751.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-01.02.19:589][274]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-01.02.19:589][274]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-01.03.26:910][783]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-01.03.26:990][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.01-01.03.27:431][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-01.03.27:452][800]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-01.03.27:452][800]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode777E424E4076515AE6470691855D901B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-01.03.27:466][800]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-01.03.27:466][800]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-01.03.27:666][812]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-01.03.31:293][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-01.03.31:305][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-01.03.31:305][933]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 7:03:31)
+[2022.12.01-01.03.31:306][933]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.03.31:504][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198570s)
+[2022.12.01-01.03.31:504][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.198643s)
+[2022.12.01-01.03.31:504][933]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-01.03.31:504][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-01.03.31:505][933]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-01.03.31:505][933]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.12.01-01.03.31:546][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.01-01.03.31:550][933]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-01.03.31:550][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-01.03.31:550][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-01.03.31:550][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-01.03.31:550][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-01.03.31:550][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-01.03.31:553][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-01.03.31:613][933]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-01.03.31:613][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-01.03.31:613][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-01.03.31:613][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-01.03.31:614][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.01-01.03.31:614][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.01-01.03.31:615][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.01-01.03.31:615][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.01-01.03.31:615][933]LogInit: FAudioDevice initialized.
+[2022.12.01-01.03.31:615][933]LogAudio: Display: Audio Device (ID: 6) registered with world 'LoadingDock'.
+[2022.12.01-01.03.31:625][933]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-01.03.31:677][933]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-10.03.31
+[2022.12.01-01.03.31:677][933]LogWorld: Bringing up level for play took: 0.051848
+[2022.12.01-01.03.31:680][933]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.12.01-01.03.31:692][933]PIE: Server logged in
+[2022.12.01-01.03.31:693][933]PIE: Play in editor total start time 0.387 seconds.
+[2022.12.01-01.03.31:715][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.03.31:715][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.03.31:715][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.03.31:715][933]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.03.34:073][ 67]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-01.03.35:390][146]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-01.03.35:724][166]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-01.03.36:124][190]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.01-01.03.39:359][384]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.03.39:624][400]LogBlueprintUserMessages: [BP_Zombie_C_0] 80.0
+[2022.12.01-01.03.40:875][475]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-01.03.41:425][508]LogBlueprintUserMessages: [BP_Zombie_C_0] 60.0
+[2022.12.01-01.03.42:158][552]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-01.03.43:208][615]LogBlueprintUserMessages: [BP_Zombie_C_0] 10.0
+[2022.12.01-01.03.43:741][647]LogBlueprintUserMessages: [BP_Zombie_C_0] -40.0
+[2022.12.01-01.03.55:853][372]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.12.01-01.03.56:203][393]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.12.01-01.03.56:887][434]LogBlueprintUserMessages: [BP_Zombie_C_7] 50.0
+[2022.12.01-01.03.57:503][471]LogBlueprintUserMessages: [BP_Zombie_C_7] 0.0
+[2022.12.01-01.03.58:820][550]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.01-01.04.00:403][645]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.01-01.04.01:587][716]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.01-01.04.02:787][788]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.01-01.04.07:784][ 87]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_18 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.08:258][116]LogCharacterMovement: BP_Zombie_C_14 is stuck and failed to move! Velocity: X=33.08 Y=8.42 Z=0.00 Location: X=9240.01 Y=99.96 Z=-1196.54 Normal: X=0.24 Y=-0.97 Z=0.00 PenetrationDepth:27.936 Actor:BP_Zombie_C_13 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.08:309][119]LogCharacterMovement: BP_Zombie_C_13 is stuck and failed to move! Velocity: X=59.69 Y=6.08 Z=0.00 Location: X=9232.78 Y=143.05 Z=-1196.90 Normal: X=-0.17 Y=0.99 Z=-0.00 PenetrationDepth:24.307 Actor:BP_Zombie_C_14 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.08:809][149]LogCharacterMovement: BP_Zombie_C_9 is stuck and failed to move! Velocity: X=28.49 Y=-52.80 Z=0.00 Location: X=4179.47 Y=4343.12 Z=-801.65 Normal: X=-0.96 Y=-0.30 Z=0.00 PenetrationDepth:24.372 Actor:BP_Zombie_C_11 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.09:275][177]LogCharacterMovement: BP_Zombie_C_18 is stuck and failed to move! Velocity: X=-48.33 Y=-35.56 Z=0.00 Location: X=8233.49 Y=3197.77 Z=-801.90 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:24.982 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.09:843][211]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-23.69 Y=-24.57 Z=0.00 Location: X=8183.73 Y=3254.07 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:33.415 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.04.10:876][273]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-38.31 Y=-46.18 Z=0.00 Location: X=8144.08 Y=3254.13 Z=-799.85 Normal: X=-0.43 Y=0.90 Z=0.00 PenetrationDepth:4.385 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (40 other events since notify)
+[2022.12.01-01.04.11:709][323]LogBlueprintUserMessages: [BP_Zombie_C_20] 50.0
+[2022.12.01-01.04.12:596][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.04.12:596][374]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.04.12:598][374]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-01.04.12:605][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.04.12:614][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-01.04.12:623][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.04.12:670][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.04.12:678][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.01-01.04.12:680][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.01-01.04.12:704][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.01-01.04.12:747][375]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.01-01.05.56:243][308]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.05.56:243][308]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.07.40:115][695]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.01-01.07.46:826][943]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.07.46:947][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.01-01.07.47:317][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.07.47:331][958]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.07.47:331][958]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W90D8B779478F42AB2A50DEBBBA270FF5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.07.47:346][958]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.07.47:346][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.08.01:577][141]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.08.01:644][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.01-01.08.02:282][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.08.02:297][174]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.08.02:297][174]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WD598E91341CCDB8E92DBEF8864F3FA9A.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.08.02:311][174]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.08.02:311][174]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.08.05:119][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-01.08.05:158][330]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-01.08.05:158][330]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter1FAC129C4FC55CC177DBE289E8C1DDFA.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-01.08.05:173][330]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-01.08.05:173][330]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-01.08.06:662][418]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-01.08.06:768][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.01-01.08.07:421][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-01.08.07:460][443]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-01.08.07:460][443]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter47B7E6AF4B28E2DD82EC1A9DD86E0056.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-01.08.07:475][443]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-01.08.07:475][443]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-01.08.21:712][766]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-01.08.21:821][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.01-01.08.22:136][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-01.08.22:175][772]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-01.08.22:176][772]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterCB13B1CE4DE54A59C11B53B0B28E599F.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-01.08.22:190][772]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-01.08.22:190][772]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-01.09.02:388][986]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-01.09.02:472][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.01-01.09.02:992][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-01.09.03:012][  8]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-01.09.03:012][  8]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode4A7481EA49F112D6CFB0F3AE90DD26F5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-01.09.03:027][  8]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-01.09.03:027][  8]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-01.09.04:322][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-01.09.04:335][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-01.09.04:335][ 86]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 7:09:04)
+[2022.12.01-01.09.04:335][ 86]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.09.04:509][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.173919s)
+[2022.12.01-01.09.04:509][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.173988s)
+[2022.12.01-01.09.04:509][ 86]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-01.09.04:509][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-01.09.04:510][ 86]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-01.09.04:510][ 86]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2022.12.01-01.09.04:552][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.01-01.09.04:556][ 86]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-01.09.04:556][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-01.09.04:556][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-01.09.04:557][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-01.09.04:557][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-01.09.04:557][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-01.09.04:558][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-01.09.04:619][ 86]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-01.09.04:619][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-01.09.04:619][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-01.09.04:619][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-01.09.04:620][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.12.01-01.09.04:620][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.12.01-01.09.04:621][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.12.01-01.09.04:621][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.12.01-01.09.04:621][ 86]LogInit: FAudioDevice initialized.
+[2022.12.01-01.09.04:621][ 86]LogAudio: Display: Audio Device (ID: 7) registered with world 'LoadingDock'.
+[2022.12.01-01.09.04:634][ 86]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-01.09.04:682][ 86]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-10.09.04
+[2022.12.01-01.09.04:683][ 86]LogWorld: Bringing up level for play took: 0.048584
+[2022.12.01-01.09.04:685][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.12.01-01.09.04:697][ 86]PIE: Server logged in
+[2022.12.01-01.09.04:698][ 86]PIE: Play in editor total start time 0.362 seconds.
+[2022.12.01-01.09.04:719][ 86]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.09.04:719][ 86]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.09.04:719][ 86]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.09.04:744][ 87]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061385 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2022.12.01-01.09.08:003][281]LogBlueprintUserMessages: [BP_Zombie_C_7] 80.0
+[2022.12.01-01.09.09:136][349]LogBlueprintUserMessages: [BP_Zombie_C_7] 30.0
+[2022.12.01-01.09.09:636][379]LogBlueprintUserMessages: [BP_Zombie_C_7] -20.0
+[2022.12.01-01.09.10:469][429]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.12.01-01.09.14:319][660]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.12.01-01.09.19:069][945]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.01-01.09.19:520][972]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.01-01.09.21:470][ 89]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.01-01.09.22:036][123]LogBlueprintUserMessages: [BP_Zombie_C_3] 30.0
+[2022.12.01-01.09.23:053][184]LogBlueprintUserMessages: [BP_Zombie_C_3] -20.0
+[2022.12.01-01.09.26:437][387]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-01.09.26:770][407]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-01.09.29:505][571]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-01.09.30:624][638]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.09.32:121][728]LogBlueprintUserMessages: [BP_Zombie_C_5] 30.0
+[2022.12.01-01.09.33:205][793]LogBlueprintUserMessages: [BP_Zombie_C_5] -20.0
+[2022.12.01-01.09.34:839][891]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.09.35:105][907]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-01.09.35:505][931]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-01.09.36:022][962]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.01-01.09.36:455][988]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.01-01.09.41:466][286]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.09.43:510][409]LogBlueprintUserMessages: [BP_Zombie_C_17] 50.0
+[2022.12.01-01.09.43:827][428]LogBlueprintUserMessages: [BP_Zombie_C_17] 0.0
+[2022.12.01-01.09.44:844][489]LogBlueprintUserMessages: [BP_Zombie_C_19] 50.0
+[2022.12.01-01.09.45:245][513]LogBlueprintUserMessages: [BP_Zombie_C_19] 0.0
+[2022.12.01-01.09.49:631][776]LogBlueprintUserMessages: [BP_Zombie_C_18] 50.0
+[2022.12.01-01.09.49:964][796]LogBlueprintUserMessages: [BP_Zombie_C_18] 0.0
+[2022.12.01-01.09.50:966][856]LogBlueprintUserMessages: [BP_Zombie_C_16] 50.0
+[2022.12.01-01.09.51:283][875]LogBlueprintUserMessages: [BP_Zombie_C_16] 0.0
+[2022.12.01-01.09.53:818][ 27]LogBlueprintUserMessages: [BP_Zombie_C_11] 80.0
+[2022.12.01-01.09.55:605][134]LogBlueprintUserMessages: [BP_Zombie_C_11] 60.0
+[2022.12.01-01.09.56:122][165]LogBlueprintUserMessages: [BP_Zombie_C_11] 40.0
+[2022.12.01-01.09.56:591][193]LogBlueprintUserMessages: [BP_Zombie_C_11] -10.0
+[2022.12.01-01.09.57:374][240]LogBlueprintUserMessages: [BP_Zombie_C_8] 50.0
+[2022.12.01-01.09.57:796][265]LogBlueprintUserMessages: [BP_Zombie_C_8] 0.0
+[2022.12.01-01.09.59:649][376]LogBlueprintUserMessages: [BP_Zombie_C_9] 50.0
+[2022.12.01-01.10.00:018][398]LogBlueprintUserMessages: [BP_Zombie_C_9] 0.0
+[2022.12.01-01.10.00:768][443]LogBlueprintUserMessages: [BP_Zombie_C_10] 50.0
+[2022.12.01-01.10.01:101][463]LogBlueprintUserMessages: [BP_Zombie_C_10] 0.0
+[2022.12.01-01.10.13:811][225]LogBlueprintUserMessages: [BP_Zombie_C_20] 80.0
+[2022.12.01-01.10.14:613][273]LogBlueprintUserMessages: [BP_Zombie_C_20] 60.0
+[2022.12.01-01.10.17:986][475]LogBlueprintUserMessages: [BP_Zombie_C_20] 10.0
+[2022.12.01-01.10.18:353][497]LogBlueprintUserMessages: [BP_Zombie_C_20] -40.0
+[2022.12.01-01.10.20:905][650]LogBlueprintUserMessages: [BP_Zombie_C_23] 50.0
+[2022.12.01-01.10.21:254][671]LogBlueprintUserMessages: [BP_Zombie_C_23] 0.0
+[2022.12.01-01.10.22:371][738]LogBlueprintUserMessages: [BP_Zombie_C_22] 50.0
+[2022.12.01-01.10.22:889][769]LogBlueprintUserMessages: [BP_Zombie_C_22] 0.0
+[2022.12.01-01.10.23:455][803]LogBlueprintUserMessages: [BP_Zombie_C_21] 50.0
+[2022.12.01-01.10.23:771][822]LogBlueprintUserMessages: [BP_Zombie_C_21] 0.0
+[2022.12.01-01.10.28:505][106]LogBlueprintUserMessages: [BP_Zombie_C_13] 50.0
+[2022.12.01-01.10.28:873][128]LogBlueprintUserMessages: [BP_Zombie_C_13] 0.0
+[2022.12.01-01.10.29:556][169]LogBlueprintUserMessages: [BP_Zombie_C_14] 50.0
+[2022.12.01-01.10.29:973][194]LogBlueprintUserMessages: [BP_Zombie_C_14] 0.0
+[2022.12.01-01.10.32:289][333]LogBlueprintUserMessages: [BP_Zombie_C_15] 50.0
+[2022.12.01-01.10.33:106][382]LogBlueprintUserMessages: [BP_Zombie_C_15] 0.0
+[2022.12.01-01.10.34:122][443]LogBlueprintUserMessages: [BP_Zombie_C_12] 50.0
+[2022.12.01-01.10.34:640][474]LogBlueprintUserMessages: [BP_Zombie_C_12] 0.0
+[2022.12.01-01.10.36:805][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.10.36:807][601]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.10.36:807][601]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-01.10.36:813][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.10.36:826][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-01.10.36:835][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.10.36:881][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-01.10.36:882][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.01-01.10.36:883][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.01-01.10.36:886][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.10.36:904][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.01-01.10.36:936][602]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.01-01.11.14:286][838]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.11.14:286][838]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.11.17:485][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.11.17:485][ 19]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.01-01.12.00:433][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.01-01.12.00:437][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Maps/LoadingDock' took 0.048
+[2022.12.01-01.12.00:438][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Widgets/MainWidget_W] ([2] browsable assets)...
+[2022.12.01-01.12.00:441][771]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W]
+[2022.12.01-01.12.00:441][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Widgets/MainWidget_W]
+[2022.12.01-01.12.00:456][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto4
+[2022.12.01-01.12.00:456][771]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W_Auto4CCF4973E4727E2E467872A9AB0810F09.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Autosaves/Game/_Main/Widgets/MainWidget_W_Auto4.uasset'
+[2022.12.01-01.12.00:456][771]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.12.01-01.12.34:767][674]Cmd: TRANSACTION UNDO
+[2022.12.01-01.12.34:767][674]LogEditorTransaction: Undo Set Display Rate to 60 fps
+[2022.12.01-01.16.21:101][ 87]Cmd: TRANSACTION UNDO
+[2022.12.01-01.16.21:101][ 87]LogEditorTransaction: Undo Delete Keys
+[2022.12.01-01.16.21:367][ 90]Cmd: TRANSACTION UNDO
+[2022.12.01-01.16.21:367][ 90]LogEditorTransaction: Undo Move Keys or Sections
+[2022.12.01-01.16.42:311][327]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.16.42:424][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.01-01.16.43:398][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.16.43:415][373]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.16.43:415][373]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W6BCBD48A42BEF850F8DA519448A77980.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.16.43:430][373]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.16.43:430][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.17.55:555][236]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.17.55:625][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-01.17.56:143][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.17.56:160][260]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.17.56:161][260]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W64D4873A453954936BB9BA92080A7514.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.17.56:176][260]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.17.56:176][260]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.17.57:403][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-01.17.57:410][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-01.17.57:410][334]PIE: New page: PIE session: LoadingDock (2022. 12. 1. 오후 7:17:57)
+[2022.12.01-01.17.57:435][334]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.17.57:605][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170038s)
+[2022.12.01-01.17.57:605][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.170149s)
+[2022.12.01-01.17.57:605][334]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-01.17.57:605][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-01.17.57:606][334]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.01-01.17.57:606][334]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.12.01-01.17.57:650][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.01-01.17.57:653][334]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-01.17.57:653][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.01-01.17.57:653][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-01.17.57:654][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.01-01.17.57:654][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.01-01.17.57:654][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-01.17.57:656][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-01.17.57:716][334]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.01-01.17.57:716][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-01.17.57:716][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-01.17.57:716][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-01.17.57:717][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.12.01-01.17.57:717][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.12.01-01.17.57:718][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.12.01-01.17.57:718][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.12.01-01.17.57:718][334]LogInit: FAudioDevice initialized.
+[2022.12.01-01.17.57:718][334]LogAudio: Display: Audio Device (ID: 8) registered with world 'LoadingDock'.
+[2022.12.01-01.17.57:728][334]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.01-01.17.57:777][334]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.01-10.17.57
+[2022.12.01-01.17.57:778][334]LogWorld: Bringing up level for play took: 0.049899
+[2022.12.01-01.17.57:780][334]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.12.01-01.17.57:792][334]PIE: Server logged in
+[2022.12.01-01.17.57:793][334]PIE: Play in editor total start time 0.383 seconds.
+[2022.12.01-01.17.57:813][334]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.17.57:813][334]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.17.57:813][334]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.18.03:008][640]LogBlueprintUserMessages: [BP_Zombie_C_7] 80.0
+[2022.12.01-01.18.03:491][669]LogBlueprintUserMessages: [BP_Zombie_C_7] 60.0
+[2022.12.01-01.18.03:959][697]LogBlueprintUserMessages: [BP_Zombie_C_7] 40.0
+[2022.12.01-01.18.04:341][720]LogBlueprintUserMessages: [BP_Zombie_C_7] 20.0
+[2022.12.01-01.18.04:742][744]LogBlueprintUserMessages: [BP_Zombie_C_7] 0.0
+[2022.12.01-01.18.06:392][843]LogBlueprintUserMessages: [BP_Zombie_C_6] 80.0
+[2022.12.01-01.18.06:808][868]LogBlueprintUserMessages: [BP_Zombie_C_6] 60.0
+[2022.12.01-01.18.08:625][977]LogBlueprintUserMessages: [BP_Zombie_C_6] 40.0
+[2022.12.01-01.18.10:892][113]LogBlueprintUserMessages: [BP_Zombie_C_6] -10.0
+[2022.12.01-01.18.13:709][282]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.01-01.18.14:492][329]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.01-01.18.15:708][402]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.01-01.18.16:109][426]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.01-01.18.19:876][652]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.01-01.18.22:493][809]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.01-01.18.23:360][861]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.01-01.18.24:143][908]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.01-01.18.27:277][ 96]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.01-01.18.29:859][251]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.01-01.18.30:376][282]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.01-01.18.31:960][377]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.01-01.18.33:143][448]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.01-01.18.38:140][747]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_18 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.01-01.18.39:836][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.18.39:836][846]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.01-01.18.39:837][846]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-01.18.39:843][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.18.39:857][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-01.18.39:866][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-01.18.39:914][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-01.18.39:914][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.01-01.18.39:916][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.01-01.18.39:918][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-01.18.39:938][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.01-01.18.39:984][847]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.12.01-01.19.34:712][325]BlueprintLog: New page: Compile ZombieGameMode
+[2022.12.01-01.19.34:792][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.01-01.19.35:185][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/ZombieGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset" SILENT=true
+[2022.12.01-01.19.35:205][340]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/ZombieGameMode
+[2022.12.01-01.19.35:205][340]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/ZombieGameMode9D7F525046F7286424AD8EAE682443D8.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/ZombieGameMode.uasset'
+[2022.12.01-01.19.35:220][340]AssetCheck: New page: Asset Save: ZombieGameMode
+[2022.12.01-01.19.35:220][340]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/ZombieGameMode.ZombieGameMode
+[2022.12.01-01.19.36:466][411]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.01-01.19.36:591][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.01-01.19.36:990][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.01-01.19.37:030][421]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.01-01.19.37:030][421]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterE7DE28364F73BA2DE0C56E95A2373B39.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.01-01.19.37:048][421]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.01-01.19.37:048][421]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.01-01.19.38:352][497]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.01-01.19.38:462][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.01-01.19.38:837][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.01-01.19.38:854][514]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.01-01.19.38:854][514]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WC3FBEC5A452BD6D156A0CB9D04F93C4F.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.01-01.19.38:870][514]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.01-01.19.38:870][514]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.01-01.20.13:291][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.12.01-01.20.14:480][871]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.01-01.20.14:539][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.01-01.20.14:580][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.01-01.20.14:620][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.01-01.20.17:375][937]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\gyu37\Downloads\MainMenu.png)
+[2022.12.01-01.20.17:462][937]LogTexture: Display: Building textures: /Game/_Main/Widgets/MainMenu.MainMenu (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.12.01-01.20.20:367][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu.uasset" SILENT=true
+[2022.12.01-01.20.20:615][ 21]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu
+[2022.12.01-01.20.20:617][ 21]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuA210D1AD4DC8C8F0A180EDA350FEA036.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu.uasset'
+[2022.12.01-01.20.20:634][ 21]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.01-01.20.20:634][ 21]LogContentValidation: Display: Validating Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.01-01.20.23:797][204]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.01-01.20.23:797][204]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.01-01.20.23:847][204]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
