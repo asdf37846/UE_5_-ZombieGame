@@ -1404,3 +1404,58 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-11.07.05:844][ 71]LogFileHelpers: 저장할 변경내용이 없습니다!
 [2022.12.04-11.07.05:860][ 71]AssetCheck: New page: 에셋 저장:  LoadingDock
 [2022.12.04-11.07.05:860][ 71]LogContentValidation: Display: World /Game/_Main/Maps/LoadingDock.LoadingDock 유효성 검사 중
+[2022.12.04-11.07.51:857][312]LogSlate: Took 0.004442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.04-11.07.55:303][517]LogSlate: Took 0.008631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.04-11.07.56:285][572]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007883 seconds
+[2022.12.04-11.07.56:285][572]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.04-11.07.56:462][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-11.07.56:467][573]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.04-11.07.56:470][573]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.04-11.07.56:472][573]LogSlate: Took 0.000712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.04-11.07.57:768][651]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.04-11.07.57:769][651]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.04-11.07.58:217][677]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.04-11.09.05:714][ 97]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.12.04-11.09.05:811][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.12.04-11.09.06:187][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.04-11.09.06:226][104]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.04-11.09.06:226][104]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacterB115B2614DC80F73E1519A9167F12BAC.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.04-11.09.06:239][104]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.12.04-11.09.06:239][104]LogContentValidation: Display: Validating Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.12.04-11.09.08:211][219]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-11.09.08:211][219]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-11.09.08:341][219]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.04-11.11.12:856][965]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.04-11.12.50:344][996]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.04-11.12.50:448][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.12.04-11.12.50:735][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.04-11.12.50:765][  0]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.04-11.12.50:765][  0]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W0B5F812A4346BB90500622A18F75E01D.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.04-11.12.50:783][  0]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.04-11.12.50:783][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.04-11.13.23:059][455]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.04-11.13.23:122][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.12.04-11.13.23:533][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.04-11.13.23:563][465]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.04-11.13.23:563][465]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W58FAB2B946E543E7414B2DB4BC4AAE8C.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.04-11.13.23:579][465]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.04-11.13.23:579][465]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.04-11.16.34:197][364]LogEditorTransaction: Undo Edit Padding
+[2022.12.04-11.16.34:914][384]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2022.12.04-11.16.35:480][417]LogEditorTransaction: Undo Edit Vertical Alignment
+[2022.12.04-11.16.36:081][452]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2022.12.04-11.16.36:597][482]LogEditorTransaction: Undo Edit Vertical Alignment
+[2022.12.04-11.16.37:129][513]LogEditorTransaction: Undo Edit X
+[2022.12.04-11.17.15:413][797]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.04-11.17.15:483][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.12.04-11.17.15:901][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.04-11.17.15:931][814]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.04-11.17.15:931][814]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WF387D5634539C0227488F7AC9E859F30.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.04-11.17.15:946][814]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.04-11.17.15:946][814]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.04-11.17.35:114][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.04-11.17.35:142][422]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.04-11.17.35:143][422]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WA2102A5E4D42371FDF4B2C90171C28D4.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.04-11.17.35:155][422]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.04-11.17.35:155][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.04-11.17.36:819][522]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
