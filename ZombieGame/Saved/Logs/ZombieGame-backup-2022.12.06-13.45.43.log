@@ -1,0 +1,1386 @@
+﻿Log file open, 12/06/22 14:31:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19560)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZombieGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\ZombieGame.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1219] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="70cc212f4cc3c8fa73085c9b8d06e47a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.309565
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A60A6FAC4021266C8EA9B4867A4ABD68
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1219] (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.06-05.31.21:028][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.06-05.31.21:030][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.06-05.31.21:031][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.06-05.31.21:031][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.06-05.31.21:031][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.06-05.31.21:031][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.06-05.31.21:066][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.06-05.31.21:066][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.06-05.31.21:233][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.06-05.31.21:233][  0]LogD3D12RHI: Adapter has 5979MB of dedicated video memory, 0MB of dedicated system memory, and 8140MB of shared system memory, 1 output[s]
+[2022.12.06-05.31.21:243][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.06-05.31.21:243][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8140MB of shared system memory, 0 output[s]
+[2022.12.06-05.31.21:243][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.06-05.31.21:243][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.06-05.31.21:243][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.06-05.31.21:243][  0]LogHAL: Display: Platform has ~ 16 GB [17071009792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.06-05.31.21:243][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.06-05.31.21:243][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.06-05.31.21:243][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.06-05.31.21:244][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.06-05.31.21:244][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.06-05.31.21:244][  0]LogInit: Computer: LEEEUNHYUK
+[2022.12.06-05.31.21:244][  0]LogInit: User: gyu37
+[2022.12.06-05.31.21:244][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.06-05.31.21:244][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.06-05.31.21:244][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.06-05.31.21:244][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.06-05.31.21:244][  0]LogMemory: Process Physical Memory: 280.58 MB used, 290.18 MB peak
+[2022.12.06-05.31.21:244][  0]LogMemory: Process Virtual Memory: 239.67 MB used, 239.67 MB peak
+[2022.12.06-05.31.21:244][  0]LogMemory: Physical Memory: 7377.04 MB used,  8903.15 MB free, 16280.18 MB total
+[2022.12.06-05.31.21:244][  0]LogMemory: Virtual Memory: 11669.68 MB used,  15874.50 MB free, 27544.18 MB total
+[2022.12.06-05.31.21:244][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.06-05.31.21:253][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.06-05.31.21:273][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.06-05.31.21:274][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2022.12.06-05.31.21:274][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.12.06-05.31.21:433][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem:   - 영어(미국) - (Keyboard).
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 터치식 입력 수정 (TSF IME).
+[2022.12.06-05.31.21:488][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.12.06-05.31.21:553][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.06-05.31.21:553][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.06-05.31.23:621][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.06-05.31.23:625][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.06-05.31.23:625][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.06-05.31.23:705][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.06-05.31.23:755][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.06-05.31.23:765][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.06-05.31.23:793][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.06-05.31.23:828][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.06-05.31.23:828][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.06-05.31.23:886][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.06-05.31.23:886][  0]LogWindows: Attached monitors:
+[2022.12.06-05.31.23:886][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.12.06-05.31.23:886][  0]LogWindows: Found 1 attached monitors.
+[2022.12.06-05.31.23:886][  0]LogWindows: EnumDisplayDevices:
+[2022.12.06-05.31.23:886][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.12.06-05.31.23:887][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.12.06-05.31.23:887][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.06-05.31.23:888][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.12.06-05.31.23:888][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.06-05.31.23:888][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.12.06-05.31.23:888][  0]LogD3D12RHI:   Driver Version: 526.98 (internal:31.0.15.2698, unified:526.98)
+[2022.12.06-05.31.23:888][  0]LogD3D12RHI:      Driver Date: 11-13-2022
+[2022.12.06-05.31.23:888][  0]LogRHI: Texture pool is 3282 MB (70% of 4689 MB)
+[2022.12.06-05.31.23:888][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.06-05.31.23:888][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.06-05.31.23:902][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.06-05.31.23:912][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject"  -platform=all'
+[2022.12.06-05.31.23:913][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/ZombieGame.uproject"  -platform=all" ]
+[2022.12.06-05.31.23:974][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.06-05.31.24:013][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.06-05.31.24:013][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.06-05.31.24:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.06-05.31.24:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.12.06-05.31.24:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.12.06-05.31.24:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.06-05.31.24:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.06-05.31.24:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.06-05.31.24:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.12.06-05.31.24:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.06-05.31.24:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.06-05.31.24:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.12.06-05.31.24:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.12.06-05.31.24:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.12.06-05.31.24:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.06-05.31.24:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.06-05.31.24:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.06-05.31.24:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.06-05.31.24:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.06-05.31.24:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.06-05.31.24:089][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.06-05.31.24:136][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.12.06-05.31.24:136][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.06-05.31.24:140][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.06-05.31.24:140][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.06-05.31.24:140][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.06-05.31.24:140][  0]LogTargetPlatformManager:   PCM
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager:   BINKA
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager:   OGG
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.06-05.31.24:145][  0]LogTargetPlatformManager:   OPUS
+[2022.12.06-05.31.24:252][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.12.06-05.31.24:262][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.12.06-05.31.24:266][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.12.06-05.31.24:266][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.06-05.31.24:267][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.06-05.31.24:270][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.06-05.31.24:270][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.06-05.31.24:274][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.06-05.31.24:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.06-05.31.24:277][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.06-05.31.24:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.06-05.31.24:277][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.06-05.31.24:302][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.06-05.31.24:302][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.06-05.31.24:302][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.06-05.31.24:312][  0]LogDerivedDataCache: Speed tests for C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.06-05.31.24:312][  0]LogDerivedDataCache: Display: Performance to C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=191.50MBs, RandomWriteSpeed=209.42MBs. Assigned SpeedClass 'Local'
+[2022.12.06-05.31.24:312][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.06-05.31.24:313][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.06-05.31.24:313][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.06-05.31.24:318][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.06-05.31.24:318][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.06-05.31.24:318][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Intermediate/Shaders/WorkingDirectory/10012/).
+[2022.12.06-05.31.24:319][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gyu37/AppData/Local/Temp/UnrealShaderWorkingDir/ADAFB1C349995B1EAB95759211FAB09B/'.
+[2022.12.06-05.31.24:319][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.06-05.31.24:319][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.12.06-05.31.28:331][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.06-05.31.28:339][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.06-05.31.28:379][  0]LogAssetRegistry: FAssetRegistry took 0.0130 seconds to start up
+[2022.12.06-05.31.28:384][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.12.06-05.31.28:565][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.06-05.31.28:566][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.12.06-05.31.28:845][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.06-05.31.28:845][  0]LogDeviceProfileManager: Active device profile: [000006113F6B39C0][0000061119725000 50] WindowsEditor
+[2022.12.06-05.31.28:845][  0]LogDeviceProfileManager: Profiles: [000006113F6B3480][000006113637C800 50] Windows, [000006113F6B39C0][0000061119725000 50] WindowsEditor, [000006113F6B1880][0000061134310000 50] WindowsServer, [000006113F6B01C0][00000611342DA000 50] WindowsClient, [000006113F6B2140][000006113F6E0000 50] IOS, [000006113F6B3100][000006113F6E5000 50] iPadAir2, [000006113F6B5400][000006113F6EA000 50] IPadPro, [000006113F6B5780][000006113F6E7800 50] iPadAir3, [000006113F6B47C0][000006113F6EC800 50] iPadAir4, [000006113F6B5940][000006113424A000 50] iPadMini4, [000006113F6B0700][000006113F700000 50] iPadMini5, [000006113F6B4EC0][000006113F705000 50] iPadMini6, [000006113F6B8500][000006113F70C800 50] iPhone6S, [000006113F6B8880][000006113F70A000 50] iPhone7, [000006113F6B8C00][000006113F707800 50] iPodTouch7, [000006113F6B8180][000006113F6E2800 50] iPhone6SPlus, [000006113F6B8A40][000006113F710000 50] iPhone7Plus, [000006113F6B0C40][000006113F715000 50] iPhoneSE, [000006113F6B7FC0][000006113F717800 50] iPhone8, [000006113F6B71C0][000006113F71A000 50] iPhone8Plus, [000006113F6B40C0][000006113F71C800 50] iPhoneX, [000006113F6B08C0][000006113F702800 50] iPhoneXS, [000006113F6B4440][000006113F730000 50] iPhoneXSMax, [000006113F6B6200][000006113F735000 50] iPhoneXR, [000006113F6B5B00][000006113F737800 50] iPhone11, [000006113F6B2D80][000006113F73A000 50] iPhone11Pro, [000006113F6B4980][000006113F73C800 50] iPhone11ProMax, [000006113F6B78C0][000006113F712800 50] iPhoneSE2, [000006113F6B3D40][000006113F740000 50] iPhone12Mini, [000006113F6B24C0][000006113F745000 50] iPhone12, [000006113F6B5CC0][000006113F747800 50] iPhone12Pro, [000006113F6B4280][000006113F74A000 50] iPhone12ProMax, [000006113F6B1340][000006113F74C800 50] iPhone13Mini, [000006113F6B5240][000006113F732800 50] iPhone13, [000006113F6B1DC0][000006113F750000 50] iPhone13Pro, [000006113F6B55C0][000006113F755000 50] iPhone13ProMax, [000006113F6B6040][000006113F757800 50] iPadPro105, [000006113F6B3B80][000006113F75A000 50] iPadPro129, [000006113F6B1500][000006113F75C800 50] iPadPro97, [000006113F6B7A80][000006113F742800 50] iPadPro2_129, [000006113F6B4600][000006113F760000 50] iPad5, [000006113F6B63C0][000006113F765000 50] iPad6, [000006113F6B0540][000006113F767800 50] iPad7, [000006113F6B6740][000006113F76A000 50] iPad8, [000006113F6B1A40][000006113F76C800 50] iPad9, [000006113F6B7380][000006113F752800 50] iPadPro11, [000006113F6B2F40][000006113F770000 50] iPadPro2_11, [000006113F6B86C0][000006113F775000 50] iPadPro3_11, [000006113F6B1180][000006113F777800 50] iPadPro3_129, [000006113F6B2A00][000006113F77A000 50] iPadPro4_129, [000006113F6B0FC0][000006113F77C800 50] iPadPro5_129, [000006113F6B7700][000006113F762800 50] AppleTV, [000006113F6B4B40][000006113F780000 50] AppleTV4K, [000006113F6B2BC0][000006113F785000 50] TVOS, [000006113F6BA800][000006113F78A000 50] Mac, [000006113F6BAB80][000006113F787800 50] MacEditor, [000006113F6BA480][000006113F78C800 50] MacClient, [000006113F6BA2C0][000006113F772800 50] MacServer, [000006113F6BAF00][000006113F792800 50] Linux, [000006113F6BB280][000006113F790000 50] LinuxEditor, [000006113F6B9BC0][000006113F797800 50] LinuxArm64Editor, [000006113F6B6900][000006113F79A000 50] LinuxArm64, [000006113F6B9300][000006113F79C800 50] LinuxClient, [000006113F6B9140][000006113F782800 50] LinuxArm64Client, [000006113F6BAD40][000006113F7A0000 50] LinuxServer, [000006113F6B9840][000006113F7A5000 50] LinuxArm64Server, [000006113F6B4D00][000006113F7A7800 50] Android, [000006113F6B7C40][000006113F7AA000 50] Android_Preview_OpenGL, [000006113F6B9680][000006113F7AC800 50] Android_Preview_Vulkan, [000006113F6B6AC0][000006113F795000 50] Android_Low, [000006113F6B94C0][000006113F7B0000 50] Android_Mid, [000006113F6B8340][000006113F7B5000 50] Android_High, [000006113F6BB600][000006113F7B7800 50] Android_Default, [000006113F6B6580][000006113F7BA000 50] Android_Adreno4xx, [000006113F6B2840][000006113F7BC800 50] Android_Adreno5xx_Low, [000006113F6B2300][000006113F7A2800 50] Android_Adreno5xx, [000006113F6B9A00][000006113F7C0000 50] Android_Adreno6xx, [000006113F6BA100][000006113F7C5000 50] Android_Adreno6xx_Vulkan, [000006113F6B0000][000006113F7C7800 50] Android_Adreno7xx, [000006113F6B5080][000006113F7CA000 50] Android_Adreno7xx_Vulkan, [000006113F6BB980][000006113F7CC800 50] Android_Mali_T6xx, [000006113F6B32C0][000006113F7B2800 50] Android_Mali_T7xx, [000006113F6B3800][000006113F7D0000 50] Android_Mali_T8xx, [000006113F6BBB40][000006113F7D5000 50] Android_Mali_G71, [000006113F6B5E80][000006113F7D7800 50] Android_Mali_G72, [000006113F6BB7C0][000006113F7DA000 50] Android_Mali_G72_Vulkan, [000006113F6B2680][000006113F7DC800 50] Android_Mali_G76, [000006113F6B0A80][000006113F7C2800 50] Android_Mali_G76_Vulkan, [000006113F6BC940][000006113F7E0000 50] Android_Mali_G77, [000006113F6B7540][000006113F7E5000 50] Android_Mali_G77_Vulkan, [000006113F6BC400][000006113F7E7800 50] Android_Mali_G78, [000006113F6B16C0][000006113F7EA000 50] Android_Mali_G78_Vulkan, [000006113F6BCB00][000006113F7EC800 50] Android_Mali_G710, [000006113F6B0E00][000006113F7D2800 50] Android_Mali_G710_Vulkan, [000006113F6B9F40][000006113F7F0000 50] Android_Xclipse_920, [000006113F6B9D80][000006113F7F5000 50] Android_Xclipse_920_Vulkan, [000006113F6B8F80][000006113F7F7800 50] Android_Vulkan_SM5, [000006113F6BD740][000006113F7FA000 50] Android_PowerVR_G6xxx, [000006113F6BB440][000006113F7FC800 50] Android_PowerVR_GT7xxx, [000006113F6BBD00][000006113F7E2800 50] Android_PowerVR_GE8xxx, [000006113F6BBEC0][0000061140190000 50] Android_PowerVR_GM9xxx, [000006113F6BC780][0000061140195000 50] Android_PowerVR_GM9xxx_Vulkan, [000006113F6BDAC0][0000061140197800 50] Android_TegraK1, [000006113F6B3F00][000006114019A000 50] Android_Unknown_Vulkan, [000006113F6BA9C0][000006114019C800 50] Oculus_Quest, [000006113F6BE8C0][000006113F7F2800 50] Oculus_Quest2, [000006113F6BD580][00000611401A0000 50] HoloLens, 
+[2022.12.06-05.31.28:845][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.06-05.31.28:932][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.12.06-05.31.29:126][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.06-05.31.29:126][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.06-05.31.29:126][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.06-05.31.29:126][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.06-05.31.29:126][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.06-05.31.29:166][  0]LogNetVersion: ZombieGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4264997134)
+[2022.12.06-05.31.29:617][  0]LogSlate: Border
+[2022.12.06-05.31.29:617][  0]LogSlate: BreadcrumbButton
+[2022.12.06-05.31.29:617][  0]LogSlate: Default
+[2022.12.06-05.31.29:617][  0]LogSlate: Icons.Save
+[2022.12.06-05.31.29:617][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.06-05.31.29:617][  0]LogSlate: ListView
+[2022.12.06-05.31.29:617][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.06-05.31.29:617][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.06-05.31.29:617][  0]LogSlate: TableView.DarkRow
+[2022.12.06-05.31.29:617][  0]LogSlate: TableView.Row
+[2022.12.06-05.31.29:617][  0]LogSlate: TreeView
+[2022.12.06-05.31.29:936][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.30:001][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.30:001][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.30:187][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.12.06-05.31.30:187][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.12.06-05.31.30:187][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.06-05.31.30:796][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3BD01F4E427C64338F5EF39A271DC895 | Instance: 9F51048E4C64B21B79BDA49CDC574FA9 (LEEEUNHYUK-10012).
+[2022.12.06-05.31.30:838][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.06-05.31.30:848][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.06-05.31.30:864][  0]LogPython: Using Python 3.9.7
+[2022.12.06-05.31.31:871][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.31:875][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.31:885][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.31:910][  0]LogUProjectInfo: Found projects:
+[2022.12.06-05.31.32:355][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.06-05.31.32:398][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.06-05.31.32:429][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.06-05.31.32:429][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.06-05.31.32:544][  0]LogCollectionManager: Loaded 0 collections in 0.002727 seconds
+[2022.12.06-05.31.32:682][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/Collections/' took 0.00s
+[2022.12.06-05.31.32:682][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Developers/gyu37/Collections/' took 0.00s
+[2022.12.06-05.31.32:682][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Collections/' took 0.00s
+[2022.12.06-05.31.33:287][  0]LogEngine: Initializing Engine...
+[2022.12.06-05.31.33:301][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.12.06-05.31.33:303][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.06-05.31.33:715][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.06-05.31.33:715][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.31.33:727][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.31.33:758][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.06-05.31.33:759][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.06-05.31.33:785][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-05.31.33:789][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-05.31.33:789][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-05.31.33:796][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-05.31.33:875][  0]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.06-05.31.33:876][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-05.31.33:892][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-05.31.33:892][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-05.31.33:893][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.06-05.31.33:893][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.06-05.31.33:895][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.06-05.31.33:895][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.06-05.31.33:895][  0]LogInit: FAudioDevice initialized.
+[2022.12.06-05.31.33:895][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.06-05.31.33:895][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.06-05.31.33:895][  0]LogInit: Texture streaming: Enabled
+[2022.12.06-05.31.33:936][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.12.06-05.31.33:948][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.06-05.31.33:975][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.06-05.31.33:985][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.06-05.31.33:985][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.12.06-05.31.35:768][  0]LogLiveCoding: Display: First instance in process group "UE_ZombieGame_0x2f26df6f", spawning console
+[2022.12.06-05.31.35:768][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.06-05.31.35:768][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.06-05.31.35:795][  0]LogInit: Transaction tracking system initialized
+[2022.12.06-05.31.35:880][  0]BlueprintLog: New page: 에디터 로드
+[2022.12.06-05.31.36:099][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.12.06-05.31.36:152][  0]TimingProfiler: Initialize
+[2022.12.06-05.31.36:152][  0]TimingProfiler: OnSessionChanged
+[2022.12.06-05.31.36:152][  0]LoadingProfiler: Initialize
+[2022.12.06-05.31.36:152][  0]LoadingProfiler: OnSessionChanged
+[2022.12.06-05.31.36:152][  0]NetworkingProfiler: Initialize
+[2022.12.06-05.31.36:152][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.06-05.31.36:152][  0]MemoryProfiler: Initialize
+[2022.12.06-05.31.36:152][  0]MemoryProfiler: OnSessionChanged
+[2022.12.06-05.31.36:928][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/' took 0.01s
+[2022.12.06-05.31.36:928][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.06-05.31.37:205][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.06-05.31.37:207][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.06-05.31.37:207][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.208
+[2022.12.06-05.31.37:207][  0]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-05.31.37:207][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.31.37:214][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.31.37:214][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.31.37:214][  0]MapCheck: New page: 맵 체크
+[2022.12.06-05.31.37:214][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.31.37:219][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.31.37:222][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.06-05.31.38:548][  0]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchUnderground\Meshes\SM_Light_2.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.38:549][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Materials/M_Emessive_2'
+[2022.12.06-05.31.40:912][  0]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchCenter\Meshes\SM_Corner_5.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.40:912][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Materials/M_Steel_2'
+[2022.12.06-05.31.41:336][  0]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchCenter\Meshes\SM_Wall_21.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.41:336][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ResearchUnderground/Materials/MasterMaterial/M_Steel_3'
+[2022.12.06-05.31.42:656][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ResearchMegaPack/ResearchCenter/Textures/T_Hdri_1_B.T_Hdri_1_B', its maximum texture size has been explicitly set to 512.
+[2022.12.06-05.31.43:045][  0]LogStaticMesh: StaticMesh /Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01.St_Sphere_01 should be resaved to improve async compilation performance.
+[2022.12.06-05.31.43:063][  0]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/MilitaryWeapSilver/FX/Meshes/St_Sphere_01)...
+[2022.12.06-05.31.43:138][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:138][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_206' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_207' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_208' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_209' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_210' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_211' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_212' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_229' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_230' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_231' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_232' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_233' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_234' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_235' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:139][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:152][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_224' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:152][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_25' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:152][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_26' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:152][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_29' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_30' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_31' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_32' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_33' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_34' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_35' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_36' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:176][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/Pistol/Cues/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:198][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/RocketLauncher/Cues/RocketLauncher_Reload_Cue.RocketLauncher_Reload_Cue:SoundCueGraph_50.SoundCueGraphNode_135' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:198][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/RocketLauncher/Cues/RocketLauncher_Reload_Cue.RocketLauncher_Reload_Cue:SoundCueGraph_50.SoundCueGraphNode_136' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:198][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/RocketLauncher/Cues/RocketLauncher_Reload_Cue.RocketLauncher_Reload_Cue:SoundCueGraph_50.SoundCueGraphNode_137' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:198][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/RocketLauncher/Cues/RocketLauncher_Reload_Cue.RocketLauncher_Reload_Cue:SoundCueGraph_50.SoundCueGraphNode_49' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:198][  0]LogBlueprint: Warning: Node '/Game/MilitaryWeapSilver/Sound/RocketLauncher/Cues/RocketLauncher_Reload_Cue.RocketLauncher_Reload_Cue:SoundCueGraph_50.SoundCueGraphNode_Root_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2022.12.06-05.31.43:333][  0]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_A)...
+[2022.12.06-05.31.45:565][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoadingDock'.
+[2022.12.06-05.31.45:565][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.31.45:565][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.31.45:565][  0]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-05.31.45:641][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-05.31.45:660][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.12.06-05.31.45:660][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-05.31.45:660][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.181ms.
+[2022.12.06-05.31.45:660][  0]LogFileHelpers: Loading map 'LoadingDock' took 8.454
+[2022.12.06-05.31.45:707][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.709
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: ================================================
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.06-05.31.45:707][  0]LogShaderCompilers: Display: ================================================
+[2022.12.06-05.31.45:801][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.06-05.31.45:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.31.45:819][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.31.45:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.31.45:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.31.45:868][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:868][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:873][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:873][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:878][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:878][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:882][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:882][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:895][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:895][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:900][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:900][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:905][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:905][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:910][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:914][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:914][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:920][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.06-05.31.45:920][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-05.31.45:920][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.12.06-05.31.46:692][  0]LogSlate: Took 0.003469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.06-05.31.46:706][  0]LogSlate: Took 0.005328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.06-05.31.47:403][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.06-05.31.47:481][  0]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2022.12.06-05.31.48:232][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.12.06-05.31.48:395][  0]LogSlate: Took 0.008333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.06-05.31.48:400][  0]LogSlate: Took 0.004772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.06-05.31.48:407][  0]LogSlate: Took 0.005281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.06-05.31.48:414][  0]LogSlate: Took 0.004861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.06-05.31.48:421][  0]LogSlate: Took 0.006395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.06-05.31.48:427][  0]LogSlate: Took 0.005908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.06-05.31.48:526][  0]LogViewport: Scene viewport resized to 1206x580, mode Windowed.
+[2022.12.06-05.31.48:729][  0]LogStall: Startup...
+[2022.12.06-05.31.48:731][  0]LogStall: Startup complete.
+[2022.12.06-05.31.48:757][  0]LogLoad: (Engine Initialization) Total time: 30.76 seconds
+[2022.12.06-05.31.48:757][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.06-05.31.48:847][  0]LogAssetRegistry: Asset discovery search completed in 20.4695 seconds
+[2022.12.06-05.31.48:883][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.12.06-05.31.48:945][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.06-05.31.49:581][  2]LogSlate: Took 0.004394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-05.31.51:433][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-05.31.54:644][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.06-05.31.55:385][187]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchFacility\Materials\MI_Blood_1.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.55:385][187]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Textures/T_Concrete_5_N'
+[2022.12.06-05.31.55:430][187]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchCenter\Meshes\SM_Cable_1.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.55:430][187]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Materials/M_Metal_10'
+[2022.12.06-05.31.55:485][187]LogLinker: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\ResearchMegaPack\ResearchCenter\Meshes\SM_Elevator_Colomn_1.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.12.06-05.31.55:485][187]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/SecretBase/Materials/M_Steel_2'
+[2022.12.06-05.31.57:291][187]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Maps/Untitled.Untitled
+[2022.12.06-05.31.57:292][187]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-05.31.57:292][187]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.31.57:292][187]LoadErrors: New page: 맵 로드중: Untitled.umap
+[2022.12.06-05.31.57:304][187]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.31.57:304][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.31.57:304][187]MapCheck: New page: 맵 체크
+[2022.12.06-05.31.57:304][187]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.31.57:324][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.31.57:336][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.06-05.31.57:370][187]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.31.57:373][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.31.57:394][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.12.06-05.31.57:402][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-05.31.57:553][187]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.06-05.31.57:553][187]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.31.57:553][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.31.57:554][187]LogAIModule: Creating AISystem for world Untitled
+[2022.12.06-05.31.57:869][187]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-05.31.58:095][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.12.06-05.31.58:121][187]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-05.31.58:122][187]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.435ms.
+[2022.12.06-05.31.58:122][187]LogFileHelpers: Loading map 'Untitled' took 0.830
+[2022.12.06-05.32.05:592][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.06-05.32.05:819][603]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Maps/LoadingDock.LoadingDock
+[2022.12.06-05.32.05:820][603]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/LoadingDock.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-05.32.05:820][603]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.32.05:820][603]LoadErrors: New page: 맵 로드중: LoadingDock.umap
+[2022.12.06-05.32.05:832][603]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.05:832][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.05:832][603]MapCheck: New page: 맵 체크
+[2022.12.06-05.32.05:832][603]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.32.05:845][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.32.05:870][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.06-05.32.05:879][603]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.05:881][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.05:902][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.06-05.32.05:909][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.12.06-05.32.06:003][603]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoadingDock'.
+[2022.12.06-05.32.06:003][603]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.32.06:003][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.32.06:003][603]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-05.32.06:638][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-05.32.06:717][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-05.32.06:726][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-05.32.06:726][603]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.18ms.
+[2022.12.06-05.32.06:726][603]LogFileHelpers: Loading map 'LoadingDock' took 0.907
+[2022.12.06-05.32.14:628][ 53]LogObjectTools: Deleting 1 worlds: /Game/_Main/Maps/Untitled.Untitled
+[2022.12.06-05.32.14:628][ 53]LogObjectTools: Currently 4 active worlds: /Game/_Main/Maps/LoadingDock.LoadingDock, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.12.06-05.32.14:651][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.12.06-05.32.16:090][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-05.32.16:096][ 53]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.16:100][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.16:103][ 53]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.06-05.32.16:103][ 53]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.16:103][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.16:123][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.06-05.32.16:130][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.06-05.32.16:137][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.06-05.32.22:627][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.06-05.32.26:960][686]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.12.06-05.32.26:965][686]LogContentBrowser: Creating deferred item: NewWorld
+[2022.12.06-05.32.26:979][687]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.12.06-05.32.30:625][906]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.12.06-05.32.30:626][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.32.30:629][906]LogContentBrowser: End creating deferred item NewWorld
+[2022.12.06-05.32.31:872][981]LogObjectTools: Deleting 1 worlds: /Game/_Main/Maps/NewWorld.NewWorld
+[2022.12.06-05.32.31:872][981]LogObjectTools: Currently 4 active worlds: /Game/_Main/Maps/LoadingDock.LoadingDock, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.12.06-05.32.31:878][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.06-05.32.32:959][981]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-05.32.32:964][981]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.32:965][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.32:965][981]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.06-05.32.32:965][981]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.32:965][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.32:972][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-05.32.32:977][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.06-05.32.32:983][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.06-05.32.44:774][523]LogSlate: Window '새 레벨' being destroyed
+[2022.12.06-05.32.44:781][523]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.32.44:791][523]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.32.44:791][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.44:791][523]MapCheck: New page: 맵 체크
+[2022.12.06-05.32.44:791][523]LightingResults: New page: 라이팅 빌드
+[2022.12.06-05.32.44:804][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.32.44:812][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.06-05.32.44:814][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.32.44:814][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.32.44:814][523]LogAIModule: Creating AISystem for world Untitled
+[2022.12.06-05.32.44:815][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.06-05.32.44:831][523]LoadErrors: New page: 새 맵
+[2022.12.06-05.32.56:356][189]LogSlate: Took 0.007615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.06-05.32.57:341][247]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004960 seconds
+[2022.12.06-05.32.57:341][247]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.06-05.32.57:341][247]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.06-05.32.57:599][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.32.57:603][248]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.06-05.32.57:605][248]LogSlate: Took 0.000681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.06-05.32.57:607][248]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.06-05.32.58:626][309]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.06-05.32.58:626][309]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.06-05.32.58:628][309]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.06-05.32.58:628][309]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-05.33.23:833][452]LogSlate: Window 'Save Level As' being destroyed
+[2022.12.06-05.33.23:906][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.33.23:911][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.06-05.33.23:914][452]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.33.23:914][452]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu06841C3F409801AFEE051CAA645C434A.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.33.23:932][452]LogFileHelpers: Saving map 'MainMenu' took 0.084
+[2022.12.06-05.33.23:935][452]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.33.23:935][452]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.33.25:624][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.12.06-05.33.25:625][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.33.25:625][553]Cmd: MAP LOAD FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-05.33.25:625][553]LightingResults: New page: Lighting Build
+[2022.12.06-05.33.25:625][553]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.12.06-05.33.25:626][553]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.33.25:626][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.33.25:626][553]MapCheck: New page: Map Check
+[2022.12.06-05.33.25:626][553]LightingResults: New page: Lighting Build
+[2022.12.06-05.33.25:631][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.33.25:632][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-05.33.25:633][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.12.06-05.33.25:633][553]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.33.25:634][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.33.25:634][553]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.06-05.33.25:644][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-05.33.25:652][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.06-05.33.25:662][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-05.33.25:662][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2022.12.06-05.33.25:662][553]LogFileHelpers: Loading map 'MainMenu' took 0.037
+[2022.12.06-05.33.29:890][807]LogDerivedDataCache: C:/Users/gyu37/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.566 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-05.34.10:302][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.34.10:307][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.12.06-05.34.10:310][634]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.34.10:311][634]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuE247365144D00FBDCB0F799CD4E5FFBB.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.34.10:330][634]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.34.10:330][634]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.34.32:867][936]LogViewport: Scene viewport resized to 1201x580, mode Windowed.
+[2022.12.06-05.34.32:901][938]LogViewport: Scene viewport resized to 1190x580, mode Windowed.
+[2022.12.06-05.34.32:940][940]LogViewport: Scene viewport resized to 1171x580, mode Windowed.
+[2022.12.06-05.34.32:978][942]LogViewport: Scene viewport resized to 1151x580, mode Windowed.
+[2022.12.06-05.34.33:000][943]LogViewport: Scene viewport resized to 1140x580, mode Windowed.
+[2022.12.06-05.34.33:022][944]LogViewport: Scene viewport resized to 1131x580, mode Windowed.
+[2022.12.06-05.34.33:059][946]LogViewport: Scene viewport resized to 1122x580, mode Windowed.
+[2022.12.06-05.34.33:080][947]LogViewport: Scene viewport resized to 1118x580, mode Windowed.
+[2022.12.06-05.34.33:115][949]LogViewport: Scene viewport resized to 1113x580, mode Windowed.
+[2022.12.06-05.34.33:163][951]LogViewport: Scene viewport resized to 1103x580, mode Windowed.
+[2022.12.06-05.34.33:199][953]LogViewport: Scene viewport resized to 1101x580, mode Windowed.
+[2022.12.06-05.34.46:100][ 21]LogSlate: Window 'Create New GameMode' being destroyed
+[2022.12.06-05.34.49:048][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.34.49:053][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.06-05.34.49:056][194]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.34.49:057][194]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuD067A1414AE4DCCA1DF850B472C972F3.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.34.49:066][194]LogFileHelpers: Saving map 'MainMenu' took 0.018
+[2022.12.06-05.34.49:077][194]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.34.49:077][194]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.34.56:160][312]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-05.34.58:846][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.34.58:851][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.12.06-05.34.58:854][464]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.34.58:854][464]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuBA49EBC4484787F3DE12E585C9CF22CF.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.34.58:873][464]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.34.58:873][464]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.35.07:414][728]LogViewport: Scene viewport resized to 1108x580, mode Windowed.
+[2022.12.06-05.35.07:451][730]LogViewport: Scene viewport resized to 1125x580, mode Windowed.
+[2022.12.06-05.35.07:489][732]LogViewport: Scene viewport resized to 1141x580, mode Windowed.
+[2022.12.06-05.35.07:526][734]LogViewport: Scene viewport resized to 1150x580, mode Windowed.
+[2022.12.06-05.35.07:564][736]LogViewport: Scene viewport resized to 1153x580, mode Windowed.
+[2022.12.06-05.35.07:603][738]LogViewport: Scene viewport resized to 1157x580, mode Windowed.
+[2022.12.06-05.35.10:841][926]LogEditorViewport: Clicking Background
+[2022.12.06-05.35.13:628][ 93]Cmd: r.Streaming.PoolSize 5000
+[2022.12.06-05.35.13:628][ 93]r.Streaming.PoolSize = "5000"
+[2022.12.06-05.35.13:709][ 98]LogContentStreaming: Texture pool size now 5000 MB
+[2022.12.06-05.35.15:632][213]LogViewport: Scene viewport resized to 1159x580, mode Windowed.
+[2022.12.06-05.35.15:669][215]LogViewport: Scene viewport resized to 1162x580, mode Windowed.
+[2022.12.06-05.35.15:707][217]LogViewport: Scene viewport resized to 1164x580, mode Windowed.
+[2022.12.06-05.35.15:746][219]LogViewport: Scene viewport resized to 1167x580, mode Windowed.
+[2022.12.06-05.35.15:796][222]LogViewport: Scene viewport resized to 1169x580, mode Windowed.
+[2022.12.06-05.35.15:831][224]LogViewport: Scene viewport resized to 1171x580, mode Windowed.
+[2022.12.06-05.35.15:877][226]LogViewport: Scene viewport resized to 1172x580, mode Windowed.
+[2022.12.06-05.35.15:916][228]LogViewport: Scene viewport resized to 1174x580, mode Windowed.
+[2022.12.06-05.35.16:003][233]LogViewport: Scene viewport resized to 1175x580, mode Windowed.
+[2022.12.06-05.35.16:040][235]LogViewport: Scene viewport resized to 1177x580, mode Windowed.
+[2022.12.06-05.35.16:171][242]LogViewport: Scene viewport resized to 1179x580, mode Windowed.
+[2022.12.06-05.35.16:275][248]LogViewport: Scene viewport resized to 1180x580, mode Windowed.
+[2022.12.06-05.35.16:562][265]LogViewport: Scene viewport resized to 1182x580, mode Windowed.
+[2022.12.06-05.35.16:601][267]LogViewport: Scene viewport resized to 1183x580, mode Windowed.
+[2022.12.06-05.35.16:648][269]LogViewport: Scene viewport resized to 1187x580, mode Windowed.
+[2022.12.06-05.35.16:682][271]LogViewport: Scene viewport resized to 1194x580, mode Windowed.
+[2022.12.06-05.35.16:728][273]LogViewport: Scene viewport resized to 1208x580, mode Windowed.
+[2022.12.06-05.35.16:763][275]LogViewport: Scene viewport resized to 1214x580, mode Windowed.
+[2022.12.06-05.35.16:810][277]LogViewport: Scene viewport resized to 1219x580, mode Windowed.
+[2022.12.06-05.35.16:895][282]LogViewport: Scene viewport resized to 1220x580, mode Windowed.
+[2022.12.06-05.35.16:935][284]LogViewport: Scene viewport resized to 1224x580, mode Windowed.
+[2022.12.06-05.35.17:188][299]LogViewport: Scene viewport resized to 1223x580, mode Windowed.
+[2022.12.06-05.35.17:234][301]LogViewport: Scene viewport resized to 1221x580, mode Windowed.
+[2022.12.06-05.35.17:267][303]LogViewport: Scene viewport resized to 1219x580, mode Windowed.
+[2022.12.06-05.35.17:299][304]LogViewport: Scene viewport resized to 1217x580, mode Windowed.
+[2022.12.06-05.35.17:337][306]LogViewport: Scene viewport resized to 1214x580, mode Windowed.
+[2022.12.06-05.35.17:383][308]LogViewport: Scene viewport resized to 1212x580, mode Windowed.
+[2022.12.06-05.35.17:401][309]LogViewport: Scene viewport resized to 1210x580, mode Windowed.
+[2022.12.06-05.35.17:500][315]LogViewport: Scene viewport resized to 1207x580, mode Windowed.
+[2022.12.06-05.35.17:539][317]LogViewport: Scene viewport resized to 1206x580, mode Windowed.
+[2022.12.06-05.35.17:575][319]LogViewport: Scene viewport resized to 1205x580, mode Windowed.
+[2022.12.06-05.35.18:546][377]LogViewport: Scene viewport resized to 1207x580, mode Windowed.
+[2022.12.06-05.35.18:587][379]LogViewport: Scene viewport resized to 1208x580, mode Windowed.
+[2022.12.06-05.35.21:326][543]LogViewport: Scene viewport resized to 1198x580, mode Windowed.
+[2022.12.06-05.35.21:464][551]LogViewport: Scene viewport resized to 1197x580, mode Windowed.
+[2022.12.06-05.35.21:517][554]LogViewport: Scene viewport resized to 1196x580, mode Windowed.
+[2022.12.06-05.35.22:132][590]LogViewport: Scene viewport resized to 1198x580, mode Windowed.
+[2022.12.06-05.35.22:191][593]LogViewport: Scene viewport resized to 1199x580, mode Windowed.
+[2022.12.06-05.35.22:345][602]LogViewport: Scene viewport resized to 1200x580, mode Windowed.
+[2022.12.06-05.35.22:409][605]LogViewport: Scene viewport resized to 1201x580, mode Windowed.
+[2022.12.06-05.35.22:628][618]LogViewport: Scene viewport resized to 1205x580, mode Windowed.
+[2022.12.06-05.35.22:822][629]LogViewport: Scene viewport resized to 1206x580, mode Windowed.
+[2022.12.06-05.35.24:662][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.35.24:667][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.06-05.35.24:669][736]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.35.24:669][736]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu900EE798467A78196F647EA80DB980CB.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.35.24:693][736]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.35.24:693][736]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.36.22:483][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-05.36.23:184][332]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: ================================================
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.06-05.36.23:190][332]LogShaderCompilers: Display: ================================================
+[2022.12.06-05.36.23:197][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.06-05.36.23:203][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.12.06-05.36.23:208][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.12.06-05.36.27:742][536]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.06-05.36.27:765][536]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.06-05.36.27:768][536]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.06-05.36.27:783][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.06-05.36.45:314][130]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu_W
+[2022.12.06-05.36.45:318][130]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.06-05.36.46:530][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.36.46:533][199]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.36.46:534][199]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W67E2F49340751B259170CD9DEA8DD06C.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.36.46:553][199]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.36.46:553][199]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.36.48:323][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.36.48:330][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.06-05.36.48:332][302]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.36.48:333][302]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu4E0E58264E602C0011C6009C4B8ADE02.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.36.48:352][302]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.36.48:352][302]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.36.50:876][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.06-05.36.50:941][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuGameMode" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Blueprints/MainMenuGameMode.uasset" SILENT=true
+[2022.12.06-05.36.50:944][449]LogSavePackage: Moving output files for package: /Game/Blueprints/MainMenuGameMode
+[2022.12.06-05.36.50:944][449]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuGameMode8ED15B1F4C2A4E052E859D817B672FD6.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/Blueprints/MainMenuGameMode.uasset'
+[2022.12.06-05.36.50:955][449]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2022.12.06-05.36.50:955][449]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMenuGameMode.MainMenuGameMode
+[2022.12.06-05.36.52:739][551]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.36.52:739][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.36.52:745][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.36.52:751][551]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.06-05.36.54:197][551]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.36.54:197][551]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.36.55:160][551]LogSlate: Took 0.003887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.06-05.36.55:168][551]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.06-05.36.58:325][626]LogSlate: Window 'MainMenu_W' being destroyed
+[2022.12.06-05.38.10:056][647]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.38.10:120][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.06-05.38.10:854][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.38.10:857][682]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.38.10:857][682]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W664887DD410267D5F58C7FB1FCA90E3E.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.38.10:870][682]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.38.10:870][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.38.36:968][629]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-05.38.45:625][135]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.38.45:667][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.12.06-05.38.46:050][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.38.46:053][154]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.38.46:053][154]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W7AEE04ED4FF2AEB7656F808B3569A9CE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.38.46:066][154]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.38.46:066][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.40.34:690][604]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.40.34:731][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.06-05.40.35:343][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.40.35:348][636]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.40.35:348][636]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W001762C24EA7D73BD357248F6E89630B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.40.35:360][636]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.40.35:360][636]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.41.11:400][545]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_Main/Widgets/MainMenu.MainMenu
+[2022.12.06-05.41.11:423][545]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.12.06-05.41.12:427][545]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2022.12.06-05.41.15:733][711]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.41.15:813][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.06-05.41.16:324][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.41.16:328][732]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.41.16:329][732]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W9FA9407842145490F58DC1812CADDE35.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.41.16:343][732]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.41.16:343][732]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.41.17:760][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.06-05.41.17:761][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.41.17:768][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.41.18:262][813]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.41.18:262][813]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.41.43:883][946]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.06-05.41.53:541][489]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.41.53:624][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.06-05.41.54:139][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.41.54:143][511]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.41.54:144][511]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_WC1B6D521403E3DD0C34B25A2CAA55A5B.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.41.54:158][511]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.41.54:158][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.43.08:126][399]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.43.08:181][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.06-05.43.08:817][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.43.08:821][430]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.43.08:822][430]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W88CB6D794A95F95456039D9B9CCFBA82.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.43.08:836][430]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.43.08:836][430]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.43.55:141][558]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.43.55:193][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.06-05.43.55:879][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.43.55:884][593]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.43.55:884][593]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_WD59CAD32487B6C6F2B311394A6D2DCCE.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.43.55:899][593]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.43.55:899][593]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.44.03:209][ 27]LogContentBrowser: Attempting asset rename: LoadingDock -> LoadingDock
+[2022.12.06-05.44.10:020][430]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.44.10:071][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.12.06-05.44.10:546][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.44.10:552][453]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.44.10:552][453]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W75AC333E43F4CBFC56EF9CA54723DAA5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.44.10:566][453]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.44.10:566][453]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.44.37:321][520]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.44.37:374][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.06-05.44.37:843][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.44.37:849][543]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.44.37:849][543]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W6DB49DC94A5F85FAE4C679B22DB2AF26.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.44.37:865][543]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.44.37:866][543]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.44.53:834][768]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.44.53:885][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.06-05.44.54:292][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.44.54:298][786]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.44.54:298][786]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_W85E55CEF4832E8773D559F9695DDF3ED.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.44.54:311][786]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.44.54:311][786]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.44.57:305][955]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Main/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.12.06-05.44.57:305][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.46.40:288][931]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-05.47.18:228][415]BlueprintLog: New page: Compile MainMenu
+[2022.12.06-05.47.18:279][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.06-05.47.18:765][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.47.18:806][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.06-05.47.18:811][438]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.47.18:811][438]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu5510D6F7453897BC73DE4A89C249B0E5.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.47.18:821][438]LogFileHelpers: Saving map 'MainMenu' took 0.057
+[2022.12.06-05.47.18:835][438]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.47.18:835][438]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.48.02:138][822]BlueprintLog: New page: Compile MainMenu
+[2022.12.06-05.48.02:196][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.06-05.48.02:679][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.48.02:719][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.06-05.48.02:725][845]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.48.02:725][845]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu9F1DB0AE472E5299503F3CAFDB20F5A9.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.48.02:735][845]LogFileHelpers: Saving map 'MainMenu' took 0.056
+[2022.12.06-05.48.02:750][845]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.48.02:750][845]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.48.19:245][617]BlueprintLog: New page: Compile MainMenu
+[2022.12.06-05.48.19:303][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.06-05.48.19:777][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.48.19:817][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.06-05.48.19:824][640]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.48.19:824][640]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuE19FC7DF499E26A86B2D23A8D4AC6A75.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.48.19:833][640]LogFileHelpers: Saving map 'MainMenu' took 0.057
+[2022.12.06-05.48.19:847][640]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.48.19:847][640]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.48.29:986][976]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.48.29:986][976]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.06-05.48.52:703][234]LogEditorTransaction: Undo Edit X
+[2022.12.06-05.48.53:188][243]LogEditorTransaction: Undo Edit X
+[2022.12.06-05.48.54:269][304]LogEditorTransaction: Undo Edit X
+[2022.12.06-05.49.18:118][728]BlueprintLog: New page: Compile MainMenu_W
+[2022.12.06-05.49.18:169][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.12.06-05.49.18:640][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainMenu_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset" SILENT=true
+[2022.12.06-05.49.18:646][746]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainMenu_W
+[2022.12.06-05.49.18:646][746]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenu_WC045D4DB47E912B624840796485F6E14.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainMenu_W.uasset'
+[2022.12.06-05.49.18:662][746]AssetCheck: New page: Asset Save: MainMenu_W
+[2022.12.06-05.49.18:662][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainMenu_W.MainMenu_W
+[2022.12.06-05.49.20:416][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-05.49.20:424][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-05.49.20:425][849]PIE: New page: PIE session: MainMenu (2022. 12. 6. 오후 11:49:20)
+[2022.12.06-05.49.20:428][849]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.06-05.49.20:428][849]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.06-05.49.20:428][849]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.06-05.49.20:429][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001117s)
+[2022.12.06-05.49.20:429][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/MainMenu.MainMenu to /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu (0.001189s)
+[2022.12.06-05.49.20:429][849]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.49.20:430][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.49.20:430][849]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.06-05.49.20:430][849]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2022.12.06-05.49.20:473][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.06-05.49.20:475][849]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-05.49.20:475][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-05.49.20:475][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-05.49.20:475][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-05.49.20:475][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-05.49.20:475][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-05.49.20:477][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-05.49.20:538][849]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Realtek(R) Audio)
+[2022.12.06-05.49.20:538][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-05.49.20:538][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-05.49.20:538][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-05.49.20:540][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.06-05.49.20:540][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.06-05.49.20:541][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.06-05.49.20:541][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.06-05.49.20:541][849]LogInit: FAudioDevice initialized.
+[2022.12.06-05.49.20:541][849]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.12.06-05.49.20:553][849]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.12.06-05.49.20:553][849]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.12.06-14.49.20
+[2022.12.06-05.49.20:553][849]LogWorld: Bringing up level for play took: 0.000318
+[2022.12.06-05.49.20:555][849]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.12.06-05.49.20:575][849]PIE: Server logged in
+[2022.12.06-05.49.20:576][849]PIE: Play in editor total start time 0.152 seconds.
+[2022.12.06-05.49.22:452][937]LogNet: Browse: /Game/_Main/Maps/LoadingDock
+[2022.12.06-05.49.22:452][937]LogLoad: LoadMap: /Game/_Main/Maps/LoadingDock
+[2022.12.06-05.49.22:452][937]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.06-05.49.22:453][937]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.49.22:453][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.49.22:529][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.49.22:551][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.06-05.49.22:694][937]LogAudio: Display: Audio Device (ID: 2) registered with world 'LoadingDock'.
+[2022.12.06-05.49.22:694][937]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.49.22:694][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.49.22:694][937]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-05.49.22:694][937]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2022.12.06-05.49.22:694][937]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-05.49.22:828][937]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.06-14.49.22
+[2022.12.06-05.49.22:828][937]LogWorld: Bringing up level for play took: 0.133217
+[2022.12.06-05.49.22:840][937]LogLoad: Took 0.387003 seconds to LoadMap(/Game/_Main/Maps/LoadingDock)
+[2022.12.06-05.49.22:859][937]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-05.49.22:859][937]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-05.49.27:751][209]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-05.49.28:011][224]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-05.49.28:637][260]LogBlueprintUserMessages: [BP_Zombie_C_4] 50.0
+[2022.12.06-05.49.29:997][338]LogBlueprintUserMessages: [BP_Zombie_C_4] 0.0
+[2022.12.06-05.49.31:290][412]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.06-05.49.35:972][680]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.06-05.49.42:289][ 37]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-05.49.44:503][163]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.06-05.49.44:879][184]LogBlueprintUserMessages: [BP_Zombie_C_1] 0.0
+[2022.12.06-05.49.46:254][262]LogBlueprintUserMessages: [BP_Zombie_C_0] 50.0
+[2022.12.06-05.49.49:003][420]LogBlueprintUserMessages: [BP_Zombie_C_0] 0.0
+[2022.12.06-05.50.00:254][ 72]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.06-05.50.00:652][ 95]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.06-05.50.01:310][133]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.06-05.50.02:258][188]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.06-05.50.05:507][376]LogBlueprintUserMessages: [BP_Zombie_C_7] 50.0
+[2022.12.06-05.50.10:529][667]LogBlueprintUserMessages: [BP_Zombie_C_6] 50.0
+[2022.12.06-05.50.12:417][776]LogBlueprintUserMessages: [BP_Zombie_C_6] 0.0
+[2022.12.06-05.50.14:117][872]LogBlueprintUserMessages: [BP_Zombie_C_7] 0.0
+[2022.12.06-05.50.19:131][164]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_18 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.50.21:196][278]LogCharacterMovement: BP_Zombie_C_19 is stuck and failed to move! Velocity: X=-45.25 Y=-39.40 Z=0.00 Location: X=8207.32 Y=3227.42 Z=-801.90 Normal: X=0.70 Y=-0.71 Z=0.00 PenetrationDepth:32.728 Actor:BP_Zombie_C_16 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.50.21:213][279]LogCharacterMovement: BP_Zombie_C_16 is stuck and failed to move! Velocity: X=-41.67 Y=-43.17 Z=0.00 Location: X=8181.34 Y=3253.81 Z=-799.85 Normal: X=-0.70 Y=0.71 Z=0.00 PenetrationDepth:30.963 Actor:BP_Zombie_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.50.21:591][297]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056725 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_12', movement 'Falling'
+[2022.12.06-05.50.26:575][574]LogBlueprintUserMessages: [BP_Zombie_C_14] 50.0
+[2022.12.06-05.50.26:930][594]LogBlueprintUserMessages: [BP_Zombie_C_14] 0.0
+[2022.12.06-05.50.27:322][616]LogBlueprintUserMessages: [BP_Zombie_C_15] 50.0
+[2022.12.06-05.50.27:661][635]LogBlueprintUserMessages: [BP_Zombie_C_15] 0.0
+[2022.12.06-05.50.27:716][638]LogCharacterMovement: BP_Zombie_C_13 is stuck and failed to move! Velocity: X=75.53 Y=17.75 Z=0.00 Location: X=9239.80 Y=99.97 Z=-1199.02 Normal: X=-0.22 Y=-0.05 Z=-0.97 PenetrationDepth:0.272 Actor:BP_Zombie_C_12 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.50.28:018][655]LogBlueprintUserMessages: [BP_Zombie_C_13] 50.0
+[2022.12.06-05.50.28:342][673]LogBlueprintUserMessages: [BP_Zombie_C_13] 0.0
+[2022.12.06-05.50.29:642][744]LogBlueprintUserMessages: [BP_Zombie_C_12] 50.0
+[2022.12.06-05.50.33:827][980]LogBlueprintUserMessages: [BP_Zombie_C_12] 0.0
+[2022.12.06-05.50.38:006][218]LogBlueprintUserMessages: [BP_Zombie_C_22] 50.0
+[2022.12.06-05.50.40:303][350]LogBlueprintUserMessages: [BP_Zombie_C_20] 50.0
+[2022.12.06-05.50.40:931][386]LogBlueprintUserMessages: [BP_Zombie_C_20] 0.0
+[2022.12.06-05.50.42:115][454]LogBlueprintUserMessages: [BP_Zombie_C_22] 0.0
+[2022.12.06-05.50.43:087][510]LogBlueprintUserMessages: [BP_Zombie_C_21] 50.0
+[2022.12.06-05.50.43:607][540]LogBlueprintUserMessages: [BP_Zombie_C_21] 0.0
+[2022.12.06-05.50.44:371][584]LogBlueprintUserMessages: [BP_Zombie_C_23] 50.0
+[2022.12.06-05.50.45:270][636]LogBlueprintUserMessages: [BP_Zombie_C_23] 0.0
+[2022.12.06-05.50.48:407][815]LogBlueprintUserMessages: [BP_Zombie_C_17] 50.0
+[2022.12.06-05.50.51:552][991]LogBlueprintUserMessages: [BP_Zombie_C_19] 50.0
+[2022.12.06-05.50.51:974][ 15]LogBlueprintUserMessages: [BP_Zombie_C_19] 0.0
+[2022.12.06-05.50.52:660][ 54]LogBlueprintUserMessages: [BP_Zombie_C_16] 50.0
+[2022.12.06-05.50.53:112][ 80]LogBlueprintUserMessages: [BP_Zombie_C_16] 0.0
+[2022.12.06-05.51.04:893][755]LogBlueprintUserMessages: [BP_Zombie_C_18] 50.0
+[2022.12.06-05.51.05:225][774]LogBlueprintUserMessages: [BP_Zombie_C_18] 0.0
+[2022.12.06-05.51.05:657][799]LogBlueprintUserMessages: [BP_Zombie_C_17] 0.0
+[2022.12.06-05.51.06:017][820]LogBlueprintUserMessages: [BP_Zombie_C_10] 50.0
+[2022.12.06-05.51.06:431][844]LogBlueprintUserMessages: [BP_Zombie_C_10] 0.0
+[2022.12.06-05.51.07:002][877]LogBlueprintUserMessages: [BP_Zombie_C_9] 50.0
+[2022.12.06-05.51.07:309][895]LogBlueprintUserMessages: [BP_Zombie_C_9] 0.0
+[2022.12.06-05.51.07:924][931]LogBlueprintUserMessages: [BP_Zombie_C_8] 50.0
+[2022.12.06-05.51.12:214][178]LogBlueprintUserMessages: [BP_Zombie_C_11] 50.0
+[2022.12.06-05.51.12:645][203]LogBlueprintUserMessages: [BP_Zombie_C_11] 0.0
+[2022.12.06-05.51.13:213][236]LogBlueprintUserMessages: [BP_Zombie_C_8] 0.0
+[2022.12.06-05.51.18:230][528]LogCharacterMovement: BP_Zombie_C_36 is stuck and failed to move! Velocity: X=-25.58 Y=-22.60 Z=0.00 Location: X=8183.99 Y=3253.77 Z=-799.85 Normal: X=-0.66 Y=0.75 Z=0.00 PenetrationDepth:36.275 Actor:BP_Zombie_C_39 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.19:364][588]LogCharacterMovement: BP_Zombie_C_25 is stuck and failed to move! Velocity: X=29.41 Y=-52.30 Z=0.00 Location: X=4168.85 Y=4334.54 Z=-801.76 Normal: X=-0.91 Y=-0.40 Z=0.00 PenetrationDepth:6.687 Actor:BP_Zombie_C_29 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.19:701][606]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=21.34 Y=-56.08 Z=0.00 Location: X=4253.34 Y=4371.91 Z=-801.90 Normal: X=0.92 Y=0.40 Z=0.00 PenetrationDepth:26.095 Actor:BP_Zombie_C_27 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.19:719][607]LogCharacterMovement: BP_Zombie_C_40 is stuck and failed to move! Velocity: X=-48.75 Y=-34.97 Z=0.00 Location: X=8234.47 Y=3196.40 Z=-801.91 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:23.303 Actor:BP_Zombie_C_41 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.19:760][609]LogCharacterMovement: BP_Zombie_C_47 is stuck and failed to move! Velocity: X=-4.91 Y=-33.78 Z=0.00 Location: X=9920.00 Y=5215.00 Z=-795.14 Normal: X=0.32 Y=0.95 Z=0.00 PenetrationDepth:32.609 Actor:BP_Zombie_C_43 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.22:693][766]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-52.09 Y=-29.77 Z=0.00 Location: X=8206.00 Y=3226.91 Z=-802.00 Normal: X=0.66 Y=-0.75 Z=0.00 PenetrationDepth:32.194 Actor:BP_Zombie_C_36 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.51.22:696][766]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056960 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_30', movement 'Falling'
+[2022.12.06-05.51.31:664][256]LogBlueprintUserMessages: [BP_Zombie_C_24] 50.0
+[2022.12.06-05.51.32:970][327]LogBlueprintUserMessages: [BP_Zombie_C_24] 0.0
+[2022.12.06-05.51.33:480][355]LogBlueprintUserMessages: [BP_Zombie_C_25] 50.0
+[2022.12.06-05.51.33:843][375]LogBlueprintUserMessages: [BP_Zombie_C_25] 0.0
+[2022.12.06-05.51.34:759][426]LogBlueprintUserMessages: [BP_Zombie_C_27] 50.0
+[2022.12.06-05.51.35:105][445]LogBlueprintUserMessages: [BP_Zombie_C_27] 0.0
+[2022.12.06-05.51.40:227][725]LogBlueprintUserMessages: [BP_Zombie_C_37] 50.0
+[2022.12.06-05.51.41:343][784]LogBlueprintUserMessages: [BP_Zombie_C_37] 0.0
+[2022.12.06-05.51.44:081][932]LogBlueprintUserMessages: [BP_Zombie_C_40] 50.0
+[2022.12.06-05.51.44:535][957]LogBlueprintUserMessages: [BP_Zombie_C_40] 0.0
+[2022.12.06-05.51.45:970][ 35]LogBlueprintUserMessages: [BP_Zombie_C_41] 50.0
+[2022.12.06-05.51.46:462][ 62]LogBlueprintUserMessages: [BP_Zombie_C_41] 0.0
+[2022.12.06-05.51.49:653][236]LogBlueprintUserMessages: [BP_Zombie_C_28] 50.0
+[2022.12.06-05.51.52:418][387]LogBlueprintUserMessages: [BP_Zombie_C_28] 0.0
+[2022.12.06-05.51.56:131][590]LogBlueprintUserMessages: [BP_Zombie_C_38] 50.0
+[2022.12.06-05.51.57:483][664]LogBlueprintUserMessages: [BP_Zombie_C_38] 0.0
+[2022.12.06-05.51.59:021][749]LogBlueprintUserMessages: [BP_Zombie_C_39] 50.0
+[2022.12.06-05.52.00:565][830]LogBlueprintUserMessages: [BP_Zombie_C_39] 0.0
+[2022.12.06-05.52.04:663][ 56]LogBlueprintUserMessages: [BP_Zombie_C_36] 50.0
+[2022.12.06-05.52.05:207][ 86]LogBlueprintUserMessages: [BP_Zombie_C_36] 0.0
+[2022.12.06-05.52.06:703][169]LogBlueprintUserMessages: [BP_Zombie_C_26] 50.0
+[2022.12.06-05.52.07:167][195]LogBlueprintUserMessages: [BP_Zombie_C_26] 0.0
+[2022.12.06-05.52.08:402][264]LogBlueprintUserMessages: [BP_Zombie_C_29] 50.0
+[2022.12.06-05.52.10:918][405]LogBlueprintUserMessages: [BP_Zombie_C_29] 0.0
+[2022.12.06-05.52.19:905][909]LogBlueprintUserMessages: [BP_Zombie_C_46] 50.0
+[2022.12.06-05.52.20:314][932]LogBlueprintUserMessages: [BP_Zombie_C_46] 0.0
+[2022.12.06-05.52.20:642][950]LogBlueprintUserMessages: [BP_Zombie_C_42] 50.0
+[2022.12.06-05.52.21:036][972]LogBlueprintUserMessages: [BP_Zombie_C_42] 0.0
+[2022.12.06-05.52.21:854][ 17]LogBlueprintUserMessages: [BP_Zombie_C_43] 50.0
+[2022.12.06-05.52.22:397][ 47]LogBlueprintUserMessages: [BP_Zombie_C_43] 0.0
+[2022.12.06-05.52.23:800][123]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056107 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_30', movement 'Falling'
+[2022.12.06-05.52.25:235][203]LogBlueprintUserMessages: [BP_Zombie_C_47] 50.0
+[2022.12.06-05.52.25:548][220]LogBlueprintUserMessages: [BP_Zombie_C_47] 0.0
+[2022.12.06-05.52.26:538][276]LogBlueprintUserMessages: [BP_Zombie_C_44] 50.0
+[2022.12.06-05.52.27:738][344]LogBlueprintUserMessages: [BP_Zombie_C_44] 0.0
+[2022.12.06-05.52.31:047][530]LogBlueprintUserMessages: [BP_Zombie_C_45] 50.0
+[2022.12.06-05.52.32:129][591]LogBlueprintUserMessages: [BP_Zombie_C_45] 0.0
+[2022.12.06-05.52.48:973][548]LogBlueprintUserMessages: [BP_Zombie_C_30] 50.0
+[2022.12.06-05.52.49:929][603]LogBlueprintUserMessages: [BP_Zombie_C_30] 0.0
+[2022.12.06-05.52.50:139][615]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=33.89 Y=4.06 Z=0.00 Location: X=9230.69 Y=140.25 Z=-1198.71 Normal: X=-0.23 Y=0.97 Z=0.00 PenetrationDepth:26.561 Actor:BP_Zombie_C_35 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.12.06-05.52.52:563][755]LogBlueprintUserMessages: [BP_Zombie_C_34] 50.0
+[2022.12.06-05.52.52:964][778]LogBlueprintUserMessages: [BP_Zombie_C_34] 0.0
+[2022.12.06-05.52.53:479][808]LogBlueprintUserMessages: [BP_Zombie_C_35] 50.0
+[2022.12.06-05.52.53:977][837]LogBlueprintUserMessages: [BP_Zombie_C_35] 0.0
+[2022.12.06-05.52.55:021][898]LogBlueprintUserMessages: [BP_Zombie_C_33] 50.0
+[2022.12.06-05.52.56:255][970]LogBlueprintUserMessages: [BP_Zombie_C_33] 0.0
+[2022.12.06-05.53.00:148][196]LogBlueprintUserMessages: [BP_Zombie_C_32] 50.0
+[2022.12.06-05.53.00:524][218]LogBlueprintUserMessages: [BP_Zombie_C_32] 0.0
+[2022.12.06-05.53.01:191][257]LogBlueprintUserMessages: [BP_Zombie_C_31] 50.0
+[2022.12.06-05.53.02:669][343]LogBlueprintUserMessages: [BP_Zombie_C_31] 30.0
+[2022.12.06-05.53.03:572][395]LogBlueprintUserMessages: [BP_Zombie_C_31] 10.0
+[2022.12.06-05.53.04:156][429]LogBlueprintUserMessages: [BP_Zombie_C_31] -10.0
+[2022.12.06-05.53.04:157][429]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.06-05.53.04:157][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.06-05.53.06:677][576]LogNet: Browse: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.53.06:677][576]LogLoad: LoadMap: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.53.06:677][576]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-05.53.06:679][576]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.53.06:682][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.53.06:765][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-05.53.06:775][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.06-05.53.06:778][576]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.06-05.53.06:781][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001589s)
+[2022.12.06-05.53.06:782][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/MainMenu.MainMenu to /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu (0.003138s)
+[2022.12.06-05.53.06:782][576]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.12.06-05.53.06:782][576]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-05.53.06:782][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-05.53.06:782][576]LogAIModule: Creating AISystem for world MainMenu
+[2022.12.06-05.53.06:782][576]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2022.12.06-05.53.06:782][576]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.12.06-05.53.06:782][576]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.12.06-14.53.06
+[2022.12.06-05.53.06:783][576]LogWorld: Bringing up level for play took: 0.000266
+[2022.12.06-05.53.06:783][576]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.06-05.53.06:784][576]LogLoad: Took 0.107196 seconds to LoadMap(/Game/_Main/Maps/UEDPIE_0_MainMenu)
+[2022.12.06-05.53.07:681][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.53.07:682][630]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_MainMenu
+[2022.12.06-05.53.07:682][630]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-05.53.07:682][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.53.07:692][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-05.53.07:700][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-05.53.07:744][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-05.53.07:745][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.06-05.53.07:747][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.06-05.53.07:752][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.06-05.53.07:788][631]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.06-05.53.37:249][689]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.06-05.53.37:257][689]LogBlueprint: Warning: [AssetLog] D:\Unreal\MyProject\UE_5_ZombieGame\ZombieGame\Content\_Main\Widgets\MainWidget_W.uasset: [Compiler] On Clicked (RetryButton)  does not have a valid matching component!
+[2022.12.06-05.53.37:326][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.12.06-05.53.38:226][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.06-05.53.38:267][733]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.06-05.53.38:267][733]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_W728F84AB422E25BC22AC598133BAA605.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.06-05.53.38:284][733]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.06-05.53.38:284][733]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.06-05.54.06:927][435]BlueprintLog: New page: Compile MainWidget_W
+[2022.12.06-05.54.07:013][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.06-05.54.07:775][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widgets/MainWidget_W" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset" SILENT=true
+[2022.12.06-05.54.07:815][474]LogSavePackage: Moving output files for package: /Game/_Main/Widgets/MainWidget_W
+[2022.12.06-05.54.07:815][474]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainWidget_WC7E8176944FE10EC1A3F80907DA5D984.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Widgets/MainWidget_W.uasset'
+[2022.12.06-05.54.07:833][474]AssetCheck: New page: Asset Save: MainWidget_W
+[2022.12.06-05.54.07:833][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widgets/MainWidget_W.MainWidget_W
+[2022.12.06-05.54.09:155][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Maps/MainMenu" FILE="D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.06-05.54.09:202][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.06-05.54.09:210][550]LogSavePackage: Moving output files for package: /Game/_Main/Maps/MainMenu
+[2022.12.06-05.54.09:211][550]LogSavePackage: Moving 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Saved/MainMenuF30F4E8947A4FEBC792C67926B42DF3C.tmp' to 'D:/Unreal/MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Maps/MainMenu.umap'
+[2022.12.06-05.54.09:236][550]AssetCheck: New page: Asset Save: MainMenu
+[2022.12.06-05.54.09:236][550]LogContentValidation: Display: Validating World /Game/_Main/Maps/MainMenu.MainMenu
+[2022.12.06-05.54.35:681][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
