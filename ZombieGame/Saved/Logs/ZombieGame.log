@@ -5279,3 +5279,721 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.06-15.21.10:333][320]LogContentValidation: Display: Validating World /Game/_Main/Maps/LoadingDock.LoadingDock
 [2022.12.06-15.21.16:234][658]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
 [2022.12.06-15.21.16:234][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.22.57:032][358]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.15:827][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.15:827][877]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.15:828][877]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_0
+[2022.12.06-15.23.15:831][877]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_0
+[2022.12.06-15.23.16:679][926]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.16:679][926]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.16:679][926]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_1
+[2022.12.06-15.23.16:680][926]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_1
+[2022.12.06-15.23.16:730][927]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.24:125][363]Cmd: TRANSACTION UNDO
+[2022.12.06-15.23.24:125][363]LogEditorTransaction: Undo Create Actors
+[2022.12.06-15.23.24:220][364]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.26:294][475]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.26:294][475]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.26:295][475]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_2
+[2022.12.06-15.23.26:296][475]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_2
+[2022.12.06-15.23.27:447][543]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.27:448][543]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.23.27:449][543]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_3
+[2022.12.06-15.23.27:449][543]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_3
+[2022.12.06-15.23.27:494][544]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.38:985][227]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.40:197][293]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.40:396][305]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.40:445][308]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.40:525][312]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:449][537]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:604][544]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:637][546]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:670][548]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:770][554]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:853][559]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:904][562]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.44:970][566]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.45:067][571]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.46:218][640]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.46:318][646]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.46:364][648]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.48:845][785]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.49:762][839]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.50:377][876]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.50:611][890]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.50:821][902]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.55:106][159]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.55:205][165]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.55:538][185]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.55:772][199]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.55:905][207]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.56:272][229]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.57:010][273]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.57:795][320]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.57:894][326]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.57:944][329]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.58:061][336]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.58:248][347]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.23.59:390][415]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:130][579]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:164][581]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:197][583]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:230][585]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:280][588]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:312][590]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.02:705][613]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.04:575][725]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.04:791][738]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.05:118][757]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.06:003][810]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.06:036][812]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.06:379][832]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.07:439][895]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.10:809][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.10:909][103]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.11:222][119]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.11:296][122]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.11:380][125]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.11:435][127]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.11:796][146]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.12:112][165]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.12:395][182]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.12:556][191]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.14:681][318]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.14:730][321]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.14:780][324]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.14:946][334]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.15:396][361]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.16:029][399]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.16:605][433]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.21:074][701]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.21:467][724]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.24:051][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.24.24:058][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.24.24:058][879]PIE: New page: PIE session: LoadingDock (2022. 12. 7. 오전 9:24:24)
+[2022.12.06-15.24.24:058][879]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.24.24:158][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.099723s)
+[2022.12.06-15.24.24:158][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.099799s)
+[2022.12.06-15.24.24:158][879]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.24.24:158][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.24.24:158][879]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.24.24:158][879]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2022.12.06-15.24.24:213][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.06-15.24.24:221][879]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.12.06-15.24.24:221][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.24.24:222][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.24.24:222][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.24.24:222][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.24.24:222][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.24.24:222][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.24.24:224][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.24.24:234][879]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.24.24:234][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.24.24:234][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.24.24:234][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.24.24:234][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.12.06-15.24.24:234][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.12.06-15.24.24:236][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.12.06-15.24.24:236][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.12.06-15.24.24:236][879]LogInit: FAudioDevice initialized.
+[2022.12.06-15.24.24:236][879]LogAudio: Display: Audio Device (ID: 22) registered with world 'LoadingDock'.
+[2022.12.06-15.24.24:248][879]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.24.24:269][879]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.24.24
+[2022.12.06-15.24.24:270][879]LogWorld: Bringing up level for play took: 0.021798
+[2022.12.06-15.24.24:272][879]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.12.06-15.24.24:283][879]PIE: Server logged in
+[2022.12.06-15.24.24:283][879]PIE: Play in editor total start time 0.226 seconds.
+[2022.12.06-15.24.24:297][879]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.24.24:297][879]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.24.24:297][879]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.24.28:144][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.24.28:144][104]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.24.28:145][104]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.24.28:148][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.24.28:158][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.24.28:169][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.24.28:216][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.24.28:220][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.12.06-15.24.28:222][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.12.06-15.24.28:237][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.06-15.24.28:293][105]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.12.06-15.24.38:822][734]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.24.38:822][734]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.24.38:823][734]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_4
+[2022.12.06-15.24.38:824][734]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_4
+[2022.12.06-15.24.39:511][775]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.24.39:511][775]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.24.39:512][775]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_5
+[2022.12.06-15.24.39:513][775]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_5
+[2022.12.06-15.24.39:560][776]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.42:343][932]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.46:110][152]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.46:274][158]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.47:722][240]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.48:041][255]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.48:385][267]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.52:136][490]Cmd: TRANSACTION UNDO
+[2022.12.06-15.24.52:136][490]LogEditorTransaction: Undo Clicking on Elements
+[2022.12.06-15.24.53:532][553]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.53:622][556]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.56:230][709]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.56:363][717]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.56:613][732]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.56:863][747]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.58:496][845]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.24.59:043][877]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.00:949][991]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.00:999][994]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:066][998]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:149][  3]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:216][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:299][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:349][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:416][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:666][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.01:929][ 49]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.03:764][159]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.03:813][162]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.03:880][166]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.03:980][172]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.04:214][186]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.04:263][189]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.04:313][192]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.04:563][207]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.04:830][223]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.05:063][237]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.05:558][266]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.08:909][466]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.09:812][520]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.09:861][523]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.09:996][531]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.11:112][598]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.11:478][619]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.12:580][685]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.12:681][691]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.12:914][705]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.13:064][714]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.13:147][719]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.13:330][730]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.14:931][826]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.15:298][847]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.16:587][923]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.19:121][ 75]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.19:420][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.19:738][112]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.19:904][122]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.20:071][132]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.20:205][140]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.20:437][154]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.20:671][168]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.21:048][190]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.25:211][439]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.25.26:643][525]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.25.26:650][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.25.26:651][525]PIE: New page: PIE session: LoadingDock (2022. 12. 7. 오전 9:25:26)
+[2022.12.06-15.25.26:690][525]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.25.26:784][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094227s)
+[2022.12.06-15.25.26:784][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.094342s)
+[2022.12.06-15.25.26:784][525]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.25.26:784][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.25.26:784][525]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.25.26:785][525]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2022.12.06-15.25.26:834][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.06-15.25.26:838][525]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.25.26:838][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.25.26:838][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.25.26:838][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.25.26:838][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.25.26:838][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.25.26:840][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.25.26:850][525]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.25.26:850][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.25.26:850][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.25.26:850][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.25.26:851][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.12.06-15.25.26:851][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.12.06-15.25.26:853][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.12.06-15.25.26:853][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.12.06-15.25.26:853][525]LogInit: FAudioDevice initialized.
+[2022.12.06-15.25.26:853][525]LogAudio: Display: Audio Device (ID: 23) registered with world 'LoadingDock'.
+[2022.12.06-15.25.26:863][525]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.25.26:884][525]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.25.26
+[2022.12.06-15.25.26:884][525]LogWorld: Bringing up level for play took: 0.021846
+[2022.12.06-15.25.26:886][525]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.12.06-15.25.26:897][525]PIE: Server logged in
+[2022.12.06-15.25.26:899][525]PIE: Play in editor total start time 0.248 seconds.
+[2022.12.06-15.25.26:912][525]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.25.26:912][525]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.25.26:912][525]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.25.26:912][525]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.25.37:881][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.25.37:881][175]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.25.37:882][175]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.25.37:885][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.25.37:899][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.25.37:909][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.25.37:956][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.25.37:960][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.12.06-15.25.37:961][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.12.06-15.25.37:975][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.12.06-15.25.38:029][176]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.12.06-15.26.04:199][743]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.26.04:199][743]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.26.04:200][743]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_6
+[2022.12.06-15.26.04:200][743]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_6
+[2022.12.06-15.26.04:839][781]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.26.04:839][781]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.BlockingVolume
+[2022.12.06-15.26.04:840][781]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_7
+[2022.12.06-15.26.04:841][781]LogActorFactory: Actor Factory spawned Class /Script/Engine.BlockingVolume as actor: BlockingVolume /Game/_Main/Maps/LoadingDock.LoadingDock:PersistentLevel.BlockingVolume_7
+[2022.12.06-15.26.04:888][782]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.06:836][898]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.08:136][972]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.08:210][975]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.08:294][978]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.08:377][981]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.08:759][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.09:043][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.09:574][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.10:625][113]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.10:658][115]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.10:691][117]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.10:725][119]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.10:975][134]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.11:025][137]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.11:108][142]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.11:142][144]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.11:275][152]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.11:425][160]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.12:208][207]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.12:243][209]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.12:275][211]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.12:542][226]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.14:890][366]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.14:940][369]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.14:973][371]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:007][373]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:056][376]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:105][379]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:189][384]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:339][393]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.15:989][431]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.17:116][498]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.17:215][504]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.17:469][517]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.17:586][522]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.17:709][526]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.19:060][602]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.21:011][718]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.23:468][864]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.23:551][869]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.23:700][878]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.23:868][888]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.23:951][893]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.24:150][905]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.24:351][916]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.26:196][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.27:063][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.27:130][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.27:855][125]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.32:859][409]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.32:893][411]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.33:176][428]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.33:443][444]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.34:452][504]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:437][623]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:487][626]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:604][633]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:637][635]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:687][638]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:721][640]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:771][643]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:820][646]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.36:904][651]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.37:020][658]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.37:104][663]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.37:964][714]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.45:476][150]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.45:563][154]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.47:873][280]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.47:919][282]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.50:638][445]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.51:417][480]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.51:680][495]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:364][656]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:414][659]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:464][662]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:515][665]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:565][668]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:614][671]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:664][674]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:914][689]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.54:997][694]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.55:381][717]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.55:854][745]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.59:335][953]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.26.59:461][958]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:213][205]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:279][209]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:346][213]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:446][219]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:479][221]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.10:540][224]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.11:502][281]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:369][333]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:420][336]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:453][338]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:502][341]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:552][344]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:636][349]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:670][351]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:753][356]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.12:817][359]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.13:397][393]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.15:575][523]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.16:707][591]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.17:206][620]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.18:751][712]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.18:784][714]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.18:851][718]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.18:917][722]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.18:984][726]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:084][732]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:167][737]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:267][743]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:300][745]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:334][747]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:368][749]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.19:581][761]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.25:727][129]LogNavigationDataBuild: Navigation data generation finished in /Game/_Main/Maps/LoadingDock.
+[2022.12.06-15.27.26:994][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.27.27:001][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.27.27:001][205]PIE: New page: PIE session: LoadingDock (2022. 12. 7. 오전 9:27:27)
+[2022.12.06-15.27.27:001][205]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.27.27:094][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094168s)
+[2022.12.06-15.27.27:094][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.094250s)
+[2022.12.06-15.27.27:094][205]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.27.27:095][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.27.27:095][205]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.27.27:095][205]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2022.12.06-15.27.27:144][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.12.06-15.27.27:149][205]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.27.27:149][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.27.27:149][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.27.27:149][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.27.27:149][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.27.27:149][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.27.27:151][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.27.27:162][205]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.27.27:162][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.27.27:162][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.27.27:162][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.27.27:162][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.12.06-15.27.27:162][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.12.06-15.27.27:163][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.12.06-15.27.27:163][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.12.06-15.27.27:163][205]LogInit: FAudioDevice initialized.
+[2022.12.06-15.27.27:163][205]LogAudio: Display: Audio Device (ID: 24) registered with world 'LoadingDock'.
+[2022.12.06-15.27.27:175][205]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.27.27:197][205]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.27.27
+[2022.12.06-15.27.27:197][205]LogWorld: Bringing up level for play took: 0.021885
+[2022.12.06-15.27.27:199][205]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.12.06-15.27.27:210][205]PIE: Server logged in
+[2022.12.06-15.27.27:211][205]PIE: Play in editor total start time 0.21 seconds.
+[2022.12.06-15.27.27:235][205]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.27:235][205]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.27:235][205]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.32:503][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.27.32:503][516]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.27.32:504][516]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.27.32:507][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.27.32:520][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.27.32:531][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.27.32:581][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-15.27.32:582][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.12.06-15.27.32:583][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.12.06-15.27.32:586][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.27.32:598][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.06-15.27.32:655][517]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.12.06-15.27.35:554][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-15.27.35:561][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.27.35:561][690]PIE: New page: PIE session: LoadingDock (2022. 12. 7. 오전 9:27:35)
+[2022.12.06-15.27.35:561][690]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.27.35:656][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093966s)
+[2022.12.06-15.27.35:656][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.094046s)
+[2022.12.06-15.27.35:656][690]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.27.35:656][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.27.35:657][690]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.27.35:657][690]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2022.12.06-15.27.35:704][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.06-15.27.35:708][690]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.27.35:708][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.27.35:708][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.27.35:708][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.27.35:708][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.27.35:708][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.27.35:710][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.27.35:720][690]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.27.35:720][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.27.35:720][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.27.35:720][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.27.35:721][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.12.06-15.27.35:721][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.12.06-15.27.35:722][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.12.06-15.27.35:722][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.12.06-15.27.35:722][690]LogInit: FAudioDevice initialized.
+[2022.12.06-15.27.35:722][690]LogAudio: Display: Audio Device (ID: 25) registered with world 'LoadingDock'.
+[2022.12.06-15.27.35:733][690]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.27.35:755][690]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.27.35
+[2022.12.06-15.27.35:756][690]LogWorld: Bringing up level for play took: 0.022222
+[2022.12.06-15.27.35:758][690]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.12.06-15.27.35:769][690]PIE: Server logged in
+[2022.12.06-15.27.35:770][690]PIE: Play in editor total start time 0.209 seconds.
+[2022.12.06-15.27.35:795][690]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.35:795][690]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.35:795][690]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.43:618][151]LogBlueprintUserMessages: [BP_Zombie_C_1] 50.0
+[2022.12.06-15.27.46:386][317]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.27.51:786][641]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.05:116][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.28.05:116][439]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.28.05:118][439]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.28.05:120][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.28.05:130][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.28.05:141][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.28.05:193][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.28.05:193][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.12.06-15.28.05:195][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.12.06-15.28.05:210][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.12.06-15.28.05:253][440]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.12.06-15.28.12:777][883]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.010937 seconds
+[2022.12.06-15.28.12:777][883]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.06-15.28.13:048][883]LogSlate: Took 0.001303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.06-15.28.13:052][883]LogSlate: Took 0.001232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.06-15.28.13:065][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.28.13:069][884]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.06-15.28.13:072][884]LogSlate: Took 0.001149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.06-15.28.13:076][884]LogSlate: Took 0.001207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.06-15.28.13:076][884]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.06-15.28.14:725][983]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.06-15.28.14:726][983]LogSlate: Took 0.000881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.06-15.28.15:072][  4]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.06-15.28.15:499][ 29]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.06-15.28.40:829][533]BlueprintLog: New page: BP_FirstPersonCharacter 컴파일
+[2022.12.06-15.28.40:970][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.06-15.28.41:277][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.06-15.28.41:328][535]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.06-15.28.41:329][535]LogSavePackage: Moving '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter7B56D5DC4A5864D54423A1A38DABF89D.tmp' to '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.06-15.28.41:345][535]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2022.12.06-15.28.41:345][535]LogContentValidation: Display: Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2022.12.06-15.28.41:619][551]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.06-15.28.41:619][551]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-15.28.42:410][599]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.12.06-15.28.42:417][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.28.42:417][599]PIE: New page: PIE 세션: LoadingDock (2022. 12. 7. 오전 9:28:42)
+[2022.12.06-15.28.42:418][599]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.28.42:511][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093831s)
+[2022.12.06-15.28.42:511][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.093958s)
+[2022.12.06-15.28.42:512][599]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.28.42:512][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.28.42:512][599]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.28.42:512][599]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.12.06-15.28.42:563][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.06-15.28.42:570][599]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.28.42:570][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.28.42:570][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.28.42:571][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.28.42:571][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.28.42:571][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.28.42:573][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.28.42:583][599]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.28.42:583][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.28.42:583][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.28.42:583][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.28.42:583][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.12.06-15.28.42:584][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.12.06-15.28.42:585][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.12.06-15.28.42:585][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.12.06-15.28.42:585][599]LogInit: FAudioDevice initialized.
+[2022.12.06-15.28.42:585][599]LogAudio: Display: Audio Device (ID: 26) registered with world 'LoadingDock'.
+[2022.12.06-15.28.42:596][599]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.28.42:618][599]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.28.42
+[2022.12.06-15.28.42:618][599]LogWorld: Bringing up level for play took: 0.021669
+[2022.12.06-15.28.42:620][599]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.12.06-15.28.42:631][599]PIE: 서버가 로그인했습니다.
+[2022.12.06-15.28.42:633][599]PIE: 에디터에서 플레이 총 시작 시간 0.215초입니다.
+[2022.12.06-15.28.42:657][599]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.42:657][599]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.42:657][599]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.42:657][599]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.47:497][886]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.28.49:751][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.28.49:751][ 20]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.28.49:752][ 20]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.28.49:755][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.28.49:770][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.28.49:781][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.28.49:828][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.28.49:831][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.06-15.28.49:833][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.06-15.28.49:848][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.12.06-15.28.49:904][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.12.06-15.29.11:507][304]BlueprintLog: New page: BP_FirstPersonCharacter 컴파일
+[2022.12.06-15.29.11:643][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.06-15.29.12:143][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.06-15.29.12:195][317]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.06-15.29.12:195][317]LogSavePackage: Moving '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter352F30D94A593CC09A77248507999818.tmp' to '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.06-15.29.12:210][317]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2022.12.06-15.29.12:210][317]LogContentValidation: Display: Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2022.12.06-15.29.13:362][386]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.12.06-15.29.13:370][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.29.13:370][386]PIE: New page: PIE 세션: LoadingDock (2022. 12. 7. 오전 9:29:13)
+[2022.12.06-15.29.13:370][386]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.29.13:464][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094250s)
+[2022.12.06-15.29.13:464][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.094332s)
+[2022.12.06-15.29.13:464][386]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.29.13:464][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.29.13:465][386]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.29.13:465][386]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2022.12.06-15.29.13:516][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.06-15.29.13:523][386]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.29.13:523][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.29.13:523][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.29.13:524][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.29.13:524][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.29.13:524][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.29.13:526][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.29.13:536][386]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.29.13:536][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.29.13:536][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.29.13:536][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.29.13:536][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.12.06-15.29.13:536][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.12.06-15.29.13:538][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.12.06-15.29.13:538][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.12.06-15.29.13:538][386]LogInit: FAudioDevice initialized.
+[2022.12.06-15.29.13:538][386]LogAudio: Display: Audio Device (ID: 27) registered with world 'LoadingDock'.
+[2022.12.06-15.29.13:548][386]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.29.13:569][386]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.29.13
+[2022.12.06-15.29.13:570][386]LogWorld: Bringing up level for play took: 0.021898
+[2022.12.06-15.29.13:572][386]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.12.06-15.29.13:583][386]PIE: 서버가 로그인했습니다.
+[2022.12.06-15.29.13:584][386]PIE: 에디터에서 플레이 총 시작 시간 0.214초입니다.
+[2022.12.06-15.29.13:609][386]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.13:609][386]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.13:609][386]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.14:874][459]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.20:474][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.29.20:474][793]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.29.20:475][793]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.29.20:478][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.29.20:490][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.29.20:500][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.29.20:549][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.29.20:553][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.06-15.29.20:554][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.06-15.29.20:569][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.12.06-15.29.20:631][794]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.12.06-15.29.33:414][553]BlueprintLog: New page: BP_FirstPersonCharacter 컴파일
+[2022.12.06-15.29.33:552][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.06-15.29.33:921][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_FirstPersonCharacter" FILE="../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.12.06-15.29.33:973][559]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_FirstPersonCharacter
+[2022.12.06-15.29.33:973][559]LogSavePackage: Moving '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Saved/BP_FirstPersonCharacter64621B8A44673191D0299DB2DDAFDB6F.tmp' to '../../../../MyProject/UE_5_ZombieGame/ZombieGame/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.12.06-15.29.33:990][559]AssetCheck: New page: 에셋 저장:  BP_FirstPersonCharacter
+[2022.12.06-15.29.33:990][559]LogContentValidation: Display: Blueprint /Game/_Main/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter 유효성 검사 중
+[2022.12.06-15.29.35:251][635]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2022.12.06-15.29.35:259][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-15.29.35:259][635]PIE: New page: PIE 세션: LoadingDock (2022. 12. 7. 오전 9:29:35)
+[2022.12.06-15.29.35:259][635]LogPlayLevel: Creating play world package: /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.29.35:352][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093603s)
+[2022.12.06-15.29.35:352][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Maps/LoadingDock.LoadingDock to /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock (0.093678s)
+[2022.12.06-15.29.35:352][635]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-15.29.35:352][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-15.29.35:352][635]LogAIModule: Creating AISystem for world LoadingDock
+[2022.12.06-15.29.35:353][635]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2022.12.06-15.29.35:404][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.06-15.29.35:412][635]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-15.29.35:412][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-15.29.35:412][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-15.29.35:412][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-15.29.35:412][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-15.29.35:412][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-15.29.35:414][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-15.29.35:424][635]LogAudioMixer: Display: Using Audio Hardware Device 스피커(USBZH5K-ENC)
+[2022.12.06-15.29.35:425][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-15.29.35:425][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-15.29.35:425][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-15.29.35:425][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.12.06-15.29.35:425][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.12.06-15.29.35:426][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.12.06-15.29.35:426][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.12.06-15.29.35:426][635]LogInit: FAudioDevice initialized.
+[2022.12.06-15.29.35:426][635]LogAudio: Display: Audio Device (ID: 28) registered with world 'LoadingDock'.
+[2022.12.06-15.29.35:433][635]LogLoad: Game class is 'ZombieGameMode_C'
+[2022.12.06-15.29.35:456][635]LogWorld: Bringing World /Game/_Main/Maps/UEDPIE_0_LoadingDock.LoadingDock up for play (max tick rate 60) at 2022.12.07-00.29.35
+[2022.12.06-15.29.35:456][635]LogWorld: Bringing up level for play took: 0.022045
+[2022.12.06-15.29.35:458][635]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.12.06-15.29.35:469][635]PIE: 서버가 로그인했습니다.
+[2022.12.06-15.29.35:470][635]PIE: 에디터에서 플레이 총 시작 시간 0.212초입니다.
+[2022.12.06-15.29.35:496][635]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.35:497][635]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.36:227][676]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.38:511][813]LogAudio: Warning: Detected orphaned looping sound 'Siren_Cue'.
+[2022.12.06-15.29.53:232][694]LogBlueprintUserMessages: [BP_Zombie_C_2] 50.0
+[2022.12.06-15.29.53:533][712]LogBlueprintUserMessages: [BP_Zombie_C_2] 0.0
+[2022.12.06-15.29.56:549][893]LogBlueprintUserMessages: [BP_Zombie_C_3] 50.0
+[2022.12.06-15.29.56:882][913]LogBlueprintUserMessages: [BP_Zombie_C_3] 0.0
+[2022.12.06-15.29.57:666][960]LogBlueprintUserMessages: [BP_Zombie_C_5] 50.0
+[2022.12.06-15.29.57:966][978]LogBlueprintUserMessages: [BP_Zombie_C_5] 0.0
+[2022.12.06-15.29.58:898][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.29.58:898][ 32]LogWorld: BeginTearingDown for /Game/_Main/Maps/UEDPIE_0_LoadingDock
+[2022.12.06-15.29.58:899][ 32]LogWorld: UWorld::CleanupWorld for LoadingDock, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-15.29.58:902][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.29.58:910][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-15.29.58:921][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-15.29.58:970][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-15.29.58:972][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.06-15.29.58:973][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.06-15.29.58:988][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.06-15.29.59:046][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_53
